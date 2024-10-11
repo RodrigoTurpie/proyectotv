@@ -10,12 +10,13 @@
     margin: auto;
     width: 200px;
     border-radius: 8px;
-    min-height: 230px;
+    min-height: 260px;
     overflow: hidden;
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
     transform: translateY(0);
     transition:transform 0.3s;
     cursor:pointer;
+    background: #fff;
   }
   .card:hover{
     transform: translateY(-10px);

@@ -2,7 +2,7 @@ export const canales= [
     {
      "id": "1",
      "nombre": "Dreamworks",
-     "channelTelsur": 3,
+     "channelTelsur":" 3",
      "channelGtd": 3,
      "encoder": "http://172.19.14.157/",
      "nombreEncoder": "TL-HOST_157",
@@ -16,7 +16,7 @@ export const canales= [
     {
      "id": "2",
      "nombre": "TOONCAST",
-     "channelTelsur": 4,
+     "channelTelsur":" 4",
      "channelGtd": 4,
      "encoder": "http://172.19.14.157/",
      "nombreEncoder": "TL-HOST_157",
@@ -30,7 +30,7 @@ export const canales= [
     {
      "id": "3",
      "nombre": "BABY TV",
-     "channelTelsur": 6,
+     "channelTelsur":" 6",
      "channelGtd": 6,
      "encoder": "http://172.19.14.118/",
      "nombreEncoder": "TL-HOST_118",
@@ -44,7 +44,7 @@ export const canales= [
     {
      "id": "4",
      "nombre": "NICK JUNIOR",
-     "channelTelsur": 7,
+     "channelTelsur":" 7",
      "channelGtd": 7,
      "encoder": "http://172.19.14.113/",
      "nombreEncoder": "TL-HOST_113",
@@ -58,7 +58,7 @@ export const canales= [
     {
      "id": "5",
      "nombre": "DISNEY JUNIOR",
-     "channelTelsur": 8,
+     "channelTelsur":" 8",
      "channelGtd": 8,
      "encoder": "http://172.19.14.112/",
      "nombreEncoder": "TL-HOST_112",
@@ -72,7 +72,7 @@ export const canales= [
     {
      "id": "6",
      "nombre": "DISCOVERY KIDS",
-     "channelTelsur": 9,
+     "channelTelsur":" 9",
      "channelGtd": 10,
      "encoder": "http://172.19.14.156/",
      "nombreEncoder": "TL-HOST_156",
@@ -86,7 +86,7 @@ export const canales= [
     {
      "id": "7",
      "nombre": "NICKELODEON",
-     "channelTelsur": 10,
+     "channelTelsur":" 10",
      "channelGtd": 11,
      "encoder": "http://172.19.14.113/",
      "nombreEncoder": "TL-HOST_113",
@@ -100,7 +100,7 @@ export const canales= [
     {
      "id": "8",
      "nombre": "Cartoonito",
-     "channelTelsur": 11,
+     "channelTelsur":" 11",
      "channelGtd": 13,
      "supplier": "TL-HOST_125",
      "encoder": "http://172.19.14.125/",
@@ -114,7 +114,7 @@ export const canales= [
     {
      "id": "9",
      "nombre": "CARTOON NETWORK",
-     "channelTelsur": 12,
+     "channelTelsur":" 12",
      "channelGtd": 14,
      "encoder": "http://172.19.14.112/",
      "nombreEncoder": "TL-HOST_112",
@@ -128,7 +128,7 @@ export const canales= [
     {
      "id": "10",
      "nombre": "ZooMoo",
-     "channelTelsur": 13,
+     "channelTelsur":" 13",
      "channelGtd": 12,
      "encoder": "http://172.19.14.156/",
      "nombreEncoder": "TL-HOST_156",
@@ -142,7 +142,7 @@ export const canales= [
     {
      "id": "11",
      "nombre": "DISNEY",
-     "channelTelsur": 14,
+     "channelTelsur":" 14",
      "channelGtd": 9,
      "encoder": "http://172.19.14.112/",
      "nombreEncoder": "TL-HOST_112",
@@ -156,7 +156,7 @@ export const canales= [
     {
      "id": "12",
      "nombre": "ETC TV",
-     "channelTelsur": 15,
+     "channelTelsur":" 15",
      "channelGtd": 15,
      "adsl": "239.255.2.165",
      "fca": "239.255.2.165",
@@ -168,7 +168,7 @@ export const canales= [
     {
      "id": "13",
      "nombre": "Ntv",
-     "channelTelsur": 16,
+     "channelTelsur":" 16",
      "adsl": "Cambiar",
      "fca": "239.255.2.165",
      "mpeg4": "239.255.2.165",
@@ -179,7 +179,7 @@ export const canales= [
     {
      "id": "14",
      "nombre": "Paramount ChannelTelsur HD",
-     "channelTelsur": 17,
+     "channelTelsur":" 17",
      "adsl": "Cambiar",
      "fca": "239.255.2.165",
      "mpeg4": "239.255.2.165",
@@ -190,7 +190,7 @@ export const canales= [
     {
      "id": "15",
      "nombre": "TELSUR",
-     "channelTelsur": 18,
+     "channelTelsur":" 18",
      "adsl": "239.255.2.106",
      "fca": "239.255.2.106",
      "mpeg4": "239.255.2.106",
@@ -201,7 +201,7 @@ export const canales= [
     {
      "id": "16",
      "nombre": "Canal 13 Cable",
-     "channelTelsur": 21,
+     "channelTelsur":" 21",
      "adsl": "239.255.2.131",
      "fca": "239.255.2.25",
      "mpeg4": "239.255.2.125",
@@ -212,7 +212,7 @@ export const canales= [
     {
      "id": "17",
      "nombre": "TV+",
-     "channelTelsur": 22,
+     "channelTelsur":" 22",
      "adsl": "239.255.2.111",
      "fca": "239.255.2.111",
      "mpeg4": "239.255.2.124",
@@ -223,7 +223,7 @@ export const canales= [
     {
      "id": "18",
      "nombre": "Red TV",
-     "channelTelsur": 24,
+     "channelTelsur":" 24",
      "adsl": "239.255.2.10",
      "fca": "239.255.2.10",
      "mpeg4": "239.255.3.123",
@@ -234,7 +234,7 @@ export const canales= [
     {
      "id": "19",
      "nombre": "TVN CNCP",
-     "channelTelsur": 25,
+     "channelTelsur":" 25",
      "adsl": "239.255.3.72 ",
      "fca": "239.255.5.79 / Cncp 239.255.3.73 / Tmco 239.255.3.79",
      "mpeg4": "239.255.3.47",
@@ -245,7 +245,7 @@ export const canales= [
     {
      "id": "20",
      "nombre": "TVN TMCO",
-     "channelTelsur": 25,
+     "channelTelsur":" 25",
      "adsl": "239.255.3.78",
      "fca": "239.255.5.79 / Cncp 239.255.3.73 / Tmco 239.255.3.79",
      "mpeg4": "239.255.3.47",
@@ -256,7 +256,7 @@ export const canales= [
     {
      "id": "21",
      "nombre": "TVN de Chile Canal 7",
-     "channelTelsur": 25,
+     "channelTelsur":" 25",
      "adsl": "239.255.2.79",
      "fca": "239.255.5.79 / Cncp 239.255.3.73 / Tmco 239.255.3.79",
      "mpeg4": "239.255.3.47",
@@ -267,7 +267,7 @@ export const canales= [
     {
      "id": "22",
      "nombre": "Megavision Canal 6",
-     "channelTelsur": 26,
+     "channelTelsur":" 26",
      "adsl": "239.255.2.77",
      "fca": "239.255.3.77",
      "mpeg4": "239.255.2.145",
@@ -278,7 +278,7 @@ export const canales= [
     {
      "id": "23",
      "nombre": "Chilevision Canal 11",
-     "channelTelsur": 27,
+     "channelTelsur":" 27",
      "adsl": "239.255.2.76",
      "fca": "239.255.5.76",
      "mpeg4": "239.255.3.148",
@@ -289,7 +289,7 @@ export const canales= [
     {
      "id": "24",
      "nombre": "UCTV Canal 13",
-     "channelTelsur": 28,
+     "channelTelsur":" 28",
      "adsl": "239.255.2.78",
      "fca": "239.255.5.78",
      "mpeg4": "239.255.3.155",
@@ -300,7 +300,7 @@ export const canales= [
     {
      "id": "25",
      "nombre": "CANAL 9 Bio Bio",
-     "channelTelsur": 29,
+     "channelTelsur":" 29",
      "adsl": "239.255.2.132",
      "fca": "239.255.2.132",
      "mpeg4": "239.255.2.132",
@@ -311,7 +311,7 @@ export const canales= [
     {
      "id": "26",
      "nombre": "VIDA SOCIAL TV",
-     "channelTelsur": 30,
+     "channelTelsur":" 30",
      "adsl": "239.255.3.58",
      "fca": "239.255.3.58",
      "mpeg4": "239.255.2.141",
@@ -322,7 +322,7 @@ export const canales= [
     {
      "id": "27",
      "nombre": "CANAL TENDENCIAS PRIME",
-     "channelTelsur": 31,
+     "channelTelsur":" 31",
      "adsl": "239.255.5.139",
      "fca": "239.255.5.139",
      "mpeg4": "239.255.5.140",
@@ -333,7 +333,7 @@ export const canales= [
     {
      "id": "28",
      "nombre": "UA",
-     "channelTelsur": 34,
+     "channelTelsur":" 34",
      "adsl": "239.255.2.134",
      "fca": "239.255.2.134",
      "mpeg4": "239.255.2.18",
@@ -344,7 +344,7 @@ export const canales= [
     {
      "id": "29",
      "nombre": "Zona Latina",
-     "channelTelsur": 35,
+     "channelTelsur":" 35",
      "adsl": "239.255.2.81",
      "fca": "239.255.2.81",
      "mpeg4": "239.255.3.81",
@@ -355,7 +355,7 @@ export const canales= [
     {
      "id": "30",
      "nombre": "Via X",
-     "channelTelsur": 36,
+     "channelTelsur":" 36",
      "adsl": "239.255.2.80",
      "fca": "239.255.2.80",
      "mpeg4": "239.255.3.80",
@@ -366,7 +366,7 @@ export const canales= [
     {
      "id": "31",
      "nombre": "ARTV",
-     "channelTelsur": 37,
+     "channelTelsur":" 37",
      "adsl": "239.255.2.241",
      "fca": "239.255.2.241",
      "mpeg4": "239.255.2.241",
@@ -377,7 +377,7 @@ export const canales= [
     {
      "id": "32",
      "nombre": "TVU",
-     "channelTelsur": 38,
+     "channelTelsur":" 38",
      "adsl": "239.255.2.133",
      "fca": "239.255.2.133",
      "mpeg4": "239.255.2.133",
@@ -388,7 +388,7 @@ export const canales= [
     {
      "id": "33",
      "nombre": "I-NET TELEVISIÓN",
-     "channelTelsur": 39,
+     "channelTelsur":" 39",
      "adsl": "239.255.2.140",
      "fca": "239.255.2.140",
      "mpeg4": "239.255.2.140",
@@ -399,7 +399,7 @@ export const canales= [
     {
      "id": "34",
      "nombre": "ROCCO TV",
-     "channelTelsur": 41,
+     "channelTelsur":" 41",
      "adsl": "239.255.2.151",
      "fca": "239.255.2.151",
      "mpeg4": "239.255.2.151",
@@ -410,7 +410,7 @@ export const canales= [
     {
      "id": "35",
      "nombre": "COOL TV",
-     "channelTelsur": 42,
+     "channelTelsur":" 42",
      "adsl": "239.255.2.150",
      "fca": "239.255.2.150",
      "mpeg4": "239.255.2.13",
@@ -421,7 +421,7 @@ export const canales= [
     {
      "id": "36",
      "nombre": "Valdivia TV",
-     "channelTelsur": 43,
+     "channelTelsur":" 43",
      "adsl": "Cambiar",
      "fca": "239.255.2.150",
      "mpeg4": "239.255.2.13",
@@ -432,7 +432,7 @@ export const canales= [
     {
      "id": "37",
      "nombre": "ISB TV",
-     "channelTelsur": 44,
+     "channelTelsur":" 44",
      "adsl": "239.255.2.229",
      "fca": "239.255.2.229",
      "mpeg4": "239.255.2.229",
@@ -443,7 +443,7 @@ export const canales= [
     {
      "id": "38",
      "nombre": "GVTV",
-     "channelTelsur": 45,
+     "channelTelsur":" 45",
      "adsl": "Cambiar",
      "fca": "239.255.2.103",
      "mpeg4": "239.255.2.103",
@@ -454,7 +454,7 @@ export const canales= [
     {
      "id": "39",
      "nombre": "OSORNO TV+",
-     "channelTelsur": 46,
+     "channelTelsur":" 46",
      "adsl": "239.255.2.226",
      "fca": "239.255.2.27",
      "mpeg4": "239.255.2.226",
@@ -465,7 +465,7 @@ export const canales= [
     {
      "id": "40",
      "nombre": "CANAL DEL SUR",
-     "channelTelsur": 47,
+     "channelTelsur":" 47",
      "adsl": "239.255.2.225",
      "fca": "239.255.2.225",
      "mpeg4": "239.255.2.225",
@@ -476,7 +476,7 @@ export const canales= [
     {
      "id": "41",
      "nombre": "UFROVISION",
-     "channelTelsur": 48,
+     "channelTelsur":" 48",
      "adsl": "239.255.2.143",
      "fca": "239.255.2.143",
      "mpeg4": "239.255.3.63",
@@ -487,7 +487,7 @@ export const canales= [
     {
      "id": "42",
      "nombre": "SANTA MARÍA",
-     "channelTelsur": 49,
+     "channelTelsur":" 49",
      "adsl": "239.255.2.240",
      "fca": "239.255.2.240",
      "mpeg4": "239.255.2.240",
@@ -498,7 +498,7 @@ export const canales= [
     {
      "id": "43",
      "nombre": "CANAL LLANQUIHUE",
-     "channelTelsur": 50,
+     "channelTelsur":" 50",
      "adsl": "239.255.5.149",
      "fca": "239.255.5.149",
      "mpeg4": " '",
@@ -509,7 +509,7 @@ export const canales= [
     {
      "id": "44",
      "nombre": "PATAGONIA RADIO TV",
-     "channelTelsur": 51,
+     "channelTelsur":" 51",
      "adsl": "239.255.3.115",
      "fca": "239.255.3.115",
      "mpeg4": "239.255.3.114",
@@ -520,7 +520,7 @@ export const canales= [
     {
      "id": "45",
      "nombre": "PRIMITIVOS",
-     "channelTelsur": 53,
+     "channelTelsur":" 53",
      "adsl": "239.255.3.2",
      "fca": "239.255.3.2",
      "mpeg4": "239.255.3.2",
@@ -531,7 +531,7 @@ export const canales= [
     {
      "id": "46",
      "nombre": "CANAL LATINO",
-     "channelTelsur": 54,
+     "channelTelsur":" 54",
      "adsl": "239.255.3.82",
      "fca": "239.255.3.82",
      "mpeg4": "239.255.3.82",
@@ -542,7 +542,7 @@ export const canales= [
     {
      "id": "47",
      "nombre": "TEC",
-     "channelTelsur": 55,
+     "channelTelsur":" 55",
      "adsl": "Cambiar",
      "fca": "239.255.3.82",
      "mpeg4": "239.255.3.82",
@@ -553,7 +553,7 @@ export const canales= [
     {
      "id": "48",
      "nombre": "VTV",
-     "channelTelsur": 57,
+     "channelTelsur":" 57",
      "adsl": "Cambiar",
      "fca": "239.255.3.177",
      "mpeg4": " '",
@@ -564,7 +564,7 @@ export const canales= [
     {
      "id": "49",
      "nombre": "UMAG TV AYSEN",
-     "channelTelsur": 58,
+     "channelTelsur":" 58",
      "adsl": "239.255.3.177",
      "fca": "239.255.3.177",
      "mpeg4": " '",
@@ -575,7 +575,7 @@ export const canales= [
     {
      "id": "50",
      "nombre": "Castro Tv Municipal",
-     "channelTelsur": 59,
+     "channelTelsur":" 59",
      "adsl": "239.255.5.136",
      "fca": "239.255.5.136",
      "mpeg4": " '",
@@ -586,7 +586,7 @@ export const canales= [
     {
      "id": "51",
      "nombre": "UCT Araucania HD",
-     "channelTelsur": 61,
+     "channelTelsur":" 61",
      "adsl": "Cambiar",
      "fca": "239.255.5.44",
      "mpeg4": "239.255.3.205",
@@ -597,7 +597,7 @@ export const canales= [
     {
      "id": "52",
      "nombre": "UCT Araucania",
-     "channelTelsur": 62,
+     "channelTelsur":" 62",
      "adsl": "Cambiar",
      "fca": "239.255.5.44",
      "mpeg4": "239.255.3.205",
@@ -608,7 +608,7 @@ export const canales= [
     {
      "id": "53",
      "nombre": "Antofagasta TV",
-     "channelTelsur": 63,
+     "channelTelsur":" 63",
      "adsl": "Cambiar",
      "fca": "239.255.5.44",
      "mpeg4": "239.255.3.205",
@@ -619,7 +619,7 @@ export const canales= [
     {
      "id": "54",
      "nombre": "TVR",
-     "channelTelsur": 64,
+     "channelTelsur":" 64",
      "adsl": "239.255.3.154",
      "fca": "239.255.3.154",
      "mpeg4": "239.255.3.154",
@@ -630,7 +630,7 @@ export const canales= [
     {
      "id": "55",
      "nombre": "FOX SPORTS 1",
-     "channelTelsur": 70,
+     "channelTelsur":" 70",
      "adsl": "239.255.2.44",
      "fca": "239.255.5.44",
      "mpeg4": "239.255.3.205",
@@ -641,7 +641,7 @@ export const canales= [
     {
      "id": "56",
      "nombre": "TNT Sport 2",
-     "channelTelsur": 71,
+     "channelTelsur":" 71",
      "adsl": "239.255.2.73",
      "fca": "239.255.2.73",
      "mpeg4": "239.255.3.107",
@@ -652,7 +652,7 @@ export const canales= [
     {
      "id": "57",
      "nombre": "TNT Sport HD",
-     "channelTelsur": 72,
+     "channelTelsur":" 72",
      "adsl": "239.255.2.100",
      "fca": "239.255.2.100",
      "mpeg4": "239.255.2.100",
@@ -663,7 +663,7 @@ export const canales= [
     {
      "id": "58",
      "nombre": "FOX SPORTS 1 HD",
-     "channelTelsur": 73,
+     "channelTelsur":" 73",
      "adsl": "239.255.3.207",
      "fca": "239.255.3.207",
      "mpeg4": "239.255.3.207",
@@ -674,7 +674,7 @@ export const canales= [
     {
      "id": "59",
      "nombre": "FOX SPORTS 3 HD",
-     "channelTelsur": 74,
+     "channelTelsur":" 74",
      "adsl": "239.255.3.15",
      "fca": "239.255.3.15",
      "mpeg4": "239.255.3.15",
@@ -685,7 +685,7 @@ export const canales= [
     {
      "id": "60",
      "nombre": "Sport TV",
-     "channelTelsur": 75,
+     "channelTelsur":" 75",
      "adsl": "Cambiar",
      "fca": "239.255.3.15",
      "mpeg4": "239.255.3.15",
@@ -696,7 +696,7 @@ export const canales= [
     {
      "id": "61",
      "nombre": "CDO PREMIUM",
-     "channelTelsur": 76,
+     "channelTelsur":" 76",
      "adsl": "239.255.3.179",
      "fca": "239.255.3.179",
      "mpeg4": "239.255.3.179",
@@ -707,7 +707,7 @@ export const canales= [
     {
      "id": "62",
      "nombre": "CDO HD",
-     "channelTelsur": 77,
+     "channelTelsur":" 77",
      "adsl": "239.255.3.184",
      "fca": "239.255.3.184",
      "mpeg4": "239.255.3.184",
@@ -718,7 +718,7 @@ export const canales= [
     {
      "id": "63",
      "nombre": "FOX SPORTS 2",
-     "channelTelsur": 78,
+     "channelTelsur":" 78",
      "adsl": "239.255.3.219",
      "fca": "239.255.5.100",
      "mpeg4": "239.255.3.239",
@@ -729,7 +729,7 @@ export const canales= [
     {
      "id": "64",
      "nombre": "FOX SPORTS 2 HD",
-     "channelTelsur": 79,
+     "channelTelsur":" 79",
      "adsl": "239.255.3.32",
      "fca": "239.255.3.32",
      "mpeg4": "239.255.3.32",
@@ -740,7 +740,7 @@ export const canales= [
     {
      "id": "65",
      "nombre": "Canal del Futbol Basic",
-     "channelTelsur": 82,
+     "channelTelsur":" 82",
      "adsl": "239.255.2.74",
      "fca": "239.255.2.74",
      "mpeg4": "239.255.3.108",
@@ -751,7 +751,7 @@ export const canales= [
     {
      "id": "66",
      "nombre": "Espn 4",
-     "channelTelsur": 83,
+     "channelTelsur":" 83",
      "adsl": "239.255.2.43",
      "fca": "239.255.5.43",
      "mpeg4": "239.255.3.206",
@@ -762,7 +762,7 @@ export const canales= [
     {
      "id": "67",
      "nombre": "ESPN",
-     "channelTelsur": 85,
+     "channelTelsur":" 85",
      "adsl": "239.255.2.7",
      "fca": "239.255.2.7",
      "mpeg4": "239.255.3.156",
@@ -773,7 +773,7 @@ export const canales= [
     {
      "id": "68",
      "nombre": "ESPN 2",
-     "channelTelsur": 84,
+     "channelTelsur":" 84",
      "adsl": "239.255.2.12",
      "fca": "239.255.5.12",
      "mpeg4": "239.255.3.157",
@@ -784,7 +784,7 @@ export const canales= [
     {
      "id": "69",
      "nombre": "ESPN 3",
-     "channelTelsur": 86,
+     "channelTelsur":" 86",
      "adsl": "239.255.2.90",
      "fca": "239.255.5.90",
      "mpeg4": "239.255.3.158",
@@ -795,7 +795,7 @@ export const canales= [
     {
      "id": "70",
      "nombre": "TYC SPORTS",
-     "channelTelsur": 87,
+     "channelTelsur":" 87",
      "adsl": "239.255.2.244",
      "fca": "239.255.2.244",
      "mpeg4": "239.255.2.244",
@@ -806,7 +806,7 @@ export const canales= [
     {
      "id": "71",
      "nombre": "GOL TV",
-     "channelTelsur": 88,
+     "channelTelsur":" 88",
      "adsl": "239.255.2.172",
      "fca": "239.255.2.172",
      "mpeg4": "239.255.2.57",
@@ -817,7 +817,7 @@ export const canales= [
     {
      "id": "72",
      "nombre": "FOX SPORTS 3",
-     "channelTelsur": 89,
+     "channelTelsur":" 89",
      "adsl": "239.255.2.40",
      "fca": "239.255.3.235",
      "mpeg4": "239.255.3.209",
@@ -828,7 +828,7 @@ export const canales= [
     {
      "id": "73",
      "nombre": "Discovery Turbo",
-     "channelTelsur": 90,
+     "channelTelsur":" 90",
      "adsl": "239.255.2.121",
      "fca": "239.255.5.121",
      "mpeg4": "239.255.5.121",
@@ -839,7 +839,7 @@ export const canales= [
     {
      "id": "74",
      "nombre": "AMERICA SPORTS",
-     "channelTelsur": 91,
+     "channelTelsur":" 91",
      "adsl": "239.255.2.248",
      "fca": "239.255.2.248",
      "mpeg4": "239.255.2.248",
@@ -850,7 +850,7 @@ export const canales= [
     {
      "id": "75",
      "nombre": "CDO BáSICO",
-     "channelTelsur": 92,
+     "channelTelsur":" 92",
      "adsl": "239.255.3.180",
      "fca": "239.255.3.180",
      "mpeg4": "239.255.3.180",
@@ -861,7 +861,7 @@ export const canales= [
     {
      "id": "76",
      "nombre": "GOLF CHANNELTelsur",
-     "channelTelsur": 93,
+     "channelTelsur":" 93",
      "adsl": "239.255.2.238",
      "fca": "239.255.2.238",
      "mpeg4": "239.255.3.210",
@@ -872,7 +872,7 @@ export const canales= [
     {
      "id": "77",
      "nombre": "Teletrak TV",
-     "channelTelsur": 95,
+     "channelTelsur":" 95",
      "adsl": "239.255.2.113",
      "fca": "239.255.5.113",
      "mpeg4": "239.255.5.113",
@@ -883,7 +883,7 @@ export const canales= [
     {
      "id": "78",
      "nombre": "TRECE INTERNACIONAL",
-     "channelTelsur": 101,
+     "channelTelsur":" 101",
      "adsl": "239.255.2.249",
      "fca": "239.255.2.249",
      "mpeg4": "239.255.2.249",
@@ -894,7 +894,7 @@ export const canales= [
     {
      "id": "79",
      "nombre": "TELEFE",
-     "channelTelsur": 102,
+     "channelTelsur":" 102",
      "adsl": "239.255.3.8",
      "fca": "239.255.3.8",
      "mpeg4": "239.255.3.8",
@@ -905,7 +905,7 @@ export const canales= [
     {
      "id": "80",
      "nombre": "CANAL RURAL",
-     "channelTelsur": 103,
+     "channelTelsur":" 103",
      "adsl": "239.255.2.96",
      "fca": "239.255.2.96",
      "mpeg4": "239.255.2.96",
@@ -916,7 +916,7 @@ export const canales= [
     {
      "id": "81",
      "nombre": "CARACOL TV",
-     "channelTelsur": 104,
+     "channelTelsur":" 104",
      "adsl": "239.255.2.168",
      "fca": "239.255.2.168",
      "mpeg4": "239.255.2.168",
@@ -927,7 +927,7 @@ export const canales= [
     {
      "id": "82",
      "nombre": "CAMPO ABIERTO",
-     "channelTelsur": 105,
+     "channelTelsur":" 105",
      "adsl": "239.255.3.172",
      "fca": "239.255.3.172",
      "mpeg4": "239.255.3.172",
@@ -938,7 +938,7 @@ export const canales= [
     {
      "id": "83",
      "nombre": "Canal Vasco",
-     "channelTelsur": 106,
+     "channelTelsur":" 106",
      "adsl": "Cambiar",
      "fca": "239.255.3.172",
      "mpeg4": "239.255.3.172",
@@ -949,7 +949,7 @@ export const canales= [
     {
      "id": "84",
      "nombre": "Antena 3 Internacional",
-     "channelTelsur": 107,
+     "channelTelsur":" 107",
      "adsl": "239.255.2.72",
      "fca": "239.255.2.72",
      "mpeg4": "239.255.3.193",
@@ -960,7 +960,7 @@ export const canales= [
     {
      "id": "85",
      "nombre": "TVE",
-     "channelTelsur": 108,
+     "channelTelsur":" 108",
      "adsl": "239.255.3.9",
      "fca": "239.255.3.9",
      "mpeg4": "239.255.3.9",
@@ -971,7 +971,7 @@ export const canales= [
     {
      "id": "86",
      "nombre": "TV 5 Monde",
-     "channelTelsur": 109,
+     "channelTelsur":" 109",
      "adsl": "239.255.2.75",
      "fca": "239.255.2.75",
      "mpeg4": "239.255.2.75",
@@ -982,7 +982,7 @@ export const canales= [
     {
      "id": "87",
      "nombre": "DEUTSCHE WELLE AMERIKA",
-     "channelTelsur": 110,
+     "channelTelsur":" 110",
      "adsl": "239.255.2.35",
      "fca": "239.255.5.35",
      "mpeg4": "239.255.5.35",
@@ -993,7 +993,7 @@ export const canales= [
     {
      "id": "88",
      "nombre": "RAI",
-     "channelTelsur": 111,
+     "channelTelsur":" 111",
      "adsl": "239.255.2.42",
      "fca": "239.255.2.42",
      "mpeg4": "239.255.2.42",
@@ -1004,7 +1004,7 @@ export const canales= [
     {
      "id": "89",
      "nombre": "Arirang Korea",
-     "channelTelsur": 112,
+     "channelTelsur":" 112",
      "adsl": "239.255.2.42",
      "fca": "239.255.2.42",
      "mpeg4": "239.255.2.42",
@@ -1015,7 +1015,7 @@ export const canales= [
     {
      "id": "90",
      "nombre": "Azteca Internacional",
-     "channelTelsur": 113,
+     "channelTelsur":" 113",
      "adsl": "239.255.2.2",
      "fca": "239.255.2.2",
      "mpeg4": "239.255.2.128",
@@ -1026,7 +1026,7 @@ export const canales= [
     {
      "id": "91",
      "nombre": "America tv",
-     "channelTelsur": 114,
+     "channelTelsur":" 114",
      "adsl": "Cambiar",
      "fca": "239.255.2.2",
      "mpeg4": "239.255.2.128",
@@ -1037,7 +1037,7 @@ export const canales= [
     {
      "id": "92",
      "nombre": "VOA TV",
-     "channelTelsur": 115,
+     "channelTelsur":" 115",
      "adsl": "239.255.3.66",
      "fca": "239.255.3.66",
      "mpeg4": "239.255.3.66",
@@ -1048,7 +1048,7 @@ export const canales= [
     {
      "id": "93",
      "nombre": "DEUTSCHE WELLE",
-     "channelTelsur": 117,
+     "channelTelsur":" 117",
      "adsl": "239.255.3.6",
      "fca": "239.255.5.6",
      "mpeg4": "239.255.5.6",
@@ -1059,7 +1059,7 @@ export const canales= [
     {
      "id": "94",
      "nombre": "Globo TV",
-     "channelTelsur": 121,
+     "channelTelsur":" 121",
      "adsl": "239.255.2.138",
      "fca": "239.255.2.138",
      "mpeg4": "239.255.3.50",
@@ -1070,7 +1070,7 @@ export const canales= [
     {
      "id": "95",
      "nombre": "NHK WORLD Japan",
-     "channelTelsur": 124,
+     "channelTelsur":" 124",
      "adsl": "239.255.3.84",
      "fca": "239.255.3.85",
      "mpeg4": "239.255.3.85",
@@ -1081,7 +1081,7 @@ export const canales= [
     {
      "id": "96",
      "nombre": "NHK WORLD PREMIUM",
-     "channelTelsur": 125,
+     "channelTelsur":" 125",
      "adsl": "239.255.3.84",
      "fca": "239.255.3.85",
      "mpeg4": "239.255.3.85",
@@ -1092,7 +1092,7 @@ export const canales= [
     {
      "id": "97",
      "nombre": "CCTV 4",
-     "channelTelsur": 126,
+     "channelTelsur":" 126",
      "adsl": "239.255.3.84",
      "fca": "239.255.3.85",
      "mpeg4": "239.255.3.85",
@@ -1103,7 +1103,7 @@ export const canales= [
     {
      "id": "98",
      "nombre": "TV DIPUTADOS",
-     "channelTelsur": 128,
+     "channelTelsur":" 128",
      "adsl": "239.255.2.82",
      "fca": "239.255.2.82",
      "mpeg4": "239.255.3.44",
@@ -1114,7 +1114,7 @@ export const canales= [
     {
      "id": "99",
      "nombre": "Canal del Senado",
-     "channelTelsur": 129,
+     "channelTelsur":" 129",
      "adsl": "239.255.2.83",
      "fca": "239.255.5.83",
      "mpeg4": "239.255.5.83",
@@ -1125,7 +1125,7 @@ export const canales= [
     {
      "id": "100",
      "nombre": "Canal 24 Horas Chile",
-     "channelTelsur": 131,
+     "channelTelsur":" 131",
      "adsl": "239.255.2.246",
      "fca": "239.255.2.246",
      "mpeg4": "239.255.3.126",
@@ -1136,7 +1136,7 @@ export const canales= [
     {
      "id": "101",
      "nombre": "CNN Chile",
-     "channelTelsur": 132,
+     "channelTelsur":" 132",
      "adsl": "239.255.2.114",
      "fca": "239.255.2.114",
      "mpeg4": "239.255.3.43",
@@ -1147,7 +1147,7 @@ export const canales= [
     {
      "id": "102",
      "nombre": "CNN En Espanol",
-     "channelTelsur": 133,
+     "channelTelsur":" 133",
      "adsl": "239.255.2.17",
      "fca": "239.255.5.17",
      "mpeg4": "239.255.5.17",
@@ -1158,7 +1158,7 @@ export const canales= [
     {
      "id": "103",
      "nombre": "CNN",
-     "channelTelsur": 134,
+     "channelTelsur":" 134",
      "adsl": "239.255.2.15",
      "fca": "239.255.5.15",
      "mpeg4": "239.255.5.15",
@@ -1169,7 +1169,7 @@ export const canales= [
     {
      "id": "104",
      "nombre": "Fox News ChannelTelsur",
-     "channelTelsur": 135,
+     "channelTelsur":" 135",
      "adsl": "239.255.2.9",
      "fca": "239.255.2.9",
      "mpeg4": "239.255.3.240",
@@ -1180,7 +1180,7 @@ export const canales= [
     {
      "id": "105",
      "nombre": "24 Horas TVE",
-     "channelTelsur": 136,
+     "channelTelsur":" 136",
      "adsl": "239.255.5.124",
      "fca": "239.255.5.124",
      "mpeg4": "239.255.3.68",
@@ -1191,7 +1191,7 @@ export const canales= [
     {
      "id": "106",
      "nombre": "BBC World",
-     "channelTelsur": 137,
+     "channelTelsur":" 137",
      "adsl": "239.255.2.27",
      "fca": "239.255.2.34",
      "mpeg4": "239.255.3.244",
@@ -1202,7 +1202,7 @@ export const canales= [
     {
      "id": "107",
      "nombre": "EURONEWS",
-     "channelTelsur": 138,
+     "channelTelsur":" 138",
      "adsl": "239.255.3.144",
      "fca": "239.255.3.144",
      "mpeg4": "239.255.3.144",
@@ -1213,7 +1213,7 @@ export const canales= [
     {
      "id": "108",
      "nombre": "AL JAZEERA",
-     "channelTelsur": 139,
+     "channelTelsur":" 139",
      "adsl": "239.255.2.173",
      "fca": "239.255.2.173",
      "mpeg4": "239.255.2.173",
@@ -1224,7 +1224,7 @@ export const canales= [
     {
      "id": "109",
      "nombre": "BLOOMBERG",
-     "channelTelsur": 140,
+     "channelTelsur":" 140",
      "adsl": "239.255.2.174",
      "fca": "239.255.2.174",
      "mpeg4": "239.255.3.51",
@@ -1235,7 +1235,7 @@ export const canales= [
     {
      "id": "110",
      "nombre": "FRANCE 24",
-     "channelTelsur": 141,
+     "channelTelsur":" 141",
      "adsl": "239.255.2.171",
      "fca": "239.255.2.171",
      "mpeg4": "239.255.2.171",
@@ -1246,7 +1246,7 @@ export const canales= [
     {
      "id": "111",
      "nombre": "TeleMundo",
-     "channelTelsur": 142,
+     "channelTelsur":" 142",
      "adsl": "Cambiar",
      "fca": "239.255.2.130",
      "mpeg4": "239.255.2.158",
@@ -1257,7 +1257,7 @@ export const canales= [
     {
      "id": "112",
      "nombre": "EWTN",
-     "channelTelsur": 146,
+     "channelTelsur":" 146",
      "adsl": "239.255.2.26",
      "fca": "239.255.5.26",
      "mpeg4": "239.255.5.26",
@@ -1268,7 +1268,7 @@ export const canales= [
     {
      "id": "113",
      "nombre": "MARIAVISIÓN",
-     "channelTelsur": 147,
+     "channelTelsur":" 147",
      "adsl": "239.255.3.167",
      "fca": "239.255.3.167",
      "mpeg4": "239.255.3.167",
@@ -1279,7 +1279,7 @@ export const canales= [
     {
      "id": "114",
      "nombre": "ENLACE TBN",
-     "channelTelsur": 148,
+     "channelTelsur":" 148",
      "adsl": "239.255.2.88",
      "fca": "239.255.2.88",
      "mpeg4": "239.255.2.88",
@@ -1290,7 +1290,7 @@ export const canales= [
     {
      "id": "115",
      "nombre": "NUEVO TIEMPO",
-     "channelTelsur": 149,
+     "channelTelsur":" 149",
      "adsl": "239.255.2.94",
      "fca": "239.255.2.94",
      "mpeg4": "239.255.2.94",
@@ -1301,7 +1301,7 @@ export const canales= [
     {
      "id": "116",
      "nombre": "TNT Novelas",
-     "channelTelsur": 151,
+     "channelTelsur":" 151",
      "adsl": "239.255.2.70",
      "fca": "239.255.5.70",
      "mpeg4": "239.255.5.70",
@@ -1312,7 +1312,7 @@ export const canales= [
     {
      "id": "117",
      "nombre": "Paramount",
-     "channelTelsur": 152,
+     "channelTelsur":" 152",
      "adsl": "239.255.2.16",
      "fca": "239.255.2.16",
      "mpeg4": "239.255.3.250",
@@ -1323,7 +1323,7 @@ export const canales= [
     {
      "id": "118",
      "nombre": "AXN",
-     "channelTelsur": 153,
+     "channelTelsur":" 153",
      "adsl": "239.255.2.47",
      "fca": "239.255.2.47",
      "mpeg4": "239.255.3.251",
@@ -1334,7 +1334,7 @@ export const canales= [
     {
      "id": "119",
      "nombre": "SONY",
-     "channelTelsur": 154,
+     "channelTelsur":" 154",
      "adsl": "239.255.2.60",
      "fca": "239.255.2.60",
      "mpeg4": "239.255.3.252",
@@ -1345,7 +1345,7 @@ export const canales= [
     {
      "id": "120",
      "nombre": "Star ChannelTelsur",
-     "channelTelsur": 155,
+     "channelTelsur":" 155",
      "adsl": "239.255.2.37",
      "fca": "239.255.2.37",
      "mpeg4": "239.255.3.245",
@@ -1356,7 +1356,7 @@ export const canales= [
     {
      "id": "121",
      "nombre": "A&E",
-     "channelTelsur": 156,
+     "channelTelsur":" 156",
      "adsl": "239.255.2.45",
      "fca": "239.255.5.45",
      "mpeg4": "239.255.3.159",
@@ -1367,7 +1367,7 @@ export const canales= [
     {
      "id": "122",
      "nombre": "Universal ChannelTelsur",
-     "channelTelsur": 157,
+     "channelTelsur":" 157",
      "adsl": "239.255.2.41",
      "fca": "239.255.2.41",
      "mpeg4": "239.255.3.18",
@@ -1378,7 +1378,7 @@ export const canales= [
     {
      "id": "123",
      "nombre": "Cine Premium",
-     "channelTelsur": 158,
+     "channelTelsur":" 158",
      "adsl": "239.255.2.8",
      "fca": "239.255.2.8",
      "mpeg4": "239.255.3.253",
@@ -1389,7 +1389,7 @@ export const canales= [
     {
      "id": "124",
      "nombre": "E! TV",
-     "channelTelsur": 159,
+     "channelTelsur":" 159",
      "adsl": "239.255.2.50",
      "fca": "239.255.5.50",
      "mpeg4": "239.255.2.86",
@@ -1400,7 +1400,7 @@ export const canales= [
     {
      "id": "125",
      "nombre": "Investigation Discovery",
-     "channelTelsur": 160,
+     "channelTelsur":" 160",
      "adsl": "239.255.2.22",
      "fca": "239.255.2.22",
      "mpeg4": "239.255.3.19",
@@ -1411,7 +1411,7 @@ export const canales= [
     {
      "id": "126",
      "nombre": "Adult Swim",
-     "channelTelsur": 161,
+     "channelTelsur":" 161",
      "adsl": "Cambiar",
      "fca": "239.255.5.65",
      "mpeg4": "239.255.5.65",
@@ -1422,7 +1422,7 @@ export const canales= [
     {
      "id": "127",
      "nombre": "AZ CORAZON",
-     "channelTelsur": 162,
+     "channelTelsur":" 162",
      "adsl": "239.255.2.87",
      "fca": "239.255.2.87",
      "mpeg4": "239.255.2.129",
@@ -1433,7 +1433,7 @@ export const canales= [
     {
      "id": "128",
      "nombre": "GLITZ",
-     "channelTelsur": 163,
+     "channelTelsur":" 163",
      "adsl": "239.255.2.64",
      "fca": "239.255.5.64",
      "mpeg4": "239.255.5.64",
@@ -1444,7 +1444,7 @@ export const canales= [
     {
      "id": "129",
      "nombre": "FX",
-     "channelTelsur": 165,
+     "channelTelsur":" 165",
      "adsl": "239.255.2.38",
      "fca": "239.255.2.38",
      "mpeg4": "239.255.3.160",
@@ -1455,7 +1455,7 @@ export const canales= [
     {
      "id": "130",
      "nombre": "USA",
-     "channelTelsur": 166,
+     "channelTelsur":" 166",
      "adsl": "239.255.2.170",
      "fca": "239.255.2.170",
      "mpeg4": "239.255.2.170",
@@ -1466,7 +1466,7 @@ export const canales= [
     {
      "id": "131",
      "nombre": "TNT SERIES",
-     "channelTelsur": 167,
+     "channelTelsur":" 167",
      "adsl": "239.255.2.69",
      "fca": "239.255.2.69",
      "mpeg4": "239.255.3.161",
@@ -1477,7 +1477,7 @@ export const canales= [
     {
      "id": "132",
      "nombre": "COMEDY CENTRAL",
-     "channelTelsur": 168,
+     "channelTelsur":" 168",
      "adsl": "239.255.3.133",
      "fca": "239.255.3.133",
      "mpeg4": "239.255.3.109",
@@ -1488,7 +1488,7 @@ export const canales= [
     {
      "id": "133",
      "nombre": "LIFETIME",
-     "channelTelsur": 169,
+     "channelTelsur":" 169",
      "adsl": "239.255.2.46",
      "fca": "239.255.2.46",
      "mpeg4": "239.255.3.187",
@@ -1499,7 +1499,7 @@ export const canales= [
     {
      "id": "134",
      "nombre": "MTV",
-     "channelTelsur": 181,
+     "channelTelsur":" 181",
      "adsl": "239.255.2.61",
      "fca": "239.255.5.61",
      "mpeg4": "239.255.5.61",
@@ -1510,7 +1510,7 @@ export const canales= [
     {
      "id": "135",
      "nombre": "MTV 00",
-     "channelTelsur": 182,
+     "channelTelsur":" 182",
      "adsl": "239.255.2.63",
      "fca": "239.255.5.63",
      "mpeg4": "239.255.5.63",
@@ -1521,7 +1521,7 @@ export const canales= [
     {
      "id": "136",
      "nombre": "BONITA TV",
-     "channelTelsur": 184,
+     "channelTelsur":" 184",
      "adsl": "239.255.3.243",
      "fca": "239.255.3.243",
      "mpeg4": "239.255.3.232",
@@ -1532,7 +1532,7 @@ export const canales= [
     {
      "id": "137",
      "nombre": "MTV Hits",
-     "channelTelsur": 185,
+     "channelTelsur":" 185",
      "adsl": "239.255.2.119",
      "fca": "239.255.5.119",
      "mpeg4": "239.255.5.119",
@@ -1543,7 +1543,7 @@ export const canales= [
     {
      "id": "138",
      "nombre": "Club MTV",
-     "channelTelsur": 186,
+     "channelTelsur":" 186",
      "adsl": "239.255.2.118",
      "fca": "239.255.5.118",
      "mpeg4": "239.255.5.118",
@@ -1554,7 +1554,7 @@ export const canales= [
     {
      "id": "139",
      "nombre": "NickMusic",
-     "channelTelsur": 187,
+     "channelTelsur":" 187",
      "adsl": "239.255.2.117",
      "fca": "239.255.5.117",
      "mpeg4": "239.255.5.117",
@@ -1565,7 +1565,7 @@ export const canales= [
     {
      "id": "140",
      "nombre": "MUCHMUSIC",
-     "channelTelsur": 188,
+     "channelTelsur":" 188",
      "adsl": "239.255.2.242",
      "fca": "239.255.5.242",
      "mpeg4": "239.255.5.242",
@@ -1576,7 +1576,7 @@ export const canales= [
     {
      "id": "141",
      "nombre": "HTV Raices",
-     "channelTelsur": 189,
+     "channelTelsur":" 189",
      "adsl": "239.255.2.67",
      "fca": "239.255.5.67",
      "mpeg4": "239.255.5.67",
@@ -1587,7 +1587,7 @@ export const canales= [
     {
      "id": "142",
      "nombre": "DISCOVERY",
-     "channelTelsur": 202,
+     "channelTelsur":" 202",
      "adsl": "239.255.2.18",
      "fca": "239.255.2.18",
      "mpeg4": "239.255.3.20",
@@ -1598,7 +1598,7 @@ export const canales= [
     {
      "id": "143",
      "nombre": "National Geographic",
-     "channelTelsur": 203,
+     "channelTelsur":" 203",
      "adsl": "239.255.2.39",
      "fca": "239.255.2.39",
      "mpeg4": "239.255.3.24",
@@ -1609,7 +1609,7 @@ export const canales= [
     {
      "id": "144",
      "nombre": "History",
-     "channelTelsur": 204,
+     "channelTelsur":" 204",
      "adsl": "239.255.2.57",
      "fca": "239.255.5.57",
      "mpeg4": "239.255.3.162",
@@ -1620,7 +1620,7 @@ export const canales= [
     {
      "id": "145",
      "nombre": "DISCOVERY HOME AND HEALTH",
-     "channelTelsur": 205,
+     "channelTelsur":" 205",
      "adsl": "239.255.2.19",
      "fca": "239.255.2.19",
      "mpeg4": "239.255.3.25",
@@ -1631,7 +1631,7 @@ export const canales= [
     {
      "id": "146",
      "nombre": "EL GOURMET",
-     "channelTelsur": 208,
+     "channelTelsur":" 208",
      "adsl": "239.255.2.166",
      "fca": "239.255.2.166",
      "mpeg4": "239.255.3.48",
@@ -1642,7 +1642,7 @@ export const canales= [
     {
      "id": "147",
      "nombre": "MAS CHIC",
-     "channelTelsur": 209,
+     "channelTelsur":" 209",
      "adsl": "239.255.2.1",
      "fca": "239.255.2.50",
      "mpeg4": "239.255.3.230",
@@ -1653,7 +1653,7 @@ export const canales= [
     {
      "id": "148",
      "nombre": "ANIMAL PLANET",
-     "channelTelsur": 210,
+     "channelTelsur":" 210",
      "adsl": "239.255.2.23",
      "fca": "239.255.2.23",
      "mpeg4": "239.255.3.231",
@@ -1664,7 +1664,7 @@ export const canales= [
     {
      "id": "149",
      "nombre": "Travel & Living",
-     "channelTelsur": 211,
+     "channelTelsur":" 211",
      "adsl": "239.255.2.21",
      "fca": "239.255.2.21",
      "mpeg4": "239.255.3.238",
@@ -1675,7 +1675,7 @@ export const canales= [
     {
      "id": "150",
      "nombre": "HGTV",
-     "channelTelsur": 212,
+     "channelTelsur":" 212",
      "adsl": "239.255.2.120",
      "fca": "239.255.5.120",
      "mpeg4": "239.255.5.120",
@@ -1686,7 +1686,7 @@ export const canales= [
     {
      "id": "151",
      "nombre": "Discovery Science",
-     "channelTelsur": 213,
+     "channelTelsur":" 213",
      "adsl": "239.255.2.112",
      "fca": "239.255.5.112",
      "mpeg4": "239.255.5.112",
@@ -1697,7 +1697,7 @@ export const canales= [
     {
      "id": "152",
      "nombre": "H2",
-     "channelTelsur": 215,
+     "channelTelsur":" 215",
      "adsl": "239.255.2.71",
      "fca": "239.255.2.71",
      "mpeg4": "239.255.3.237",
@@ -1708,7 +1708,7 @@ export const canales= [
     {
      "id": "153",
      "nombre": "TNT",
-     "channelTelsur": 251,
+     "channelTelsur":" 251",
      "adsl": "239.255.2.13",
      "fca": "239.255.5.13",
      "mpeg4": "239.255.5.13",
@@ -1719,7 +1719,7 @@ export const canales= [
     {
      "id": "154",
      "nombre": "CINECANAL",
-     "channelTelsur": 252,
+     "channelTelsur":" 252",
      "adsl": "239.255.2.30",
      "fca": "239.255.2.30",
      "mpeg4": "239.255.3.163",
@@ -1730,7 +1730,7 @@ export const canales= [
     {
      "id": "155",
      "nombre": "FILM&ARTS",
-     "channelTelsur": 253,
+     "channelTelsur":" 253",
      "adsl": "239.255.3.143",
      "fca": "239.255.3.143",
      "mpeg4": "239.255.3.49",
@@ -1741,7 +1741,7 @@ export const canales= [
     {
      "id": "156",
      "nombre": "SPACE",
-     "channelTelsur": 254,
+     "channelTelsur":" 254",
      "adsl": "239.255.2.66",
      "fca": "239.255.3.37",
      "mpeg4": "239.255.3.164",
@@ -1752,7 +1752,7 @@ export const canales= [
     {
      "id": "157",
      "nombre": "Studio Universal",
-     "channelTelsur": 255,
+     "channelTelsur":" 255",
      "adsl": "239.255.2.36",
      "fca": "239.255.3.38",
      "mpeg4": "239.255.5.36",
@@ -1763,7 +1763,7 @@ export const canales= [
     {
      "id": "158",
      "nombre": "AMC",
-     "channelTelsur": 256,
+     "channelTelsur":" 256",
      "adsl": "239.255.2.3",
      "fca": "239.255.2.3",
      "mpeg4": "239.255.3.236",
@@ -1774,7 +1774,7 @@ export const canales= [
     {
      "id": "159",
      "nombre": "EUROCHANNELTelsur",
-     "channelTelsur": 257,
+     "channelTelsur":" 257",
      "adsl": "239.255.2.245",
      "fca": "239.255.2.245",
      "mpeg4": "239.255.2.245",
@@ -1785,7 +1785,7 @@ export const canales= [
     {
      "id": "160",
      "nombre": "EUROPA EUROPA",
-     "channelTelsur": 258,
+     "channelTelsur":" 258",
      "adsl": "239.255.5.125",
      "fca": "239.255.5.125",
      "mpeg4": "239.255.3.64",
@@ -1796,7 +1796,7 @@ export const canales= [
     {
      "id": "161",
      "nombre": "I-SAT",
-     "channelTelsur": 259,
+     "channelTelsur":" 259",
      "adsl": "239.255.2.68",
      "fca": "239.255.5.68",
      "mpeg4": "239.255.5.68",
@@ -1807,7 +1807,7 @@ export const canales= [
     {
      "id": "162",
      "nombre": "FX MOVIES",
-     "channelTelsur": 260,
+     "channelTelsur":" 260",
      "adsl": "239.255.2.34",
      "fca": "239.255.3.39",
      "mpeg4": "239.255.3.39",
@@ -1818,7 +1818,7 @@ export const canales= [
     {
      "id": "163",
      "nombre": "CINEMAX",
-     "channelTelsur": 261,
+     "channelTelsur":" 261",
      "adsl": "239.255.2.49",
      "fca": "239.255.2.49",
      "mpeg4": "239.255.3.217",
@@ -1829,7 +1829,7 @@ export const canales= [
     {
      "id": "164",
      "nombre": "TCM",
-     "channelTelsur": 262,
+     "channelTelsur":" 262",
      "adsl": "239.255.2.14",
      "fca": "239.255.5.14",
      "mpeg4": "239.255.5.14",
@@ -1840,7 +1840,7 @@ export const canales= [
     {
      "id": "165",
      "nombre": "HBO Family",
-     "channelTelsur": 279,
+     "channelTelsur":" 279",
      "adsl": "239.255.2.28",
      "fca": "239.255.2.28",
      "mpeg4": "239.255.3.26",
@@ -1851,7 +1851,7 @@ export const canales= [
     {
      "id": "166",
      "nombre": "HBO SIGNATURE",
-     "channelTelsur": 280,
+     "channelTelsur":" 280",
      "adsl": "239.255.2.53",
      "fca": "239.255.2.53",
      "mpeg4": "239.255.2.161",
@@ -1862,7 +1862,7 @@ export const canales= [
     {
      "id": "167",
      "nombre": "HBO",
-     "channelTelsur": 281,
+     "channelTelsur":" 281",
      "adsl": "239.255.2.51",
      "fca": "239.255.2.51",
      "mpeg4": "239.255.3.213",
@@ -1873,7 +1873,7 @@ export const canales= [
     {
      "id": "168",
      "nombre": "HBO 2",
-     "channelTelsur": 282,
+     "channelTelsur":" 282",
      "adsl": "239.255.2.54",
      "fca": "239.255.2.66",
      "mpeg4": "239.255.2.162",
@@ -1884,7 +1884,7 @@ export const canales= [
     {
      "id": "169",
      "nombre": "HBO +",
-     "channelTelsur": 284,
+     "channelTelsur":" 284",
      "adsl": "239.255.2.56",
      "fca": "239.255.2.56",
      "mpeg4": "239.255.2.164",
@@ -1895,7 +1895,7 @@ export const canales= [
     {
      "id": "170",
      "nombre": "HBO Mundi",
-     "channelTelsur": 285,
+     "channelTelsur":" 285",
      "adsl": "239.255.2.48",
      "fca": "239.255.2.48",
      "mpeg4": "239.255.3.216",
@@ -1906,7 +1906,7 @@ export const canales= [
     {
      "id": "171",
      "nombre": "HBO Xtreme",
-     "channelTelsur": 286,
+     "channelTelsur":" 286",
      "adsl": "239.255.2.58",
      "fca": "239.255.2.58",
      "mpeg4": "239.255.3.70",
@@ -1917,7 +1917,7 @@ export const canales= [
     {
      "id": "172",
      "nombre": "MAX PRIME E",
-     "channelTelsur": 287,
+     "channelTelsur":" 287",
      "adsl": "239.255.2.59",
      "fca": "239.255.2.59",
      "mpeg4": " '",
@@ -1927,7 +1927,7 @@ export const canales= [
     {
      "id": "173",
      "nombre": "HBO HD ESTE",
-     "channelTelsur": 802,
+     "channelTelsur":" 802",
      "adsl": "239.255.2.101",
      "fca": "239.255.2.101",
      "mpeg4": "239.255.2.101",
@@ -1938,7 +1938,7 @@ export const canales= [
     {
      "id": "174",
      "nombre": "HBO POP",
-     "channelTelsur": 803,
+     "channelTelsur":" 803",
      "adsl": "239.255.2.251",
      "fca": "239.255.2.251",
      "mpeg4": "239.255.2.251",
@@ -1949,7 +1949,7 @@ export const canales= [
     {
      "id": "175",
      "nombre": "Disney Junior HD",
-     "channelTelsur": 804,
+     "channelTelsur":" 804",
      "adsl": "239.255.3.103",
      "fca": "239.255.3.103",
      "mpeg4": "239.255.3.103",
@@ -1960,7 +1960,7 @@ export const canales= [
     {
      "id": "176",
      "nombre": "ETC HD",
-     "channelTelsur": 805,
+     "channelTelsur":" 805",
      "adsl": "239.255.3.104",
      "fca": "239.255.2.57",
      "mpeg4": "239.255.3.104",
@@ -1971,7 +1971,7 @@ export const canales= [
     {
      "id": "177",
      "nombre": "TV+ HD",
-     "channelTelsur": 808,
+     "channelTelsur":" 808",
      "adsl": "239.255.2.232",
      "fca": "239.255.2.232",
      "mpeg4": "239.255.2.232",
@@ -1982,7 +1982,7 @@ export const canales= [
     {
      "id": "178",
      "nombre": "Chilevision HD",
-     "channelTelsur": 809,
+     "channelTelsur":" 809",
      "adsl": "Cambiar",
      "fca": "239.255.2.232",
      "mpeg4": "239.255.2.232",
@@ -1993,7 +1993,7 @@ export const canales= [
     {
      "id": "179",
      "nombre": "RED TV HD",
-     "channelTelsur": 810,
+     "channelTelsur":" 810",
      "adsl": "239.255.2.233",
      "fca": "239.255.2.233",
      "mpeg4": "239.255.2.233",
@@ -2004,7 +2004,7 @@ export const canales= [
     {
      "id": "180",
      "nombre": "Megavision HD",
-     "channelTelsur": 811,
+     "channelTelsur":" 811",
      "adsl": "239.255.2.233",
      "fca": "239.255.2.233",
      "mpeg4": "239.255.2.233",
@@ -2015,7 +2015,7 @@ export const canales= [
     {
      "id": "181",
      "nombre": "TVN HD",
-     "channelTelsur": 812,
+     "channelTelsur":" 812",
      "adsl": "239.255.2.230",
      "fca": "239.255.2.230",
      "mpeg4": "239.255.2.230",
@@ -2026,7 +2026,7 @@ export const canales= [
     {
      "id": "182",
      "nombre": "CANAL 13 HD",
-     "channelTelsur": 813,
+     "channelTelsur":" 813",
      "adsl": "239.255.2.230",
      "fca": "239.255.2.230",
      "mpeg4": "239.255.2.230",
@@ -2037,7 +2037,7 @@ export const canales= [
     {
      "id": "183",
      "nombre": "CNN HD",
-     "channelTelsur": 814,
+     "channelTelsur":" 814",
      "adsl": "239.255.2.230",
      "fca": "239.255.2.230",
      "mpeg4": "239.255.2.230",
@@ -2048,7 +2048,7 @@ export const canales= [
     {
      "id": "184",
      "nombre": "NTV HD",
-     "channelTelsur": 815,
+     "channelTelsur":" 815",
      "adsl": "239.255.2.230",
      "fca": "239.255.2.230",
      "mpeg4": "239.255.2.230",
@@ -2059,7 +2059,7 @@ export const canales= [
     {
      "id": "185",
      "nombre": "TVN 24 Horas HD",
-     "channelTelsur": 816,
+     "channelTelsur":" 816",
      "adsl": "239.255.3.99",
      "fca": "239.255.3.99",
      "mpeg4": "239.255.3.99",
@@ -2070,7 +2070,7 @@ export const canales= [
     {
      "id": "186",
      "nombre": "HBO FAMILY",
-     "channelTelsur": 817,
+     "channelTelsur":" 817",
      "adsl": "239.255.3.10",
      "fca": "239.255.3.10",
      "mpeg4": "239.255.3.10",
@@ -2081,7 +2081,7 @@ export const canales= [
     {
      "id": "187",
      "nombre": "DISCOVERY KIDS HD",
-     "channelTelsur": 818,
+     "channelTelsur":" 818",
      "adsl": "239.255.3.254",
      "fca": "239.255.3.254",
      "mpeg4": "239.255.3.52",
@@ -2092,7 +2092,7 @@ export const canales= [
     {
      "id": "188",
      "nombre": "TeenNick",
-     "channelTelsur": 819,
+     "channelTelsur":" 819",
      "adsl": "239.255.2.144",
      "fca": "239.255.2.144",
      "mpeg4": "239.255.3.53",
@@ -2103,7 +2103,7 @@ export const canales= [
     {
      "id": "189",
      "nombre": "Star ChannelTelsur hd",
-     "channelTelsur": 820,
+     "channelTelsur":" 820",
      "adsl": "239.255.2.250",
      "fca": "239.255.2.250",
      "mpeg4": "239.255.2.250",
@@ -2114,7 +2114,7 @@ export const canales= [
     {
      "id": "190",
      "nombre": "DISCOVERY HD THEATER",
-     "channelTelsur": 821,
+     "channelTelsur":" 821",
      "adsl": "239.255.2.252",
      "fca": "239.255.2.13",
      "mpeg4": "239.255.2.252",
@@ -2125,7 +2125,7 @@ export const canales= [
     {
      "id": "191",
      "nombre": "Love Nature",
-     "channelTelsur": 822,
+     "channelTelsur":" 822",
      "adsl": "239.255.2.253",
      "fca": "239.255.2.253",
      "mpeg4": "239.255.2.253",
@@ -2136,7 +2136,7 @@ export const canales= [
     {
      "id": "192",
      "nombre": "DISCOVERY WORLD HD",
-     "channelTelsur": 823,
+     "channelTelsur":" 823",
      "adsl": "239.255.2.109",
      "fca": "239.255.2.62",
      "mpeg4": "239.255.2.109",
@@ -2147,7 +2147,7 @@ export const canales= [
     {
      "id": "193",
      "nombre": "HISTORY HD",
-     "channelTelsur": 824,
+     "channelTelsur":" 824",
      "adsl": "239.255.2.105",
      "fca": "239.255.2.105",
      "mpeg4": "239.255.2.105",
@@ -2158,7 +2158,7 @@ export const canales= [
     {
      "id": "194",
      "nombre": "NHK HD",
-     "channelTelsur": 825,
+     "channelTelsur":" 825",
      "adsl": "239.255.3.242",
      "fca": "239.255.3.242",
      "mpeg4": "239.255.3.242",
@@ -2169,7 +2169,7 @@ export const canales= [
     {
      "id": "195",
      "nombre": "Investigation Discovery",
-     "channelTelsur": 826,
+     "channelTelsur":" 826",
      "adsl": "239.255.3.112",
      "fca": "239.255.3.112",
      "mpeg4": "239.255.3.112",
@@ -2180,7 +2180,7 @@ export const canales= [
     {
      "id": "196",
      "nombre": "DISCOVERY HOME AND HEALTH HD",
-     "channelTelsur": 827,
+     "channelTelsur":" 827",
      "adsl": "239.255.3.111",
      "fca": "239.255.3.111",
      "mpeg4": "239.255.3.111",
@@ -2191,7 +2191,7 @@ export const canales= [
     {
      "id": "197",
      "nombre": "UATV HD",
-     "channelTelsur": 828,
+     "channelTelsur":" 828",
      "adsl": "239.255.3.174",
      "fca": "239.255.3.174",
      "mpeg4": "239.255.3.174",
@@ -2202,7 +2202,7 @@ export const canales= [
     {
      "id": "198",
      "nombre": "13 CABLE HD",
-     "channelTelsur": 829,
+     "channelTelsur":" 829",
      "adsl": "239.255.2.152",
      "fca": "239.255.2.152",
      "mpeg4": "239.255.2.152",
@@ -2213,7 +2213,7 @@ export const canales= [
     {
      "id": "199",
      "nombre": "VIDA SOCIAL TV HD",
-     "channelTelsur": 830,
+     "channelTelsur":" 830",
      "adsl": "239.255.2.153",
      "fca": "239.255.2.153",
      "mpeg4": "239.255.2.153",
@@ -2224,7 +2224,7 @@ export const canales= [
     {
      "id": "200",
      "nombre": "PRIMITIVOS HD",
-     "channelTelsur": 831,
+     "channelTelsur":" 831",
      "adsl": "239.255.2.89",
      "fca": "239.255.2.89",
      "mpeg4": "239.255.2.89",
@@ -2235,7 +2235,7 @@ export const canales= [
     {
      "id": "201",
      "nombre": "UFROVISION",
-     "channelTelsur": 832,
+     "channelTelsur":" 832",
      "adsl": "239.255.2.154",
      "fca": "239.255.2.154",
      "mpeg4": "239.255.2.154",
@@ -2246,7 +2246,7 @@ export const canales= [
     {
      "id": "202",
      "nombre": "NAT GEO HD",
-     "channelTelsur": 833,
+     "channelTelsur":" 833",
      "adsl": "239.255.3.91",
      "fca": "239.255.3.91",
      "mpeg4": "239.255.3.91",
@@ -2257,7 +2257,7 @@ export const canales= [
     {
      "id": "203",
      "nombre": "DISCOVERY HD",
-     "channelTelsur": 834,
+     "channelTelsur":" 834",
      "adsl": "239.255.3.119",
      "fca": "239.255.3.119",
      "mpeg4": "239.255.3.119",
@@ -2268,7 +2268,7 @@ export const canales= [
     {
      "id": "204",
      "nombre": "ANIMAL PLANET HD",
-     "channelTelsur": 835,
+     "channelTelsur":" 835",
      "adsl": "239.255.3.102",
      "fca": "239.255.3.102",
      "mpeg4": "239.255.3.102",
@@ -2279,7 +2279,7 @@ export const canales= [
     {
      "id": "205",
      "nombre": "Dreamworks HD",
-     "channelTelsur": 836,
+     "channelTelsur":" 836",
      "adsl": "239.255.3.92",
      "fca": "239.255.3.92",
      "mpeg4": "239.255.3.92",
@@ -2290,7 +2290,7 @@ export const canales= [
     {
      "id": "206",
      "nombre": "ZooMoo HD",
-     "channelTelsur": 837,
+     "channelTelsur":" 837",
      "adsl": "Cambiar",
      "fca": "239.255.3.92",
      "mpeg4": "239.255.3.92",
@@ -2301,7 +2301,7 @@ export const canales= [
     {
      "id": "207",
      "nombre": "TVU HD",
-     "channelTelsur": 838,
+     "channelTelsur":" 838",
      "adsl": "Cambiar",
      "fca": "239.255.3.92",
      "mpeg4": "239.255.3.92",
@@ -2312,7 +2312,7 @@ export const canales= [
     {
      "id": "208",
      "nombre": "Mega 2 hd",
-     "channelTelsur": 839,
+     "channelTelsur":" 839",
      "adsl": "Cambiar",
      "fca": "239.255.5.140",
      "mpeg4": "239.255.5.141",
@@ -2323,7 +2323,7 @@ export const canales= [
     {
      "id": "209",
      "nombre": "CANAL TENDENCIAS PRIME HD",
-     "channelTelsur": 841,
+     "channelTelsur":" 841",
      "adsl": "239.255.5.140",
      "fca": "239.255.5.140",
      "mpeg4": "239.255.5.141",
@@ -2334,7 +2334,7 @@ export const canales= [
     {
      "id": "210",
      "nombre": "Disney ChannelTelsur HD",
-     "channelTelsur": 842,
+     "channelTelsur":" 842",
      "adsl": "Cambiar",
      "fca": "239.255.5.140",
      "mpeg4": "239.255.5.141",
@@ -2345,7 +2345,7 @@ export const canales= [
     {
      "id": "211",
      "nombre": "Espn 2 HD",
-     "channelTelsur": 844,
+     "channelTelsur":" 844",
      "adsl": "239.255.3.11",
      "fca": "239.255.3.11",
      "mpeg4": "239.255.3.11",
@@ -2356,7 +2356,7 @@ export const canales= [
     {
      "id": "212",
      "nombre": "TNT Sport HD",
-     "channelTelsur": 845,
+     "channelTelsur":" 845",
      "adsl": "239.255.3.11",
      "fca": "239.255.3.11",
      "mpeg4": "239.255.3.11",
@@ -2367,7 +2367,7 @@ export const canales= [
     {
      "id": "213",
      "nombre": "FOX SPORTS 1 HD",
-     "channelTelsur": 846,
+     "channelTelsur":" 846",
      "adsl": "239.255.3.208",
      "fca": "239.255.3.208",
      "mpeg4": "239.255.3.208",
@@ -2378,7 +2378,7 @@ export const canales= [
     {
      "id": "214",
      "nombre": "FOX SPORTS 3 HD",
-     "channelTelsur": 847,
+     "channelTelsur":" 847",
      "adsl": "239.255.3.188",
      "fca": "239.255.3.188",
      "mpeg4": "239.255.3.188",
@@ -2389,7 +2389,7 @@ export const canales= [
     {
      "id": "215",
      "nombre": "CDO HD",
-     "channelTelsur": 848,
+     "channelTelsur":" 848",
      "adsl": "239.255.3.12",
      "fca": "239.255.3.12",
      "mpeg4": "239.255.3.12",
@@ -2400,7 +2400,7 @@ export const canales= [
     {
      "id": "216",
      "nombre": "GOL TV HD",
-     "channelTelsur": 849,
+     "channelTelsur":" 849",
      "adsl": "239.255.2.156",
      "fca": "239.255.2.156",
      "mpeg4": "239.255.2,156",
@@ -2411,7 +2411,7 @@ export const canales= [
     {
      "id": "217",
      "nombre": "TYC HD",
-     "channelTelsur": 850,
+     "channelTelsur":" 850",
      "adsl": "Cambiar",
      "fca": "239.255.2.156",
      "mpeg4": "239.255.2,156",
@@ -2422,7 +2422,7 @@ export const canales= [
     {
      "id": "218",
      "nombre": "TELETRAK HD",
-     "channelTelsur": 851,
+     "channelTelsur":" 851",
      "adsl": "239.255.2.157",
      "fca": "239.255.2.157",
      "mpeg4": "239.255.2.157",
@@ -2433,7 +2433,7 @@ export const canales= [
     {
      "id": "219",
      "nombre": "ESPN HD",
-     "channelTelsur": 852,
+     "channelTelsur":" 852",
      "adsl": "239.255.2.234",
      "fca": "239.255.2.234",
      "mpeg4": "239.255.3.33",
@@ -2444,7 +2444,7 @@ export const canales= [
     {
      "id": "220",
      "nombre": "ESPN Extra HD",
-     "channelTelsur": 853,
+     "channelTelsur":" 853",
      "adsl": "239.255.2.234",
      "fca": "239.255.2.234",
      "mpeg4": "239.255.3.33",
@@ -2455,7 +2455,7 @@ export const canales= [
     {
      "id": "221",
      "nombre": "ESPN 3 HD",
-     "channelTelsur": 854,
+     "channelTelsur":" 854",
      "adsl": "239.255.3.13",
      "fca": "239.255.3.13",
      "mpeg4": "239.255.3.185",
@@ -2466,7 +2466,7 @@ export const canales= [
     {
      "id": "222",
      "nombre": "FOX SPORTS 2 HD",
-     "channelTelsur": 855,
+     "channelTelsur":" 855",
      "adsl": "239.255.3.189",
      "fca": "239.255.3.189",
      "mpeg4": "239.255.3.189",
@@ -2477,7 +2477,7 @@ export const canales= [
     {
      "id": "223",
      "nombre": "Espn 4 HD",
-     "channelTelsur": 856,
+     "channelTelsur":" 856",
      "adsl": "239.255.5.151",
      "fca": "239.255.5.151",
      "mpeg4": "239.255.5.151",
@@ -2488,7 +2488,7 @@ export const canales= [
     {
      "id": "224",
      "nombre": "E! HD",
-     "channelTelsur": 857,
+     "channelTelsur":" 857",
      "adsl": "239.255.5.151",
      "fca": "239.255.5.151",
      "mpeg4": "239.255.5.151",
@@ -2499,7 +2499,7 @@ export const canales= [
     {
      "id": "225",
      "nombre": "History 2 HD",
-     "channelTelsur": 858,
+     "channelTelsur":" 858",
      "adsl": "Cambiar",
      "fca": "239.255.5.151",
      "mpeg4": "239.255.5.151",
@@ -2510,7 +2510,7 @@ export const canales= [
     {
      "id": "226",
      "nombre": "LifeTime HD",
-     "channelTelsur": 859,
+     "channelTelsur":" 859",
      "adsl": "Cambiar",
      "fca": "239.255.5.151",
      "mpeg4": "239.255.5.151",
@@ -2521,7 +2521,7 @@ export const canales= [
     {
      "id": "227",
      "nombre": "Universal HD",
-     "channelTelsur": 860,
+     "channelTelsur":" 860",
      "adsl": "239.255.2.107",
      "fca": "239.255.2.107",
      "mpeg4": "239.255.2.107",
@@ -2532,7 +2532,7 @@ export const canales= [
     {
      "id": "228",
      "nombre": "Studio Universal HD",
-     "channelTelsur": 861,
+     "channelTelsur":" 861",
      "adsl": "239.255.2.107",
      "fca": "239.255.2.107",
      "mpeg4": "239.255.2.107",
@@ -2543,7 +2543,7 @@ export const canales= [
     {
      "id": "229",
      "nombre": "Paramount HD",
-     "channelTelsur": 862,
+     "channelTelsur":" 862",
      "adsl": "239.255.2.107",
      "fca": "239.255.2.107",
      "mpeg4": "239.255.2.107",
@@ -2554,7 +2554,7 @@ export const canales= [
     {
      "id": "230",
      "nombre": "AXN HD",
-     "channelTelsur": 863,
+     "channelTelsur":" 863",
      "adsl": "239.255.2.227",
      "fca": "239.255.2.227",
      "mpeg4": "239.255.2.227",
@@ -2565,7 +2565,7 @@ export const canales= [
     {
      "id": "231",
      "nombre": "SONY HD",
-     "channelTelsur": 864,
+     "channelTelsur":" 864",
      "adsl": "239.255.2.236",
      "fca": "239.255.2.236",
      "mpeg4": "239.255.2.236",
@@ -2576,7 +2576,7 @@ export const canales= [
     {
      "id": "232",
      "nombre": "FX HD",
-     "channelTelsur": 865,
+     "channelTelsur":" 865",
      "adsl": "239.255.3.22",
      "fca": "239.255.3.22",
      "mpeg4": "239.255.3.22",
@@ -2587,7 +2587,7 @@ export const canales= [
     {
      "id": "233",
      "nombre": "A&E HD",
-     "channelTelsur": 866,
+     "channelTelsur":" 866",
      "adsl": "239.255.2.237",
      "fca": "239.255.2.237",
      "mpeg4": "239.255.2.237",
@@ -2598,7 +2598,7 @@ export const canales= [
     {
      "id": "234",
      "nombre": "Telemundo Int",
-     "channelTelsur": 868,
+     "channelTelsur":" 868",
      "adsl": "239.255.2.158",
      "fca": "239.255.2.158",
      "mpeg4": "239.255.3.129",
@@ -2609,7 +2609,7 @@ export const canales= [
     {
      "id": "235",
      "nombre": "AZ MUNDO HD",
-     "channelTelsur": 869,
+     "channelTelsur":" 869",
      "adsl": "239.255.2.159",
      "fca": "239.255.2.159",
      "mpeg4": "239.255.2.159",
@@ -2620,7 +2620,7 @@ export const canales= [
     {
      "id": "236",
      "nombre": "REC HD",
-     "channelTelsur": 870,
+     "channelTelsur":" 870",
      "adsl": "239.255.2.231",
      "fca": "239.255.2.231",
      "mpeg4": "239.255.2.231",
@@ -2631,7 +2631,7 @@ export const canales= [
     {
      "id": "237",
      "nombre": "AZ CORAZON HD",
-     "channelTelsur": 871,
+     "channelTelsur":" 871",
      "adsl": "239.255.2.160",
      "fca": "239.255.2.160",
      "mpeg4": "239.255.2.160",
@@ -2642,7 +2642,7 @@ export const canales= [
     {
      "id": "238",
      "nombre": "FRANCE 24 HD",
-     "channelTelsur": 872,
+     "channelTelsur":" 872",
      "adsl": "239.255.3.46",
      "fca": "239.255.3.46",
      "mpeg4": "239.255.3.46",
@@ -2653,7 +2653,7 @@ export const canales= [
     {
      "id": "239",
      "nombre": "USA HD",
-     "channelTelsur": 873,
+     "channelTelsur":" 873",
      "adsl": "Cambiar",
      "fca": "239.255.2.243",
      "mpeg4": "239.255.2.243",
@@ -2664,7 +2664,7 @@ export const canales= [
     {
      "id": "240",
      "nombre": "America TV HD",
-     "channelTelsur": 875,
+     "channelTelsur":" 875",
      "adsl": "Cambiar",
      "fca": "239.255.2.243",
      "mpeg4": "239.255.2.243",
@@ -2675,7 +2675,7 @@ export const canales= [
     {
      "id": "241",
      "nombre": "USA HD",
-     "channelTelsur": 873,
+     "channelTelsur":" 873",
      "adsl": "Cambiar",
      "fca": "239.255.2.243",
      "mpeg4": "239.255.2.243",
@@ -2686,7 +2686,7 @@ export const canales= [
     {
      "id": "242",
      "nombre": "Adult Swim",
-     "channelTelsur": 876,
+     "channelTelsur":" 876",
      "adsl": "Cambiar",
      "fca": "239.255.2.243",
      "mpeg4": "239.255.2.243",
@@ -2697,7 +2697,7 @@ export const canales= [
     {
      "id": "243",
      "nombre": "DISCOVERY TURBO HD",
-     "channelTelsur": 877,
+     "channelTelsur":" 877",
      "adsl": "Cambiar",
      "fca": "239.255.2.243",
      "mpeg4": "239.255.2.243",
@@ -2708,7 +2708,7 @@ export const canales= [
     {
      "id": "244",
      "nombre": "TLC HD",
-     "channelTelsur": 878,
+     "channelTelsur":" 878",
      "adsl": "Cambiar",
      "fca": "239.255.2.243",
      "mpeg4": "239.255.2.243",
@@ -2719,7 +2719,7 @@ export const canales= [
     {
      "id": "245",
      "nombre": "HGTV HD",
-     "channelTelsur": 879,
+     "channelTelsur":" 879",
      "adsl": "Cambiar",
      "fca": "239.255.2.243",
      "mpeg4": "239.255.2.243",
@@ -2730,7 +2730,7 @@ export const canales= [
     {
      "id": "246",
      "nombre": "DISCOVERY SCIENCE HD",
-     "channelTelsur": 880,
+     "channelTelsur":" 880",
      "adsl": "Cambiar",
      "fca": "239.255.2.243",
      "mpeg4": "239.255.2.243",
@@ -2741,7 +2741,7 @@ export const canales= [
     {
      "id": "247",
      "nombre": "MTV Live HD",
-     "channelTelsur": 881,
+     "channelTelsur":" 881",
      "adsl": "239.255.2.235",
      "fca": "239.255.2.235",
      "mpeg4": "239.255.2.235",
@@ -2752,7 +2752,7 @@ export const canales= [
     {
      "id": "248",
      "nombre": "BONITA TV HD",
-     "channelTelsur": 883,
+     "channelTelsur":" 883",
      "adsl": "239.255.2.155",
      "fca": "239.255.2.155",
      "mpeg4": "239.255.2.155",
@@ -2763,7 +2763,7 @@ export const canales= [
     {
      "id": "249",
      "nombre": "HBO Mundi HD",
-     "channelTelsur": 886,
+     "channelTelsur":" 886",
      "adsl": "Cambiar",
      "fca": "239.255.3.97",
      "mpeg4": "239.255.3.97",
@@ -2774,7 +2774,7 @@ export const canales= [
     {
      "id": "250",
      "nombre": "Cine Premium HD",
-     "channelTelsur": 887,
+     "channelTelsur":" 887",
      "adsl": "239.255.3.95",
      "fca": "239.255.3.95",
      "mpeg4": "239.255.3.95",
@@ -2785,7 +2785,7 @@ export const canales= [
     {
      "id": "251",
      "nombre": "Cine Familiar HD",
-     "channelTelsur": 889,
+     "channelTelsur":" 889",
      "adsl": "239.255.3.93",
      "fca": "239.255.3.93",
      "mpeg4": "239.255.3.124",
@@ -2796,7 +2796,7 @@ export const canales= [
     {
      "id": "252",
      "nombre": "TNT HD",
-     "channelTelsur": 890,
+     "channelTelsur":" 890",
      "adsl": "239.255.2.228",
      "fca": "239.255.2.228",
      "mpeg4": "239.255.2.228",
@@ -2807,7 +2807,7 @@ export const canales= [
     {
      "id": "253",
      "nombre": "SPACE HD",
-     "channelTelsur": 891,
+     "channelTelsur":" 891",
      "adsl": "239.255.2.254",
      "fca": "239.255.2.254",
      "mpeg4": "239.255.3.94",
@@ -2818,7 +2818,7 @@ export const canales= [
     {
      "id": "254",
      "nombre": "CINECANAL HD",
-     "channelTelsur": 893,
+     "channelTelsur":" 893",
      "adsl": "239.255.2.110",
      "fca": "239.255.2.110",
      "mpeg4": "239.255.3.229",
@@ -2829,7 +2829,7 @@ export const canales= [
     {
      "id": "255",
      "nombre": "HBO SIGNATURE",
-     "channelTelsur": 894,
+     "channelTelsur":" 894",
      "adsl": "239.255.2.161",
      "fca": "239.255.2.161",
      "mpeg4": "239.255.3.212",
@@ -2840,7 +2840,7 @@ export const canales= [
     {
      "id": "256",
      "nombre": "HBO 2",
-     "channelTelsur": 895,
+     "channelTelsur":" 895",
      "adsl": "239.255.2.162",
      "fca": "239.255.2.162",
      "mpeg4": "239.255.3.221",
@@ -2851,7 +2851,7 @@ export const canales= [
     {
      "id": "257",
      "nombre": "HBO PLUS",
-     "channelTelsur": 897,
+     "channelTelsur":" 897",
      "adsl": "239.255.2.163",
      "fca": "239.255.2.163",
      "mpeg4": " '",
@@ -2862,7 +2862,7 @@ export const canales= [
     {
      "id": "258",
      "nombre": "HBO Xtreme HD",
-     "channelTelsur": 898,
+     "channelTelsur":" 898",
      "adsl": "239.255.3.55",
      "fca": "239.255.3.55",
      "mpeg4": "239.255.3.55",
@@ -2873,7 +2873,7 @@ export const canales= [
     {
      "id": "259",
      "nombre": "TELSUR",
-     "channelTelsur": 901,
+     "channelTelsur":" 901",
      "adsl": "239.255.3.146",
      "fca": "239.255.3.146",
      "mpeg4": "239.255.3.146",
@@ -2884,7 +2884,7 @@ export const canales= [
     {
      "id": "260",
      "nombre": "STINGRAY EL SALON CHILL",
-     "channelTelsur": 902,
+     "channelTelsur":" 902",
      "adsl": "239.255.2.213",
      "fca": "239.255.2.213",
      "mpeg4": "239.255.2.213",
@@ -2895,7 +2895,7 @@ export const canales= [
     {
      "id": "261",
      "nombre": "STINGRAY CLÁSICOS INDIE",
-     "channelTelsur": 903,
+     "channelTelsur":" 903",
      "adsl": "239.255.2.218",
      "fca": "239.255.2.218",
      "mpeg4": "239.255.2.218",
@@ -2906,7 +2906,7 @@ export const canales= [
     {
      "id": "262",
      "nombre": "STINGRAY NEW AGE",
-     "channelTelsur": 904,
+     "channelTelsur":" 904",
      "adsl": "239.255.2.199",
      "fca": "239.255.2.199",
      "mpeg4": "239.255.2.192",
@@ -2917,7 +2917,7 @@ export const canales= [
     {
      "id": "263",
      "nombre": "STINGRAY LATINO TROPICAL",
-     "channelTelsur": 907,
+     "channelTelsur":" 907",
      "adsl": "239.255.2.185",
      "fca": "239.255.2.185",
      "mpeg4": "239.255.2.185",
@@ -2928,7 +2928,7 @@ export const canales= [
     {
      "id": "264",
      "nombre": "STINGRAY REGGAETÓN",
-     "channelTelsur": 908,
+     "channelTelsur":" 908",
      "adsl": "239.255.2.217",
      "fca": "239.255.2.217",
      "mpeg4": "239.255.2.217",
@@ -2939,7 +2939,7 @@ export const canales= [
     {
      "id": "265",
      "nombre": "STINGRAY SAMBA Y PAGODE",
-     "channelTelsur": 910,
+     "channelTelsur":" 910",
      "adsl": "239.255.2.197",
      "fca": "239.255.2.197",
      "mpeg4": "239.255.2.197",
@@ -2950,7 +2950,7 @@ export const canales= [
     {
      "id": "266",
      "nombre": "STINGRAY LATINO TROPICAL",
-     "channelTelsur": 911,
+     "channelTelsur":" 911",
      "adsl": "239.255.2.211",
      "fca": "239.255.2.211",
      "mpeg4": "239.255.2.211",
@@ -2961,7 +2961,7 @@ export const canales= [
     {
      "id": "267",
      "nombre": "STINGRAY SALSA Y MERENGUE",
-     "channelTelsur": 912,
+     "channelTelsur":" 912",
      "adsl": "239.255.2.219",
      "fca": "239.255.2.219",
      "mpeg4": "239.255.2.219",
@@ -2972,7 +2972,7 @@ export const canales= [
     {
      "id": "268",
      "nombre": "STINGRAY SESIONES DANCEHALL",
-     "channelTelsur": 913,
+     "channelTelsur":" 913",
      "adsl": "239.255.2.191",
      "fca": "239.255.2.43",
      "mpeg4": "239.255.2.191",
@@ -2983,7 +2983,7 @@ export const canales= [
     {
      "id": "269",
      "nombre": "STINGRAY CLÁSICOS DEL DANCE",
-     "channelTelsur": 915,
+     "channelTelsur":" 915",
      "adsl": "239.255.2.220",
      "fca": "239.255.2.220",
      "mpeg4": "239.255.2.220",
@@ -2994,7 +2994,7 @@ export const canales= [
     {
      "id": "270",
      "nombre": "STINGRAY SILK",
-     "channelTelsur": 917,
+     "channelTelsur":" 917",
      "adsl": "239.255.2.184",
      "fca": "239.255.2.184",
      "mpeg4": "239.255.2.184",
@@ -3005,7 +3005,7 @@ export const canales= [
     {
      "id": "271",
      "nombre": "STINGRAY ROMANCE LATINO",
-     "channelTelsur": 919,
+     "channelTelsur":" 919",
      "adsl": "239.255.2.224",
      "fca": "239.255.2.224",
      "mpeg4": "239.255.2.34",
@@ -3016,7 +3016,7 @@ export const canales= [
     {
      "id": "272",
      "nombre": "STINGRAY POP ADULTO",
-     "channelTelsur": 920,
+     "channelTelsur":" 920",
      "adsl": "239.255.2.216",
      "fca": "239.255.2.216",
      "mpeg4": "239.255.2.216",
@@ -3027,7 +3027,7 @@ export const canales= [
     {
      "id": "273",
      "nombre": "STINGRAY ROCK DE BRASIL",
-     "channelTelsur": 921,
+     "channelTelsur":" 921",
      "adsl": "239.255.2.198",
      "fca": "239.255.2.198",
      "mpeg4": "239.255.2.198",
@@ -3038,7 +3038,7 @@ export const canales= [
     {
      "id": "274",
      "nombre": "STINGRAY EURO HITS",
-     "channelTelsur": 922,
+     "channelTelsur":" 922",
      "adsl": "239.255.2.222",
      "fca": "239.255.2.222",
      "mpeg4": "239.255.2.222",
@@ -3049,7 +3049,7 @@ export const canales= [
     {
      "id": "275",
      "nombre": "STINGRAY AÑOS 70",
-     "channelTelsur": 923,
+     "channelTelsur":" 923",
      "adsl": "239.255.2.182",
      "fca": "239.255.2.182",
      "mpeg4": "239.255.2.182",
@@ -3060,7 +3060,7 @@ export const canales= [
     {
      "id": "276",
      "nombre": "STINGRAY AÑOS 90",
-     "channelTelsur": 924,
+     "channelTelsur":" 924",
      "adsl": "239.255.2.180",
      "fca": "239.255.2.180",
      "mpeg4": "239.255.2.180",
@@ -3071,7 +3071,7 @@ export const canales= [
     {
      "id": "277",
      "nombre": "STINGRAY SOLO PARA PEQUES",
-     "channelTelsur": 926,
+     "channelTelsur":" 926",
      "adsl": "239.255.2.186",
      "fca": "239.255.2.186",
      "mpeg4": "239.255.2.186",
@@ -3082,7 +3082,7 @@ export const canales= [
     {
      "id": "278",
      "nombre": "STINGRAY CLUB DE BAILE",
-     "channelTelsur": 927,
+     "channelTelsur":" 927",
      "adsl": "239.255.2.202",
      "fca": "239.255.2.202",
      "mpeg4": "239.255.2.202",
@@ -3093,7 +3093,7 @@ export const canales= [
     {
      "id": "279",
      "nombre": "STINGRAY FIESTA CONTINUA",
-     "channelTelsur": 930,
+     "channelTelsur":" 930",
      "adsl": "239.255.2.195",
      "fca": "239.255.2.195",
      "mpeg4": "239.255.2.195",
@@ -3104,7 +3104,7 @@ export const canales= [
     {
      "id": "280",
      "nombre": "STINGRAY CLÁSICOS DEL SOUL Y EL R&B",
-     "channelTelsur": 932,
+     "channelTelsur":" 932",
      "adsl": "239.255.2.192",
      "fca": "239.255.2.192",
      "mpeg4": "239.255.2.192",
@@ -3115,7 +3115,7 @@ export const canales= [
     {
      "id": "281",
      "nombre": "STINGRAY VIEJITAS PERO BUENÍSIMAS",
-     "channelTelsur": 933,
+     "channelTelsur":" 933",
      "adsl": "239.255.2.210",
      "fca": "239.255.2.210",
      "mpeg4": "239.255.2.210",
@@ -3126,7 +3126,7 @@ export const canales= [
     {
      "id": "282",
      "nombre": "STINGRAY AÑOS 80",
-     "channelTelsur": 935,
+     "channelTelsur":" 935",
      "adsl": "239.255.2.183",
      "fca": "239.255.2.183",
      "mpeg4": "239.255.2.183",
@@ -3137,7 +3137,7 @@ export const canales= [
     {
      "id": "283",
      "nombre": "STINGRAY POP LATINO ACTUAL",
-     "channelTelsur": 936,
+     "channelTelsur":" 936",
      "adsl": "239.255.2.221",
      "fca": "239.255.2.221",
      "mpeg4": "239.255.2.221",
@@ -3148,7 +3148,7 @@ export const canales= [
     {
      "id": "284",
      "nombre": "STINGRAY EXITOS RECIENTES",
-     "channelTelsur": 937,
+     "channelTelsur":" 937",
      "adsl": "239.255.2.190",
      "fca": "239.255.2.190",
      "mpeg4": "239.255.2.190",
@@ -3159,7 +3159,7 @@ export const canales= [
     {
      "id": "285",
      "nombre": "STINGRAY EXITOS DE ITALIA",
-     "channelTelsur": 938,
+     "channelTelsur":" 938",
      "adsl": "239.255.2.209",
      "fca": "239.255.2.209",
      "mpeg4": "239.255.2.209",
@@ -3170,7 +3170,7 @@ export const canales= [
     {
      "id": "286",
      "nombre": "STINGRAY ESTANDARES",
-     "channelTelsur": 939,
+     "channelTelsur":" 939",
      "adsl": "239.255.2.205",
      "fca": "239.255.2.205",
      "mpeg4": "239.255.2.205",
@@ -3181,7 +3181,7 @@ export const canales= [
     {
      "id": "287",
      "nombre": "STINGRAY POPCORN",
-     "channelTelsur": 940,
+     "channelTelsur":" 940",
      "adsl": "239.255.2.193",
      "fca": "239.255.2.193",
      "mpeg4": "239.255.2.193",
@@ -3192,7 +3192,7 @@ export const canales= [
     {
      "id": "288",
      "nombre": "STINGRAY GRANDES BANDAS",
-     "channelTelsur": 941,
+     "channelTelsur":" 941",
      "adsl": "239.255.2.204",
      "fca": "239.255.2.204",
      "mpeg4": "239.255.2.204",
@@ -3203,7 +3203,7 @@ export const canales= [
     {
      "id": "289",
      "nombre": "STINGRAY BLUES",
-     "channelTelsur": 942,
+     "channelTelsur":" 942",
      "adsl": "239.255.2.214",
      "fca": "239.255.2.214",
      "mpeg4": "239.255.2.214",
@@ -3214,7 +3214,7 @@ export const canales= [
     {
      "id": "290",
      "nombre": "STINGRAY MAESTROS DEL JAZZ",
-     "channelTelsur": 943,
+     "channelTelsur":" 943",
      "adsl": "239.255.2.178",
      "fca": "239.255.2.178",
      "mpeg4": "239.255.2.178",
@@ -3225,7 +3225,7 @@ export const canales= [
     {
      "id": "291",
      "nombre": "STINGRAY MARIACHI PARA SIEMPRE",
-     "channelTelsur": 945,
+     "channelTelsur":" 945",
      "adsl": "239.255.2.203",
      "fca": "239.255.2.203",
      "mpeg4": "239.255.2.203",
@@ -3236,7 +3236,7 @@ export const canales= [
     {
      "id": "292",
      "nombre": "STINGRAY VIVA MEXICO",
-     "channelTelsur": 946,
+     "channelTelsur":" 946",
      "adsl": "239.255.2.201",
      "fca": "239.255.2.201",
      "mpeg4": "239.255.2.201",
@@ -3247,7 +3247,7 @@ export const canales= [
     {
      "id": "293",
      "nombre": "STINGRAY EXITOS DE LAS AMERICAS",
-     "channelTelsur": 947,
+     "channelTelsur":" 947",
      "adsl": "239.255.2.212",
      "fca": "239.255.2.212",
      "mpeg4": "239.255.2.212",
@@ -3258,7 +3258,7 @@ export const canales= [
     {
      "id": "294",
      "nombre": "STINGRAY EXITOS DE BRASIL",
-     "channelTelsur": 948,
+     "channelTelsur":" 948",
      "adsl": "239.255.2.196",
      "fca": "239.255.2.196",
      "mpeg4": "239.255.2.196",
@@ -3269,7 +3269,7 @@ export const canales= [
     {
      "id": "295",
      "nombre": "STINGRAY EXITOS DE BRASIL",
-     "channelTelsur": 949,
+     "channelTelsur":" 949",
      "adsl": "239.255.2.187",
      "fca": "239.255.2.187",
      "mpeg4": "239.255.2.187",
@@ -3280,7 +3280,7 @@ export const canales= [
     {
      "id": "296",
      "nombre": "STINGRAY JAMMIN' REGGAE",
-     "channelTelsur": 950,
+     "channelTelsur":" 950",
      "adsl": "239.255.2.189",
      "fca": "239.255.2.189",
      "mpeg4": "239.255.2.189",
@@ -3291,7 +3291,7 @@ export const canales= [
     {
      "id": "297",
      "nombre": "STINGRAY EL SALON CHILL",
-     "channelTelsur": 951,
+     "channelTelsur":" 951",
      "adsl": "239.255.2.177",
      "fca": "239.255.2.177",
      "mpeg4": "239.255.2.177",
@@ -3302,7 +3302,7 @@ export const canales= [
     {
      "id": "298",
      "nombre": "STINGRAY MUSICA DEL MUNDO",
-     "channelTelsur": 952,
+     "channelTelsur":" 952",
      "adsl": "239.255.2.207",
      "fca": "239.255.2.207",
      "mpeg4": "239.255.2.207",
@@ -3313,7 +3313,7 @@ export const canales= [
     {
      "id": "299",
      "nombre": "STINGRAY TANGO",
-     "channelTelsur": 953,
+     "channelTelsur":" 953",
      "adsl": "239.255.2.206",
      "fca": "239.255.2.206",
      "mpeg4": "239.255.2.206",
@@ -3324,7 +3324,7 @@ export const canales= [
     {
      "id": "300",
      "nombre": "STINGRAY ROCK ALTERNATIVO",
-     "channelTelsur": 954,
+     "channelTelsur":" 954",
      "adsl": "239.255.2.179",
      "fca": "239.255.2.179",
      "mpeg4": "239.255.2.179",
@@ -3335,7 +3335,7 @@ export const canales= [
     {
      "id": "301",
      "nombre": "STINGRAY HIMNOS DEL ROCK",
-     "channelTelsur": 955,
+     "channelTelsur":" 955",
      "adsl": "239.255.2.188",
      "fca": "239.255.2.188",
      "mpeg4": "239.255.2.188",
@@ -3346,7 +3346,7 @@ export const canales= [
     {
      "id": "302",
      "nombre": "STINGRAY ROCK EN ESPAÑOL",
-     "channelTelsur": 956,
+     "channelTelsur":" 956",
      "adsl": "239.255.2.200",
      "fca": "239.255.2.200",
      "mpeg4": "239.255.2.200",
@@ -3357,7 +3357,7 @@ export const canales= [
     {
      "id": "303",
      "nombre": "STINGRAY HARD ROCK",
-     "channelTelsur": 957,
+     "channelTelsur":" 957",
      "adsl": "239.255.2.181",
      "fca": "239.255.2.181",
      "mpeg4": "239.255.2.181",
@@ -3368,7 +3368,7 @@ export const canales= [
     {
      "id": "304",
      "nombre": "MUSICA CLASICA",
-     "channelTelsur": 959,
+     "channelTelsur":" 959",
      "adsl": "239.255.2.215",
      "fca": "239.255.2.215",
      "mpeg4": "239.255.2.215",
@@ -3379,7 +3379,7 @@ export const canales= [
     {
      "id": "305",
      "nombre": "STINGRAY COCKTAIL LOUNGE",
-     "channelTelsur": 960,
+     "channelTelsur":" 960",
      "adsl": "239.255.2.175",
      "fca": "239.255.2.175",
      "mpeg4": "239.255.2.175",
@@ -3390,7 +3390,7 @@ export const canales= [
     {
      "id": "306",
      "nombre": "STINGRAY MÚSICA LIGERA",
-     "channelTelsur": 961,
+     "channelTelsur":" 961",
      "adsl": "239.255.2.223",
      "fca": "239.255.2.223",
      "mpeg4": "239.255.2.223",
@@ -3401,7 +3401,7 @@ export const canales= [
     {
      "id": "307",
      "nombre": "STINGRAY OPERA PLUS",
-     "channelTelsur": 962,
+     "channelTelsur":" 962",
      "adsl": "239.255.2.176",
      "fca": "239.255.2.176",
      "mpeg4": "239.255.2.176",
@@ -3412,7 +3412,7 @@ export const canales= [
     {
      "id": "308",
      "nombre": "STINGRAY MAESTROS DEL CLÁSICO",
-     "channelTelsur": 963,
+     "channelTelsur":" 963",
      "adsl": "239.255.2.208",
      "fca": "239.255.2.208",
      "mpeg4": "239.255.2.208",
@@ -3423,7 +3423,7 @@ export const canales= [
     {
      "id": "309",
      "nombre": "STINGRAY JAZZ LATINO",
-     "channelTelsur": 964,
+     "channelTelsur":" 964",
      "adsl": "239.255.2.194",
      "fca": "239.255.2.194",
      "mpeg4": "239.255.2.194",
@@ -3434,7 +3434,7 @@ export const canales= [
     {
      "id": "310",
      "nombre": "RADIO MARIA",
-     "channelTelsur": 972,
+     "channelTelsur":" 972",
      "adsl": "239.255.3.88",
      "fca": "239.255.3.88",
      "mpeg4": "239.255.3.88",
@@ -3445,7 +3445,7 @@ export const canales= [
     {
      "id": "311",
      "nombre": "RADIO CONCIERTO",
-     "channelTelsur": 973,
+     "channelTelsur":" 973",
      "adsl": "239.255.2.148",
      "fca": "239.255.2.148",
      "mpeg4": "239.255.2.148",
@@ -3456,7 +3456,7 @@ export const canales= [
     {
      "id": "312",
      "nombre": "RADIO AGRICULTURA",
-     "channelTelsur": 974,
+     "channelTelsur":" 974",
      "adsl": "239.255.3.134",
      "fca": "239.255.3.134",
      "mpeg4": "239.255.3.134",
@@ -3467,7 +3467,7 @@ export const canales= [
     {
      "id": "313",
      "nombre": "RADIO ROCK & POP",
-     "channelTelsur": 975,
+     "channelTelsur":" 975",
      "adsl": "239.255.3.136",
      "fca": "239.255.3.136",
      "mpeg4": "239.255.3.136",
@@ -3478,7 +3478,7 @@ export const canales= [
     {
      "id": "314",
      "nombre": "RADIO PLAY FM",
-     "channelTelsur": 976,
+     "channelTelsur":" 976",
      "adsl": "239.255.3.135",
      "fca": "239.255.3.135",
      "mpeg4": "239.255.3.135",
@@ -3489,7 +3489,7 @@ export const canales= [
     {
      "id": "315",
      "nombre": "RADIO FM DOS",
-     "channelTelsur": 977,
+     "channelTelsur":" 977",
      "adsl": "239.255.3.132",
      "fca": "239.255.3.132",
      "mpeg4": "239.255.3.132",
@@ -3500,7 +3500,7 @@ export const canales= [
     {
      "id": "316",
      "nombre": "RADIO ADN",
-     "channelTelsur": 978,
+     "channelTelsur":" 978",
      "adsl": "239.255.3.138",
      "fca": "239.255.3.138",
      "mpeg4": "239.255.3.138",
@@ -3511,7 +3511,7 @@ export const canales= [
     {
      "id": "317",
      "nombre": "RADIO TIEMPO",
-     "channelTelsur": 979,
+     "channelTelsur":" 979",
      "adsl": "239.255.3.61",
      "fca": "239.255.3.61",
      "mpeg4": "239.255.3.61",
@@ -3522,7 +3522,7 @@ export const canales= [
     {
      "id": "318",
      "nombre": "RADIO BEETHOVEN",
-     "channelTelsur": 980,
+     "channelTelsur":" 980",
      "adsl": "239.255.3.60",
      "fca": "239.255.3.60",
      "mpeg4": "239.255.3.60",
@@ -3533,7 +3533,7 @@ export const canales= [
     {
      "id": "319",
      "nombre": "RADIO FUTURO",
-     "channelTelsur": 981,
+     "channelTelsur":" 981",
      "adsl": "239.255.3.59",
      "fca": "239.255.3.59",
      "mpeg4": "239.255.3.59",
@@ -3544,7 +3544,7 @@ export const canales= [
     {
      "id": "320",
      "nombre": "Radio Bio Bio Nacional",
-     "channelTelsur": 982,
+     "channelTelsur":" 982",
      "adsl": "239.255.2.139",
      "fca": "239.255.2.139",
      "mpeg4": "239.255.2.139",
@@ -3555,7 +3555,7 @@ export const canales= [
     {
      "id": "321",
      "nombre": "Radio Bio Bio Temuco",
-     "channelTelsur": 983,
+     "channelTelsur":" 983",
      "adsl": "239.255.2.137",
      "fca": "239.255.2.137",
      "mpeg4": "239.255.2.137",
@@ -3566,7 +3566,7 @@ export const canales= [
     {
      "id": "322",
      "nombre": "Radio Bio Bio Concepción",
-     "channelTelsur": 984,
+     "channelTelsur":" 984",
      "adsl": "239.255.2.136",
      "fca": "239.255.2.136",
      "mpeg4": "239.255.2.136",
@@ -3577,7 +3577,7 @@ export const canales= [
     {
      "id": "323",
      "nombre": "Radio Conquistador",
-     "channelTelsur": 986,
+     "channelTelsur":" 986",
      "adsl": "239.255.2.136",
      "fca": "239.255.2.136",
      "mpeg4": "239.255.2.136",
@@ -3588,7 +3588,7 @@ export const canales= [
     {
      "id": "324",
      "nombre": "BLOOMBERG RADIO",
-     "channelTelsur": 990,
+     "channelTelsur":" 990",
      "adsl": "239.255.3.139",
      "fca": "239.255.3.139",
      "mpeg4": "239.255.3.139",
@@ -3599,7 +3599,7 @@ export const canales= [
     {
      "id": "325",
      "nombre": "BBC RADIO",
-     "channelTelsur": 991,
+     "channelTelsur":" 991",
      "adsl": "239.255.3.150",
      "fca": "239.255.3.150",
      "mpeg4": "239.255.3.150",
@@ -3610,7 +3610,7 @@ export const canales= [
     {
      "id": "326",
      "nombre": "DW RADIO",
-     "channelTelsur": 992,
+     "channelTelsur":" 992",
      "adsl": "239.255.3.151",
      "fca": "239.255.3.151",
      "mpeg4": "239.255.3.151",
@@ -3621,7 +3621,7 @@ export const canales= [
     {
      "id": "327",
      "nombre": "RAI Radio",
-     "channelTelsur": 994,
+     "channelTelsur":" 994",
      "adsl": "239.255.3.152",
      "fca": "239.255.3.152",
      "mpeg4": "239.255.3.152",

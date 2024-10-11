@@ -5,16 +5,8 @@ import { api } from "../utils/api.js";
 
 const DetailsCard = () => {
   const { id } = useParams();
-  console.log(id);
-
   const array = api;
-
-  console.log(array);
-
   const element = array.filter((item) => item.id === id)[0];
-
-  console.log(element);
-
   return (
     <div className="info-logo-container">
       <div className="logo-name-container">

@@ -1,28 +1,43 @@
-import React from "react";
+import React, { useState } from "react";
 import "./Header.css";
 import logo from "../../images/layout_set_logo2.png";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 
 function Header() {
+  const [keyword, setKeyword] = useState('')
 
-  const handleClickSearch=(e) => {
+  const navigate = useNavigate();
+
+  const handleClickSearch = (e) => {
     e.preventDefault();
-    console.log(e.target.value)
+    setKeyword("")
+    e.target.reset("")
+    navigate(`/search/?keyword=${keyword}`);
+  };
 
-  }
 
   return (
     <>
       <div className="header">
-        <img className="header-logo" src={logo} alt="" />
-        <h1 className="header-title">Header</h1>
-        <div>
-          <form className="header-buscar" action="">
-       
-
-            <input onChange={handleClickSearch} className="header-buscar-input" type="text" name="" id="" placeholder="Buscar por nombre o número"/>
-  
-          </form>
+        <div className="header-container">
+          <img className="header-logo" src={logo} alt="" />
+          <h1 className="header-title">Header</h1>
+          <div>
+            <form
+              onSubmit={handleClickSearch}
+              className="header-buscar"
+              action=""
+            >
+              <input
+                className="header-buscar-input"
+                type="text"
+                name=""
+                id=""
+                placeholder="Buscar por nombre o número"
+                onChange={(e) => setKeyword(e.target.value)}
+              />
+            </form>
+          </div>
         </div>
       </div>
     </>

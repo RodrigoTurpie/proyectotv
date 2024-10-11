@@ -6,9 +6,10 @@
     height: 80px;
     background: #5A7EBE;
     border-top:5px solid #FFA100;
-    border:1px solid red;
 }
-
+.header-container{
+    width: 880px;
+}
 .header-logo{
     width: 100px;
     object-fit: cover;

@@ -23,13 +23,11 @@ const Card = () => {
     (<div className="app-container">
       {canales.map((canal) => {
         // Estado loading por cada imagen
-        const handleClickCard = (e) =>{
-    console.log(canal.id);
-  }
+
 
         return (
           (<Link to={`/details/${canal.id}`}>
-            <div className="card" key={canal.id} onClick={handleClickCard}>
+            <div className="card" key={canal.id}>
               <div className="card-header">
                 <h3 className="card-title">{canal.nombre}</h3>
                 <p className="card-number">{canal.channelTelsur}</p>

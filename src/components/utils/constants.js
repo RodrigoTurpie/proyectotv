@@ -4658,4 +4658,3 @@ export const canales = [
     
   ];
 
-  console.log(JSON.stringify(canales));

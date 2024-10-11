@@ -4,98 +4,98 @@ export const canales= [
      "nombre": "Dreamworks",
      "channelTelsur": 3,
      "channelGtd": 3,
-     "encoder": "http:\/\/172.19.14.157\/",
+     "encoder": "http://172.19.14.157/",
      "nombreEncoder": "TL-HOST_157",
      "adsl": "239.255.2.138",
      "fca": "239.255.2.138",
      "mpeg4": "239.255.3.50",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/84\/DreamWorks_ChannelTelsur_Logo.svg\/800px-DreamWorks_ChannelTelsur_Logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_ChannelTelsur_Logo.svg/800px-DreamWorks_ChannelTelsur_Logo.svg.png"
     },
     {
      "id": "2",
      "nombre": "TOONCAST",
      "channelTelsur": 4,
      "channelGtd": 4,
-     "encoder": "http:\/\/172.19.14.157\/",
+     "encoder": "http://172.19.14.157/",
      "nombreEncoder": "TL-HOST_157",
      "adsl": "239.255.2.115",
      "fca": "239.255.5.215",
      "mpeg4": "239.255.5.215",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/bb\/Tooncast_logo.svg\/2560px-Tooncast_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png"
     },
     {
      "id": "3",
      "nombre": "BABY TV",
      "channelTelsur": 6,
      "channelGtd": 6,
-     "encoder": "http:\/\/172.19.14.118\/",
+     "encoder": "http://172.19.14.118/",
      "nombreEncoder": "TL-HOST_118",
      "adsl": "239.255.2.169",
      "fca": "239.255.2.169",
      "mpeg4": "239.255.2.169",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/4\/45\/BabyTV.png"
+     "src": "https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png"
     },
     {
      "id": "4",
      "nombre": "NICK JUNIOR",
      "channelTelsur": 7,
      "channelGtd": 7,
-     "encoder": "http:\/\/172.19.14.113\/",
+     "encoder": "http://172.19.14.113/",
      "nombreEncoder": "TL-HOST_113",
      "adsl": "239.255.2.116",
      "fca": "239.255.5.116",
      "mpeg4": "239.255.5.116",
      "criticidad": 2,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a1\/Nick_Jr._logo_2009.svg\/640px-Nick_Jr._logo_2009.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/640px-Nick_Jr._logo_2009.svg.png"
     },
     {
      "id": "5",
      "nombre": "DISNEY JUNIOR",
      "channelTelsur": 8,
      "channelGtd": 8,
-     "encoder": "http:\/\/172.19.14.112\/",
+     "encoder": "http://172.19.14.112/",
      "nombreEncoder": "TL-HOST_112",
      "adsl": "239.255.2.247",
      "fca": "239.255.2.247",
      "mpeg4": "239.255.3.247",
      "criticidad": 2,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/bb\/Disney_Junior.svg\/800px-Disney_Junior.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/800px-Disney_Junior.svg.png"
     },
     {
      "id": "6",
      "nombre": "DISCOVERY KIDS",
      "channelTelsur": 9,
      "channelGtd": 10,
-     "encoder": "http:\/\/172.19.14.156\/",
+     "encoder": "http://172.19.14.156/",
      "nombreEncoder": "TL-HOST_156",
      "adsl": "239.255.2.20",
      "fca": "239.255.5.20",
      "mpeg4": "239.255.5.20",
      "criticidad": 2,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a9\/Discovery_Kids_Logo_2021-Presente.webp\/125px-Discovery_Kids_Logo_2021-Presente.webp.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png"
     },
     {
      "id": "7",
      "nombre": "NICKELODEON",
      "channelTelsur": 10,
      "channelGtd": 11,
-     "encoder": "http:\/\/172.19.14.113\/",
+     "encoder": "http://172.19.14.113/",
      "nombreEncoder": "TL-HOST_113",
      "adsl": "239.255.2.62",
      "fca": "239.255.5.144",
      "mpeg4": "239.255.5.144",
      "criticidad": 2,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/e5\/Nickelodeon_2023_logo_%28outline%29.svg\/320px-Nickelodeon_2023_logo_%28outline%29.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/320px-Nickelodeon_2023_logo_%28outline%29.svg.png"
     },
     {
      "id": "8",
@@ -103,55 +103,55 @@ export const canales= [
      "channelTelsur": 11,
      "channelGtd": 13,
      "supplier": "TL-HOST_125",
-     "encoder": "http:\/\/172.19.14.125\/",
+     "encoder": "http://172.19.14.125/",
      "adsl": "239.255.2.25",
      "fca": "239.255.5.25",
      "mpeg4": "239.255.5.25",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a5\/Cartoonito_-_Logo_2021.svg\/800px-Cartoonito_-_Logo_2021.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/800px-Cartoonito_-_Logo_2021.svg.png"
     },
     {
      "id": "9",
      "nombre": "CARTOON NETWORK",
      "channelTelsur": 12,
      "channelGtd": 14,
-     "encoder": "http:\/\/172.19.14.112\/",
+     "encoder": "http://172.19.14.112/",
      "nombreEncoder": "TL-HOST_112",
      "adsl": "239.255.2.24",
      "fca": "239.255.5.24",
      "mpeg4": "239.255.3.54",
      "criticidad": 2,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/80\/Cartoon_Network_2010_logo.svg\/1200px-Cartoon_Network_2010_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png"
     },
     {
      "id": "10",
      "nombre": "ZooMoo",
      "channelTelsur": 13,
      "channelGtd": 12,
-     "encoder": "http:\/\/172.19.14.156\/",
+     "encoder": "http://172.19.14.156/",
      "nombreEncoder": "TL-HOST_156",
      "adsl": "239.255.2.6",
      "fca": "239.255.2.6",
      "mpeg4": "239.255.3.248",
      "criticidad": 2,
      "bw": 3.5,
-     "src": "https:\/\/www.zoomookids.com.br\/wp-content\/uploads\/2022\/11\/cropped-shadow-zoomoo-kids-logo.png"
+     "src": "https://www.zoomookids.com.br/wp-content/uploads/2022/11/cropped-shadow-zoomoo-kids-logo.png"
     },
     {
      "id": "11",
      "nombre": "DISNEY",
      "channelTelsur": 14,
      "channelGtd": 9,
-     "encoder": "http:\/\/172.19.14.112\/",
+     "encoder": "http://172.19.14.112/",
      "nombreEncoder": "TL-HOST_112",
      "adsl": "239.255.2.5",
      "fca": "239.255.2.5",
      "mpeg4": "239.255.3.246",
      "criticidad": 2,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d2\/2019_Disney_ChannelTelsur_logo.svg\/800px-2019_Disney_ChannelTelsur_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_ChannelTelsur_logo.svg/800px-2019_Disney_ChannelTelsur_logo.svg.png"
     },
     {
      "id": "12",
@@ -163,7 +163,7 @@ export const canales= [
      "mpeg4": "239.255.2.165",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/fa\/ETC_2016-actual.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png"
     },
     {
      "id": "13",
@@ -174,7 +174,7 @@ export const canales= [
      "mpeg4": "239.255.2.165",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/b1\/Logotipo_Color_2_NTV%28Chile%29.svg\/3816px-Logotipo_Color_2_NTV%28Chile%29.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logotipo_Color_2_NTV%28Chile%29.svg/3816px-Logotipo_Color_2_NTV%28Chile%29.svg.png"
     },
     {
      "id": "14",
@@ -185,7 +185,7 @@ export const canales= [
      "mpeg4": "239.255.2.165",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/9f\/Paramount_Network.svg"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg"
     },
     {
      "id": "15",
@@ -196,7 +196,7 @@ export const canales= [
      "mpeg4": "239.255.2.106",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/46\/Telsur_logo_2019.svg\/1200px-Telsur_logo_2019.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Telsur_logo_2019.svg/1200px-Telsur_logo_2019.svg.png"
     },
     {
      "id": "16",
@@ -207,7 +207,7 @@ export const canales= [
      "mpeg4": "239.255.2.125",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/72\/13C_2018.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/13C_2018.png"
     },
     {
      "id": "17",
@@ -218,7 +218,7 @@ export const canales= [
      "mpeg4": "239.255.2.124",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9b\/TV%2B_%282018%29.png\/800px-TV%2B_%282018%29.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/800px-TV%2B_%282018%29.png"
     },
     {
      "id": "18",
@@ -229,40 +229,40 @@ export const canales= [
      "mpeg4": "239.255.3.123",
      "criticidad": 2,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/10\/La_Red_Logotipo_2021.svg\/200px-La_Red_Logotipo_2021.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/200px-La_Red_Logotipo_2021.svg.png"
     },
     {
      "id": "19",
      "nombre": "TVN CNCP",
      "channelTelsur": 25,
      "adsl": "239.255.3.72 ",
-     "fca": "239.255.5.79 \/ Cncp 239.255.3.73 \/ Tmco 239.255.3.79",
+     "fca": "239.255.5.79 / Cncp 239.255.3.73 / Tmco 239.255.3.79",
      "mpeg4": "239.255.3.47",
      "criticidad": 1,
      "bw": 3.5,
-     "src": "https:\/\/www.tvn.cl\/incoming\/logotipo2020png-5317342\/alternates\/BASE_FREE\/Logotipo%282020%29.png"
+     "src": "https://www.tvn.cl/incoming/logotipo2020png-5317342/alternates/BASE_FREE/Logotipo%282020%29.png"
     },
     {
      "id": "20",
      "nombre": "TVN TMCO",
      "channelTelsur": 25,
      "adsl": "239.255.3.78",
-     "fca": "239.255.5.79 \/ Cncp 239.255.3.73 \/ Tmco 239.255.3.79",
+     "fca": "239.255.5.79 / Cncp 239.255.3.73 / Tmco 239.255.3.79",
      "mpeg4": "239.255.3.47",
      "criticidad": 1,
      "bw": 3.5,
-     "src": "https:\/\/www.tvn.cl\/incoming\/logotipo2020png-5317342\/alternates\/BASE_FREE\/Logotipo%282020%29.png"
+     "src": "https://www.tvn.cl/incoming/logotipo2020png-5317342/alternates/BASE_FREE/Logotipo%282020%29.png"
     },
     {
      "id": "21",
      "nombre": "TVN de Chile Canal 7",
      "channelTelsur": 25,
      "adsl": "239.255.2.79",
-     "fca": "239.255.5.79 \/ Cncp 239.255.3.73 \/ Tmco 239.255.3.79",
+     "fca": "239.255.5.79 / Cncp 239.255.3.73 / Tmco 239.255.3.79",
      "mpeg4": "239.255.3.47",
      "criticidad": 1,
      "bw": 3.5,
-     "src": "https:\/\/www.tvn.cl\/incoming\/logotipo2020png-5317342\/alternates\/BASE_FREE\/Logotipo%282020%29.png"
+     "src": "https://www.tvn.cl/incoming/logotipo2020png-5317342/alternates/BASE_FREE/Logotipo%282020%29.png"
     },
     {
      "id": "22",
@@ -273,7 +273,7 @@ export const canales= [
      "mpeg4": "239.255.2.145",
      "criticidad": 1,
      "bw": 3.5,
-     "src": "https:\/\/brandemia.org\/sites\/default\/files\/sites\/default\/files\/logo_mega-despues.jpg"
+     "src": "https://brandemia.org/sites/default/files/sites/default/files/logo_mega-despues.jpg"
     },
     {
      "id": "23",
@@ -284,7 +284,7 @@ export const canales= [
      "mpeg4": "239.255.3.148",
      "criticidad": 1,
      "bw": 3.5,
-     "src": "https:\/\/www.ecured.cu\/images\/5\/5a\/Sdrfgd.png"
+     "src": "https://www.ecured.cu/images/5/5a/Sdrfgd.png"
     },
     {
      "id": "24",
@@ -295,7 +295,7 @@ export const canales= [
      "mpeg4": "239.255.3.155",
      "criticidad": 1,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/4f\/Emblema_del_Canal_13_Chile.svg\/1280px-Emblema_del_Canal_13_Chile.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/1280px-Emblema_del_Canal_13_Chile.svg.png"
     },
     {
      "id": "25",
@@ -306,7 +306,7 @@ export const canales= [
      "mpeg4": "239.255.2.132",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/6c\/Canal_9_B%C3%ADo_B%C3%ADo_Televisi%C3%B3n_-_2012_logo.png\/1200px-Canal_9_B%C3%ADo_B%C3%ADo_Televisi%C3%B3n_-_2012_logo.png "
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_9_B%C3%ADo_B%C3%ADo_Televisi%C3%B3n_-_2012_logo.png/1200px-Canal_9_B%C3%ADo_B%C3%ADo_Televisi%C3%B3n_-_2012_logo.png "
     },
     {
      "id": "26",
@@ -317,7 +317,7 @@ export const canales= [
      "mpeg4": "239.255.2.141",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/media.licdn.com\/dms\/image\/C510BAQEBuxnuTcXbKw\/company-logo_200_200\/0\/1631363383859?e=2147483647&v=beta&t=UuMNybUJvXivbtmZk2iDL99BwFdzsK5-FF0htvGBU0A"
+     "src": "https://media.licdn.com/dms/image/C510BAQEBuxnuTcXbKw/company-logo_200_200/0/1631363383859?e=2147483647&v=beta&t=UuMNybUJvXivbtmZk2iDL99BwFdzsK5-FF0htvGBU0A"
     },
     {
      "id": "27",
@@ -328,7 +328,7 @@ export const canales= [
      "mpeg4": "239.255.5.140",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/play-lh.googleusercontent.com\/ZSXT5fTtuC-AeszYYOWdulWQbU-gJMFRZ1tuf5Q2eJYSaOnQinFGikcG1qHxcE6pk2rl"
+     "src": "https://play-lh.googleusercontent.com/ZSXT5fTtuC-AeszYYOWdulWQbU-gJMFRZ1tuf5Q2eJYSaOnQinFGikcG1qHxcE6pk2rl"
     },
     {
      "id": "28",
@@ -339,7 +339,7 @@ export const canales= [
      "mpeg4": "239.255.2.18",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/58\/UATV.png\/320px-UATV.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/UATV.png/320px-UATV.png"
     },
     {
      "id": "29",
@@ -350,7 +350,7 @@ export const canales= [
      "mpeg4": "239.255.3.81",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/blogger.googleusercontent.com\/img\/a\/AVvXsEgiMcRVL0kEJwuaeC4079_ngWi7V3Kqu8wnlZ-YkZg6c1sH3TxG4rdm58-TmqwT5wejR0SsMq0FONU6x4pVrzBKh2bbDYSVOh2YJwtIdnsEYOSYQtoQHodkVyquEXehr4MB4ZcL8a3O0J_svZu3mVM_EPi55wspznWRRq_-9coswdI_nddwg9CySCXB=w350-h350-p-k-no-nu"
+     "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgiMcRVL0kEJwuaeC4079_ngWi7V3Kqu8wnlZ-YkZg6c1sH3TxG4rdm58-TmqwT5wejR0SsMq0FONU6x4pVrzBKh2bbDYSVOh2YJwtIdnsEYOSYQtoQHodkVyquEXehr4MB4ZcL8a3O0J_svZu3mVM_EPi55wspznWRRq_-9coswdI_nddwg9CySCXB=w350-h350-p-k-no-nu"
     },
     {
      "id": "30",
@@ -361,7 +361,7 @@ export const canales= [
      "mpeg4": "239.255.3.80",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/yt3.googleusercontent.com\/LZpQvyS2ypZ0BIUHubPJLCtz_vK4hDeiPDgrDJ6lAyWQ85SavcABFjPVmTikZXMebAi6tuGwjA=s176-c-k-c0x00ffffff-no-rj"
+     "src": "https://yt3.googleusercontent.com/LZpQvyS2ypZ0BIUHubPJLCtz_vK4hDeiPDgrDJ6lAyWQ85SavcABFjPVmTikZXMebAi6tuGwjA=s176-c-k-c0x00ffffff-no-rj"
     },
     {
      "id": "31",
@@ -372,7 +372,7 @@ export const canales= [
      "mpeg4": "239.255.2.241",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/96\/ARTV_Logo_2020.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/9/96/ARTV_Logo_2020.png"
     },
     {
      "id": "32",
@@ -383,7 +383,7 @@ export const canales= [
      "mpeg4": "239.255.2.133",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/0f\/Logo_tvu.png\/1200px-Logo_tvu.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_tvu.png/1200px-Logo_tvu.png"
     },
     {
      "id": "33",
@@ -394,7 +394,7 @@ export const canales= [
      "mpeg4": "239.255.2.140",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/pbs.twimg.com\/profile_images\/1157995121\/INET_def_400x400.JPG"
+     "src": "https://pbs.twimg.com/profile_images/1157995121/INET_def_400x400.JPG"
     },
     {
      "id": "34",
@@ -405,7 +405,7 @@ export const canales= [
      "mpeg4": "239.255.2.151",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/roccotv.cl\/wp-content\/uploads\/2015\/02\/roccotv.png"
+     "src": "https://roccotv.cl/wp-content/uploads/2015/02/roccotv.png"
     },
     {
      "id": "35",
@@ -416,7 +416,7 @@ export const canales= [
      "mpeg4": "239.255.2.13",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/www.cega-uchile.cl\/wp-content\/uploads\/2021\/04\/cool-tv.png"
+     "src": "https://www.cega-uchile.cl/wp-content/uploads/2021/04/cool-tv.png"
     },
     {
      "id": "36",
@@ -427,7 +427,7 @@ export const canales= [
      "mpeg4": "239.255.2.13",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcR3gKEcRWH5rzZE2gwH6aC2eqGvKviMRkOwuvmH0mjVXw&s"
+     "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gKEcRWH5rzZE2gwH6aC2eqGvKviMRkOwuvmH0mjVXw&s"
     },
     {
      "id": "37",
@@ -438,7 +438,7 @@ export const canales= [
      "mpeg4": "239.255.2.229",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/www.canalisb.cl\/imagenes\/logo_isb.png"
+     "src": "https://www.canalisb.cl/imagenes/logo_isb.png"
     },
     {
      "id": "38",
@@ -449,7 +449,7 @@ export const canales= [
      "mpeg4": "239.255.2.103",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/scontent.fscl1-1.fna.fbcdn.net\/v\/t39.30808-6\/292061370_746775573329831_327099021967277308_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGij-3IBKSGPMGezzb9xbwAU1ar_DOvt3ZTVqv8M6-3dmQTTlG3n60cA_T98_7A_A4&_nc_ohc=uwNF12br1vIAX9IEweR&_nc_ht=scontent.fscl1-1.fna&oh=00_AfBRi5OZA0ppU_KV3aPzx7lJuZI-xNzUEnMU82S5wRF6cQ&oe=655502D3"
+     "src": "https://scontent.fscl1-1.fna.fbcdn.net/v/t39.30808-6/292061370_746775573329831_327099021967277308_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGij-3IBKSGPMGezzb9xbwAU1ar_DOvt3ZTVqv8M6-3dmQTTlG3n60cA_T98_7A_A4&_nc_ohc=uwNF12br1vIAX9IEweR&_nc_ht=scontent.fscl1-1.fna&oh=00_AfBRi5OZA0ppU_KV3aPzx7lJuZI-xNzUEnMU82S5wRF6cQ&oe=655502D3"
     },
     {
      "id": "39",
@@ -460,7 +460,7 @@ export const canales= [
      "mpeg4": "239.255.2.226",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/scontent.fscl1-1.fna.fbcdn.net\/v\/t39.30808-6\/295758420_23877160271897993_6741801130688224486_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHt_2fI_iuzgUecOE3GJsWjw8hA3_MsnLPDyEDf8yycs2NCRoyNlE5a9zuSEjFMq-c&_nc_ohc=4SJVKtnKurkAX_a7_b5&_nc_ht=scontent.fscl1-1.fna&oh=00_AfD2B2N0fnFc96L1H5ktpqf_pEU0a2rzhfvjf6uUN8-ffA&oe=65548F66"
+     "src": "https://scontent.fscl1-1.fna.fbcdn.net/v/t39.30808-6/295758420_23877160271897993_6741801130688224486_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHt_2fI_iuzgUecOE3GJsWjw8hA3_MsnLPDyEDf8yycs2NCRoyNlE5a9zuSEjFMq-c&_nc_ohc=4SJVKtnKurkAX_a7_b5&_nc_ht=scontent.fscl1-1.fna&oh=00_AfD2B2N0fnFc96L1H5ktpqf_pEU0a2rzhfvjf6uUN8-ffA&oe=65548F66"
     },
     {
      "id": "40",
@@ -471,7 +471,7 @@ export const canales= [
      "mpeg4": "239.255.2.225",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/canaldelsur.cl\/wp-content\/uploads\/2016\/07\/logo-cds-2.png"
+     "src": "https://canaldelsur.cl/wp-content/uploads/2016/07/logo-cds-2.png"
     },
     {
      "id": "41",
@@ -482,7 +482,7 @@ export const canales= [
      "mpeg4": "239.255.3.63",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/pbs.twimg.com\/profile_images\/705138470050631680\/gypFDeR4_400x400.jpg"
+     "src": "https://pbs.twimg.com/profile_images/705138470050631680/gypFDeR4_400x400.jpg"
     },
     {
      "id": "42",
@@ -493,7 +493,7 @@ export const canales= [
      "mpeg4": "239.255.2.240",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/pbs.twimg.com\/profile_images\/445976084186554368\/Ch4aqZPR_400x400.jpeg"
+     "src": "https://pbs.twimg.com/profile_images/445976084186554368/Ch4aqZPR_400x400.jpeg"
     },
     {
      "id": "43",
@@ -504,7 +504,7 @@ export const canales= [
      "mpeg4": " '",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/yt3.googleusercontent.com\/ytc\/APkrFKa27btDuwnJuxhCQwtM6VMno_D7IfqM7S6AxIuL=s176-c-k-c0x00ffffff-no-rj"
+     "src": "https://yt3.googleusercontent.com/ytc/APkrFKa27btDuwnJuxhCQwtM6VMno_D7IfqM7S6AxIuL=s176-c-k-c0x00ffffff-no-rj"
     },
     {
      "id": "44",
@@ -515,7 +515,7 @@ export const canales= [
      "mpeg4": "239.255.3.114",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/cdn-profiles.tunein.com\/s186613\/images\/logog.jpg?t=1648931077000"
+     "src": "https://cdn-profiles.tunein.com/s186613/images/logog.jpg?t=1648931077000"
     },
     {
      "id": "45",
@@ -526,7 +526,7 @@ export const canales= [
      "mpeg4": "239.255.3.2",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/pbs.twimg.com\/profile_images\/421716542946955264\/hBlmbZpL_400x400.png"
+     "src": "https://pbs.twimg.com/profile_images/421716542946955264/hBlmbZpL_400x400.png"
     },
     {
      "id": "46",
@@ -537,7 +537,7 @@ export const canales= [
      "mpeg4": "239.255.3.82",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/radio1latina.cl\/wp-content\/uploads\/2015\/01\/logo.png"
+     "src": "https://radio1latina.cl/wp-content/uploads/2015/01/logo.png"
     },
     {
      "id": "47",
@@ -548,7 +548,7 @@ export const canales= [
      "mpeg4": "239.255.3.82",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/tectv.cl\/wp-content\/uploads\/2020\/10\/TECTV-sin-hd.png"
+     "src": "https://tectv.cl/wp-content/uploads/2020/10/TECTV-sin-hd.png"
     },
     {
      "id": "48",
@@ -559,7 +559,7 @@ export const canales= [
      "mpeg4": " '",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/s3-mspro.nyc3.cdn.digitaloceanspaces.com\/tenant\/5f45357a0ac66b5dfa35c144\/mediaLibrary\/photo\/6ffc1997-59e5-48d2-83a5-a1392ae981b8-extra-large-standard-q100.webp"
+     "src": "https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f45357a0ac66b5dfa35c144/mediaLibrary/photo/6ffc1997-59e5-48d2-83a5-a1392ae981b8-extra-large-standard-q100.webp"
     },
     {
      "id": "49",
@@ -570,7 +570,7 @@ export const canales= [
      "mpeg4": " '",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/i0.wp.com\/directostv.teleame.com\/wp-content\/uploads\/2017\/10\/UMAG-TV-en-vivo-Online.png?resize=696%2C392&ssl=1"
+     "src": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/UMAG-TV-en-vivo-Online.png?resize=696%2C392&ssl=1"
     },
     {
      "id": "50",
@@ -581,7 +581,7 @@ export const canales= [
      "mpeg4": " '",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/castromunicipiotv.cl\/wp-content\/uploads\/2023\/06\/LOGO-CASTRO-TV-1-e1687559394757.png"
+     "src": "https://castromunicipiotv.cl/wp-content/uploads/2023/06/LOGO-CASTRO-TV-1-e1687559394757.png"
     },
     {
      "id": "51",
@@ -592,7 +592,7 @@ export const canales= [
      "mpeg4": "239.255.3.205",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/tvuct.cl\/wp-content\/uploads\/logo-retina.png"
+     "src": "https://tvuct.cl/wp-content/uploads/logo-retina.png"
     },
     {
      "id": "52",
@@ -603,7 +603,7 @@ export const canales= [
      "mpeg4": "239.255.3.205",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/tvuct.cl\/wp-content\/uploads\/logo-retina.png"
+     "src": "https://tvuct.cl/wp-content/uploads/logo-retina.png"
     },
     {
      "id": "53",
@@ -614,7 +614,7 @@ export const canales= [
      "mpeg4": "239.255.3.205",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/s3-mspro.nyc3.cdn.digitaloceanspaces.com\/tenant\/5f2da07961acd87f51b057f5\/mediaLibrary\/photo\/864723cb-d3e1-4543-8cb0-244988977bc2-extra-large-standard-q100.png"
+     "src": "https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f2da07961acd87f51b057f5/mediaLibrary/photo/864723cb-d3e1-4543-8cb0-244988977bc2-extra-large-standard-q100.png"
     },
     {
      "id": "54",
@@ -625,7 +625,7 @@ export const canales= [
      "mpeg4": "239.255.3.154",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1b\/Televisi%C3%B3n_Regional_de_Chile_-_logo.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Televisi%C3%B3n_Regional_de_Chile_-_logo.png"
     },
     {
      "id": "55",
@@ -636,7 +636,7 @@ export const canales= [
      "mpeg4": "239.255.3.205",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/98\/Fox_Sports_1_logo.svg\/1200px-Fox_Sports_1_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1200px-Fox_Sports_1_logo.svg.png"
     },
     {
      "id": "56",
@@ -647,7 +647,7 @@ export const canales= [
      "mpeg4": "239.255.3.107",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/s3.us-east-1.amazonaws.com\/forofms.na\/monthly_2021_01\/small.logo_tntsports_2_blanco.png.4cb2bc193dc2463c8704a6ad1ddb4ca0.png"
+     "src": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_01/small.logo_tntsports_2_blanco.png.4cb2bc193dc2463c8704a6ad1ddb4ca0.png"
     },
     {
      "id": "57",
@@ -658,7 +658,7 @@ export const canales= [
      "mpeg4": "239.255.2.100",
      "criticidad": 2,
      "bw": 9,
-     "src": "https:\/\/www.directv.cl\/content\/dam\/public-sites\/channelTelsurs\/1631_CL.png"
+     "src": "https://www.directv.cl/content/dam/public-sites/channelTelsurs/1631_CL.png"
     },
     {
      "id": "58",
@@ -669,7 +669,7 @@ export const canales= [
      "mpeg4": "239.255.3.207",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/cdn.mitvstatic.com\/channelTelsurs\/cl_fox-sports-1-hd_m.png"
+     "src": "https://cdn.mitvstatic.com/channelTelsurs/cl_fox-sports-1-hd_m.png"
     },
     {
      "id": "59",
@@ -680,7 +680,7 @@ export const canales= [
      "mpeg4": "239.255.3.15",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/s3.us-east-1.amazonaws.com\/forofms.na\/gallery\/category_7\/large.gallery_8863_7_25047.png.57c879e05ccde149e497f4ef896e1240.png"
+     "src": "https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8863_7_25047.png.57c879e05ccde149e497f4ef896e1240.png"
     },
     {
      "id": "60",
@@ -691,7 +691,7 @@ export const canales= [
      "mpeg4": "239.255.3.15",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/26\/SporTV_2021.png\/200px-SporTV_2021.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SporTV_2021.png/200px-SporTV_2021.png"
     },
     {
      "id": "61",
@@ -702,7 +702,7 @@ export const canales= [
      "mpeg4": "239.255.3.179",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/www.directv.cl\/content\/dam\/public-sites\/channelTelsurs\/637_CL.png"
+     "src": "https://www.directv.cl/content/dam/public-sites/channelTelsurs/637_CL.png"
     },
     {
      "id": "62",
@@ -713,7 +713,7 @@ export const canales= [
      "mpeg4": "239.255.3.184",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/www.directv.cl\/content\/dam\/public-sites\/channelTelsurs\/637_CL.png"
+     "src": "https://www.directv.cl/content/dam/public-sites/channelTelsurs/637_CL.png"
     },
     {
      "id": "63",
@@ -724,7 +724,7 @@ export const canales= [
      "mpeg4": "239.255.3.239",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/8d\/2015_Fox_sports_logo.svg\/175px-2015_Fox_sports_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png"
     },
     {
      "id": "64",
@@ -735,7 +735,7 @@ export const canales= [
      "mpeg4": "239.255.3.32",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/s3.us-east-1.amazonaws.com\/forofms.na\/gallery\/category_7\/large.gallery_8863_7_11394.png.fa1a5e8a9a3a836e2639328d9638374f.png"
+     "src": "https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8863_7_11394.png.fa1a5e8a9a3a836e2639328d9638374f.png"
     },
     {
      "id": "65",
@@ -746,7 +746,7 @@ export const canales= [
      "mpeg4": "239.255.3.108",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/dmdqet87i5rod.cloudfront.net\/estoesmedia\/6006d9d7bc979_tntsports.jpg"
+     "src": "https://dmdqet87i5rod.cloudfront.net/estoesmedia/6006d9d7bc979_tntsports.jpg"
     },
     {
      "id": "66",
@@ -757,7 +757,7 @@ export const canales= [
      "mpeg4": "239.255.3.206",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/www.directv.cl\/content\/dam\/public-sites\/channelTelsurs\/624.png"
+     "src": "https://www.directv.cl/content/dam/public-sites/channelTelsurs/624.png"
     },
     {
      "id": "67",
@@ -768,7 +768,7 @@ export const canales= [
      "mpeg4": "239.255.3.156",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/www.directv.cl\/content\/dam\/public-sites\/channelTelsurs\/621.png"
+     "src": "https://www.directv.cl/content/dam/public-sites/channelTelsurs/621.png"
     },
     {
      "id": "68",
@@ -779,7 +779,7 @@ export const canales= [
      "mpeg4": "239.255.3.157",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/www.directv.cl\/content\/dam\/public-sites\/channelTelsurs\/622.png"
+     "src": "https://www.directv.cl/content/dam/public-sites/channelTelsurs/622.png"
     },
     {
      "id": "69",
@@ -790,7 +790,7 @@ export const canales= [
      "mpeg4": "239.255.3.158",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/www.directv.cl\/content\/dam\/public-sites\/channelTelsurs\/623.png"
+     "src": "https://www.directv.cl/content/dam/public-sites/channelTelsurs/623.png"
     },
     {
      "id": "70",
@@ -801,7 +801,7 @@ export const canales= [
      "mpeg4": "239.255.2.244",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/54\/TyC_Sports_logo.svg\/1920px-TyC_Sports_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1920px-TyC_Sports_logo.svg.png"
     },
     {
      "id": "71",
@@ -812,7 +812,7 @@ export const canales= [
      "mpeg4": "239.255.2.57",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a3\/GolTV_logo.svg\/320px-GolTV_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png"
     },
     {
      "id": "72",
@@ -823,7 +823,7 @@ export const canales= [
      "mpeg4": "239.255.3.209",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a9\/Fox_sports_3_logo.svg\/180px-Fox_sports_3_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png"
     },
     {
      "id": "73",
@@ -834,7 +834,7 @@ export const canales= [
      "mpeg4": "239.255.5.121",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/ec\/Discovery_Turbo_logo.svg\/180px-Discovery_Turbo_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png"
     },
     {
      "id": "74",
@@ -845,7 +845,7 @@ export const canales= [
      "mpeg4": "239.255.2.248",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/94\/Logo_AM-sports-2019.svg\/300px-Logo_AM-sports-2019.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/300px-Logo_AM-sports-2019.svg.png"
     },
     {
      "id": "75",
@@ -856,7 +856,7 @@ export const canales= [
      "mpeg4": "239.255.3.180",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/48\/CDO_Premium.png\/320px-CDO_Premium.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CDO_Premium.png/320px-CDO_Premium.png"
     },
     {
      "id": "76",
@@ -867,7 +867,7 @@ export const canales= [
      "mpeg4": "239.255.3.210",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/23\/Golf_ChannelTelsur_Logo_2018.png\/200px-Golf_ChannelTelsur_Logo_2018.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_ChannelTelsur_Logo_2018.png/200px-Golf_ChannelTelsur_Logo_2018.png"
     },
     {
      "id": "77",
@@ -878,7 +878,7 @@ export const canales= [
      "mpeg4": "239.255.5.113",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/assets-global.website-files.com\/605a3cacba514a77ca2e6ab5\/6065f665a567a9739a970cc5_teletrak.jpeg"
+     "src": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f665a567a9739a970cc5_teletrak.jpeg"
     },
     {
      "id": "78",
@@ -889,7 +889,7 @@ export const canales= [
      "mpeg4": "239.255.2.249",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/www.directv.cl\/content\/dam\/public-sites\/channelTelsurs\/784.png"
+     "src": "https://www.directv.cl/content/dam/public-sites/channelTelsurs/784.png"
     },
     {
      "id": "79",
@@ -900,7 +900,7 @@ export const canales= [
      "mpeg4": "239.255.3.8",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/cc\/Telefe_%28nuevo_logo%29.png\/180px-Telefe_%28nuevo_logo%29.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/180px-Telefe_%28nuevo_logo%29.png"
     },
     {
      "id": "80",
@@ -911,7 +911,7 @@ export const canales= [
      "mpeg4": "239.255.2.96",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/scontent.fzal1-1.fna.fbcdn.net\/v\/t39.30808-6\/348289453_769644144538439_8030431306324475280_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFPjUazWVOvzDkc57NmgCFPo44IoOPGWjKjjgig48ZaMnoMSFzPQWz9WzORmHr5GBw&_nc_ohc=oWYuWM4nAbMAX9zamF2&_nc_ht=scontent.fzal1-1.fna&oh=00_AfD1vTWVzt55bqDqb42IHYE4TL2SwtHgB1HcwMgto336hQ&oe=65556BE6"
+     "src": "https://scontent.fzal1-1.fna.fbcdn.net/v/t39.30808-6/348289453_769644144538439_8030431306324475280_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFPjUazWVOvzDkc57NmgCFPo44IoOPGWjKjjgig48ZaMnoMSFzPQWz9WzORmHr5GBw&_nc_ohc=oWYuWM4nAbMAX9zamF2&_nc_ht=scontent.fzal1-1.fna&oh=00_AfD1vTWVzt55bqDqb42IHYE4TL2SwtHgB1HcwMgto336hQ&oe=65556BE6"
     },
     {
      "id": "81",
@@ -922,7 +922,7 @@ export const canales= [
      "mpeg4": "239.255.2.168",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/29\/Caracol_Televisi%C3%B3n_logo_2023.png\/125px-Caracol_Televisi%C3%B3n_logo_2023.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Caracol_Televisi%C3%B3n_logo_2023.png/125px-Caracol_Televisi%C3%B3n_logo_2023.png"
     },
     {
      "id": "82",
@@ -933,7 +933,7 @@ export const canales= [
      "mpeg4": "239.255.3.172",
      "criticidad": " '",
      "bw": 3.5,
-     "src": "https:\/\/i0.wp.com\/directostv.teleame.com\/wp-content\/uploads\/2020\/10\/Campo-Abierto-TV-en-vivo-Online.png?resize=696%2C392&ssl=1"
+     "src": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Campo-Abierto-TV-en-vivo-Online.png?resize=696%2C392&ssl=1"
     },
     {
      "id": "83",
@@ -944,7 +944,7 @@ export const canales= [
      "mpeg4": "239.255.3.172",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/69\/Logo_canal_vasco.png\/220px-Logo_canal_vasco.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_canal_vasco.png/220px-Logo_canal_vasco.png"
     },
     {
      "id": "84",
@@ -955,7 +955,7 @@ export const canales= [
      "mpeg4": "239.255.3.193",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/assets-global.website-files.com\/605a3cacba514a77ca2e6ab5\/638e58408bb6c5b2ab54aad6_a3int.jpg"
+     "src": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e58408bb6c5b2ab54aad6_a3int.jpg"
     },
     {
      "id": "85",
@@ -966,7 +966,7 @@ export const canales= [
      "mpeg4": "239.255.3.9",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/e7\/TVE.svg\/220px-TVE.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/220px-TVE.svg.png"
     },
     {
      "id": "86",
@@ -977,7 +977,7 @@ export const canales= [
      "mpeg4": "239.255.2.75",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/51\/Logo_TV5_Monde_-_2021.svg\/250px-Logo_TV5_Monde_-_2021.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/250px-Logo_TV5_Monde_-_2021.svg.png"
     },
     {
      "id": "87",
@@ -988,7 +988,7 @@ export const canales= [
      "mpeg4": "239.255.5.35",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/75\/Deutsche_Welle_symbol_2012.svg\/1200px-Deutsche_Welle_symbol_2012.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png"
     },
     {
      "id": "88",
@@ -999,7 +999,7 @@ export const canales= [
      "mpeg4": "239.255.2.42",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQ5I0zjy0YCjrpfdjPoBR1bfDHY6ikEZTvDSmYbt5NzLlOY35Z5RDq93mQoQhb-QfqQB9g&usqp=CAU"
+     "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5I0zjy0YCjrpfdjPoBR1bfDHY6ikEZTvDSmYbt5NzLlOY35Z5RDq93mQoQhb-QfqQB9g&usqp=CAU"
     },
     {
      "id": "89",
@@ -1010,7 +1010,7 @@ export const canales= [
      "mpeg4": "239.255.2.42",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/0.soompi.io\/wp-content\/uploads\/4\/p\/8c\/389704\/389704.png?s=900x600&e=t"
+     "src": "https://0.soompi.io/wp-content/uploads/4/p/8c/389704/389704.png?s=900x600&e=t"
     },
     {
      "id": "90",
@@ -1021,7 +1021,7 @@ export const canales= [
      "mpeg4": "239.255.2.128",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/www.tumundo.cl\/wp-content\/uploads\/2022\/11\/Azteca_Internacional_Logo-1.jpg"
+     "src": "https://www.tumundo.cl/wp-content/uploads/2022/11/Azteca_Internacional_Logo-1.jpg"
     },
     {
      "id": "91",
@@ -1032,7 +1032,7 @@ export const canales= [
      "mpeg4": "239.255.2.128",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/47\/America_Televisi%C3%B3n-logo.svg\/799px-America_Televisi%C3%B3n-logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/America_Televisi%C3%B3n-logo.svg/799px-America_Televisi%C3%B3n-logo.svg.png"
     },
     {
      "id": "92",
@@ -1043,7 +1043,7 @@ export const canales= [
      "mpeg4": "239.255.3.66",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/dd\/VOA_logo.svg\/180px-VOA_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/180px-VOA_logo.svg.png"
     },
     {
      "id": "93",
@@ -1054,7 +1054,7 @@ export const canales= [
      "mpeg4": "239.255.5.6",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/static.dw.com\/image\/15705485_1005.jpg"
+     "src": "https://static.dw.com/image/15705485_1005.jpg"
     },
     {
      "id": "94",
@@ -1065,7 +1065,7 @@ export const canales= [
      "mpeg4": "239.255.3.50",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/cdn.mitvstatic.com\/channelTelsurs\/cl_tv-globo_m.png"
+     "src": "https://cdn.mitvstatic.com/channelTelsurs/cl_tv-globo_m.png"
     },
     {
      "id": "95",
@@ -1076,7 +1076,7 @@ export const canales= [
      "mpeg4": "239.255.3.85",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/8d\/NHK_World-Japan_TV.svg\/512px-NHK_World-Japan_TV.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"
     },
     {
      "id": "96",
@@ -1087,7 +1087,7 @@ export const canales= [
      "mpeg4": "239.255.3.85",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/www.digitaltveurope.com\/files\/2023\/10\/Unknown-300x300.png"
+     "src": "https://www.digitaltveurope.com/files/2023/10/Unknown-300x300.png"
     },
     {
      "id": "97",
@@ -1098,7 +1098,7 @@ export const canales= [
      "mpeg4": "239.255.3.85",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/www.cxtv.com.br\/img\/Tvs\/Logo\/webp-m\/6bf7cf246d5c1a23aba7cfe8ce72381a.webp"
+     "src": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6bf7cf246d5c1a23aba7cfe8ce72381a.webp"
     },
     {
      "id": "98",
@@ -1109,7 +1109,7 @@ export const canales= [
      "mpeg4": "239.255.3.44",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/ee\/C%C3%A1mara_de_Diputadas_y_Diputados_de_Chile.png\/150px-C%C3%A1mara_de_Diputadas_y_Diputados_de_Chile.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/C%C3%A1mara_de_Diputadas_y_Diputados_de_Chile.png/150px-C%C3%A1mara_de_Diputadas_y_Diputados_de_Chile.png"
     },
     {
      "id": "99",
@@ -1120,7 +1120,7 @@ export const canales= [
      "mpeg4": "239.255.5.83",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/yt3.googleusercontent.com\/rzWmoueYLYs4hpK1mwVFnyafADTztytGuZFiPJEVd1lyCZKFyYebzLPV1P9BB4xB6rEIiEKSug=s176-c-k-c0x00ffffff-no-rj"
+     "src": "https://yt3.googleusercontent.com/rzWmoueYLYs4hpK1mwVFnyafADTztytGuZFiPJEVd1lyCZKFyYebzLPV1P9BB4xB6rEIiEKSug=s176-c-k-c0x00ffffff-no-rj"
     },
     {
      "id": "100",
@@ -1131,7 +1131,7 @@ export const canales= [
      "mpeg4": "239.255.3.126",
      "criticidad": 2,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/14\/Emblema_de_24_Horas_TVN.svg\/150px-Emblema_de_24_Horas_TVN.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Emblema_de_24_Horas_TVN.svg/150px-Emblema_de_24_Horas_TVN.svg.png"
     },
     {
      "id": "101",
@@ -1142,7 +1142,7 @@ export const canales= [
      "mpeg4": "239.255.3.43",
      "criticidad": 2,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/6a\/CNN_Chile_logo_2017.svg\/150px-CNN_Chile_logo_2017.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/150px-CNN_Chile_logo_2017.svg.png"
     },
     {
      "id": "102",
@@ -1153,7 +1153,7 @@ export const canales= [
      "mpeg4": "239.255.5.17",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/b6\/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg\/125px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/125px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png"
     },
     {
      "id": "103",
@@ -1164,7 +1164,7 @@ export const canales= [
      "mpeg4": "239.255.5.15",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/66\/CNN_International_logo.svg\/162px-CNN_International_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/162px-CNN_International_logo.svg.png"
     },
     {
      "id": "104",
@@ -1175,7 +1175,7 @@ export const canales= [
      "mpeg4": "239.255.3.240",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/67\/Fox_News_ChannelTelsur_logo.svg\/120px-Fox_News_ChannelTelsur_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_ChannelTelsur_logo.svg/120px-Fox_News_ChannelTelsur_logo.svg.png"
     },
     {
      "id": "105",
@@ -1186,7 +1186,7 @@ export const canales= [
      "mpeg4": "239.255.3.68",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/4c\/Logo_TVE-24h.svg\/702px-Logo_TVE-24h.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/702px-Logo_TVE-24h.svg.png"
     },
     {
      "id": "106",
@@ -1197,7 +1197,7 @@ export const canales= [
      "mpeg4": "239.255.3.244",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/32\/BBC_World_News_2019.svg\/600px-BBC_World_News_2019.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/600px-BBC_World_News_2019.svg.png"
     },
     {
      "id": "107",
@@ -1208,7 +1208,7 @@ export const canales= [
      "mpeg4": "239.255.3.144",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/39\/Euronews._2016_alternative_logo.png\/600px-Euronews._2016_alternative_logo.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png"
     },
     {
      "id": "108",
@@ -1219,7 +1219,7 @@ export const canales= [
      "mpeg4": "239.255.2.173",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/f\/f2\/Aljazeera_eng.svg\/200px-Aljazeera_eng.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/200px-Aljazeera_eng.svg.png"
     },
     {
      "id": "109",
@@ -1230,7 +1230,7 @@ export const canales= [
      "mpeg4": "239.255.3.51",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/66\/Bloomberg_Television_logo.svg\/175px-Bloomberg_Television_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bloomberg_Television_logo.svg/175px-Bloomberg_Television_logo.svg.png"
     },
     {
      "id": "110",
@@ -1241,7 +1241,7 @@ export const canales= [
      "mpeg4": "239.255.2.171",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/8a\/France24.png\/125px-France24.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/125px-France24.png"
     },
     {
      "id": "111",
@@ -1252,7 +1252,7 @@ export const canales= [
      "mpeg4": "239.255.2.158",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/68\/Telemundo_logo_2018.svg\/150px-Telemundo_logo_2018.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png"
     },
     {
      "id": "112",
@@ -1263,7 +1263,7 @@ export const canales= [
      "mpeg4": "239.255.5.26",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/cdn.mitvstatic.com\/channelTelsurs\/cl_ewtn_m.png"
+     "src": "https://cdn.mitvstatic.com/channelTelsurs/cl_ewtn_m.png"
     },
     {
      "id": "113",
@@ -1274,7 +1274,7 @@ export const canales= [
      "mpeg4": "239.255.3.167",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/91\/Maria-vision.jpg\/150px-Maria-vision.jpg"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Maria-vision.jpg/150px-Maria-vision.jpg"
     },
     {
      "id": "114",
@@ -1285,7 +1285,7 @@ export const canales= [
      "mpeg4": "239.255.2.88",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/cdn.mitvstatic.com\/channelTelsurs\/b44351a4-f08c-4d49-b657-52ae6fbcfc98_m.jpg"
+     "src": "https://cdn.mitvstatic.com/channelTelsurs/b44351a4-f08c-4d49-b657-52ae6fbcfc98_m.jpg"
     },
     {
      "id": "115",
@@ -1296,7 +1296,7 @@ export const canales= [
      "mpeg4": "239.255.2.94",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/cdn.mitvstatic.com\/channelTelsurs\/cl_nuevo-tiempo_m.png"
+     "src": "https://cdn.mitvstatic.com/channelTelsurs/cl_nuevo-tiempo_m.png"
     },
     {
      "id": "116",
@@ -1307,7 +1307,7 @@ export const canales= [
      "mpeg4": "239.255.5.70",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/3a\/Logo_TNT_Novelas.png\/150px-Logo_TNT_Novelas.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/150px-Logo_TNT_Novelas.png"
     },
     {
      "id": "117",
@@ -1318,7 +1318,7 @@ export const canales= [
      "mpeg4": "239.255.3.250",
      "criticidad": 2,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/1e\/Paramount_Global.svg\/220px-Paramount_Global.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/220px-Paramount_Global.svg.png"
     },
     {
      "id": "118",
@@ -1329,7 +1329,7 @@ export const canales= [
      "mpeg4": "239.255.3.251",
      "criticidad": 2,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/52\/AXN_logo_%282015%29.svg\/150px-AXN_logo_%282015%29.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png"
     },
     {
      "id": "119",
@@ -1340,7 +1340,7 @@ export const canales= [
      "mpeg4": "239.255.3.252",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/la.sonychannelTelsur.com\/sites\/g\/files\/objgke216\/files\/Sony_ChannelTelsur_Mango_Logo_System_Onesheet_RGB_071923-prueba.png"
+     "src": "https://la.sonychannelTelsur.com/sites/g/files/objgke216/files/Sony_ChannelTelsur_Mango_Logo_System_Onesheet_RGB_071923-prueba.png"
     },
     {
      "id": "120",
@@ -1351,7 +1351,7 @@ export const canales= [
      "mpeg4": "239.255.3.245",
      "criticidad": 2,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/89\/Star_ChannelTelsur_2020.svg\/1200px-Star_ChannelTelsur_2020.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_ChannelTelsur_2020.svg/1200px-Star_ChannelTelsur_2020.svg.png"
     },
     {
      "id": "121",
@@ -1362,7 +1362,7 @@ export const canales= [
      "mpeg4": "239.255.3.159",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/df\/A%26E_Network_logo.svg\/512px-A%26E_Network_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png"
     },
     {
      "id": "122",
@@ -1373,7 +1373,7 @@ export const canales= [
      "mpeg4": "239.255.3.18",
      "criticidad": 2,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/4f\/Universal-Pictures-Logo.svg\/800px-Universal-Pictures-Logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Universal-Pictures-Logo.svg/800px-Universal-Pictures-Logo.svg.png"
     },
     {
      "id": "123",
@@ -1384,7 +1384,7 @@ export const canales= [
      "mpeg4": "239.255.3.253",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/bittchannelTelsur.com\/wp-content\/uploads\/2023\/05\/01.Logo-Cine-Premium-Alpha-Aoriginal-1024x576.png"
+     "src": "https://bittchannelTelsur.com/wp-content/uploads/2023/05/01.Logo-Cine-Premium-Alpha-Aoriginal-1024x576.png"
     },
     {
      "id": "124",
@@ -1395,7 +1395,7 @@ export const canales= [
      "mpeg4": "239.255.2.86",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/www.directv.cl\/content\/dam\/public-sites\/channelTelsurs\/222.png"
+     "src": "https://www.directv.cl/content/dam/public-sites/channelTelsurs/222.png"
     },
     {
      "id": "125",
@@ -1406,7 +1406,7 @@ export const canales= [
      "mpeg4": "239.255.3.19",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/www.directv.cl\/content\/dam\/public-sites\/channelTelsurs\/223.png"
+     "src": "https://www.directv.cl/content/dam/public-sites/channelTelsurs/223.png"
     },
     {
      "id": "126",
@@ -1417,7 +1417,7 @@ export const canales= [
      "mpeg4": "239.255.5.65",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/e4\/Adult_Swim_2003_logo.svg\/320px-Adult_Swim_2003_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/320px-Adult_Swim_2003_logo.svg.png"
     },
     {
      "id": "127",
@@ -1428,7 +1428,7 @@ export const canales= [
      "mpeg4": "239.255.2.129",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/e0\/TV_Azteca_Coraz%C3%B3n_logo.svg\/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png"
     },
     {
      "id": "128",
@@ -1439,7 +1439,7 @@ export const canales= [
      "mpeg4": "239.255.5.64",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/b7\/Glitzlogo.png\/150px-Glitzlogo.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Glitzlogo.png/150px-Glitzlogo.png"
     },
     {
      "id": "129",
@@ -1450,7 +1450,7 @@ export const canales= [
      "mpeg4": "239.255.3.160",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/4d\/FX_International_logo.svg\/125px-FX_International_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png"
     },
     {
      "id": "130",
@@ -1461,7 +1461,7 @@ export const canales= [
      "mpeg4": "239.255.2.170",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d7\/USA_Network_logo_%282016%29.svg\/200px-USA_Network_logo_%282016%29.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/200px-USA_Network_logo_%282016%29.svg.png"
     },
     {
      "id": "131",
@@ -1472,7 +1472,7 @@ export const canales= [
      "mpeg4": "239.255.3.161",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/75\/TNT_Series_Logo_2016.png\/94px-TNT_Series_Logo_2016.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png"
     },
     {
      "id": "132",
@@ -1483,7 +1483,7 @@ export const canales= [
      "mpeg4": "239.255.3.109",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/aa\/Comedy_Central_2018.svg\/200px-Comedy_Central_2018.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/200px-Comedy_Central_2018.svg.png"
     },
     {
      "id": "133",
@@ -1494,7 +1494,7 @@ export const canales= [
      "mpeg4": "239.255.3.187",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9c\/Logo_Lifetime_2020.svg\/150px-Logo_Lifetime_2020.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png"
     },
     {
      "id": "134",
@@ -1505,7 +1505,7 @@ export const canales= [
      "mpeg4": "239.255.5.61",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/0d\/MTV-2021.svg\/150px-MTV-2021.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/150px-MTV-2021.svg.png"
     },
     {
      "id": "135",
@@ -1516,7 +1516,7 @@ export const canales= [
      "mpeg4": "239.255.5.63",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f8\/MTV_00s_remaster.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png"
     },
     {
      "id": "136",
@@ -1527,7 +1527,7 @@ export const canales= [
      "mpeg4": "239.255.3.232",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/scontent.fscl1-1.fna.fbcdn.net\/v\/t39.30808-6\/306754489_515811403885355_2171042215730757009_n.png?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHCnlaDZB3_N7dJddzWhHqbL8Myx-CN0hAvwzLH4I3SEKjd5q7iYEf-v7dfEm6aAdc&_nc_ohc=xSDZWy-E3vMAX8Kk-u3&_nc_ht=scontent.fscl1-1.fna&oh=00_AfCUUvbHY3D05KJvLcA1ZVGoiAqvnH524d_W7REh9m36_A&oe=65618439"
+     "src": "https://scontent.fscl1-1.fna.fbcdn.net/v/t39.30808-6/306754489_515811403885355_2171042215730757009_n.png?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHCnlaDZB3_N7dJddzWhHqbL8Myx-CN0hAvwzLH4I3SEKjd5q7iYEf-v7dfEm6aAdc&_nc_ohc=xSDZWy-E3vMAX8Kk-u3&_nc_ht=scontent.fscl1-1.fna&oh=00_AfCUUvbHY3D05KJvLcA1ZVGoiAqvnH524d_W7REh9m36_A&oe=65618439"
     },
     {
      "id": "137",
@@ -1538,7 +1538,7 @@ export const canales= [
      "mpeg4": "239.255.5.119",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d6\/MTV_Hits_2021.svg\/125px-MTV_Hits_2021.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/125px-MTV_Hits_2021.svg.png"
     },
     {
      "id": "138",
@@ -1549,7 +1549,7 @@ export const canales= [
      "mpeg4": "239.255.5.118",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/82\/Club_MTV_2021_logo.svg\/125px-Club_MTV_2021_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/125px-Club_MTV_2021_logo.svg.png"
     },
     {
      "id": "139",
@@ -1560,7 +1560,7 @@ export const canales= [
      "mpeg4": "239.255.5.117",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/2d\/NickMusic_%282016-.n.v.%29.png\/800px-NickMusic_%282016-.n.v.%29.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/NickMusic_%282016-.n.v.%29.png/800px-NickMusic_%282016-.n.v.%29.png"
     },
     {
      "id": "140",
@@ -1571,7 +1571,7 @@ export const canales= [
      "mpeg4": "239.255.5.242",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/0c\/MuchMusicLA_%282007%29.svg\/120px-MuchMusicLA_%282007%29.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MuchMusicLA_%282007%29.svg/120px-MuchMusicLA_%282007%29.svg.png"
     },
     {
      "id": "141",
@@ -1582,7 +1582,7 @@ export const canales= [
      "mpeg4": "239.255.5.67",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/51\/Htv_logo.svg\/120px-Htv_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png"
     },
     {
      "id": "142",
@@ -1593,7 +1593,7 @@ export const canales= [
      "mpeg4": "239.255.3.20",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f1\/2019_Discovery_logo.svg\/180px-2019_Discovery_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png"
     },
     {
      "id": "143",
@@ -1604,7 +1604,7 @@ export const canales= [
      "mpeg4": "239.255.3.24",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/fc\/Natgeologo.svg\/200px-Natgeologo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png"
     },
     {
      "id": "144",
@@ -1615,7 +1615,7 @@ export const canales= [
      "mpeg4": "239.255.3.162",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f5\/History_Logo.svg\/571px-History_Logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/571px-History_Logo.svg.png"
     },
     {
      "id": "145",
@@ -1626,7 +1626,7 @@ export const canales= [
      "mpeg4": "239.255.3.25",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a3\/Discovery_Home_%26_Health_logo.svg\/150px-Discovery_Home_%26_Health_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/150px-Discovery_Home_%26_Health_logo.svg.png"
     },
     {
      "id": "146",
@@ -1637,7 +1637,7 @@ export const canales= [
      "mpeg4": "239.255.3.48",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/www.directv.cl\/content\/dam\/public-sites\/channelTelsurs\/232.png"
+     "src": "https://www.directv.cl/content/dam/public-sites/channelTelsurs/232.png"
     },
     {
      "id": "147",
@@ -1648,7 +1648,7 @@ export const canales= [
      "mpeg4": "239.255.3.230",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/www.directv.cl\/content\/dam\/public-sites\/channelTelsurs\/230.png"
+     "src": "https://www.directv.cl/content/dam/public-sites/channelTelsurs/230.png"
     },
     {
      "id": "148",
@@ -1659,7 +1659,7 @@ export const canales= [
      "mpeg4": "239.255.3.231",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/20\/2018_Animal_Planet_logo.svg\/200px-2018_Animal_Planet_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png"
     },
     {
      "id": "149",
@@ -1670,7 +1670,7 @@ export const canales= [
      "mpeg4": "239.255.3.238",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/www.directv.cl\/content\/dam\/public-sites\/channelTelsurs\/740.png"
+     "src": "https://www.directv.cl/content/dam/public-sites/channelTelsurs/740.png"
     },
     {
      "id": "150",
@@ -1681,7 +1681,7 @@ export const canales= [
      "mpeg4": "239.255.5.120",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c5\/HGTV_US_Logo_2015.svg\/200px-HGTV_US_Logo_2015.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/200px-HGTV_US_Logo_2015.svg.png"
     },
     {
      "id": "151",
@@ -1692,7 +1692,7 @@ export const canales= [
      "mpeg4": "239.255.5.112",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/media-prod.press.discovery.com\/ugc\/logos\/2012\/12\/19\/thumbnails\/sci-horiz__.jpg"
+     "src": "https://media-prod.press.discovery.com/ugc/logos/2012/12/19/thumbnails/sci-horiz__.jpg"
     },
     {
      "id": "152",
@@ -1703,7 +1703,7 @@ export const canales= [
      "mpeg4": "239.255.3.237",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c9\/History2_logo_%282022%29.svg\/110px-History2_logo_%282022%29.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/110px-History2_logo_%282022%29.svg.png"
     },
     {
      "id": "153",
@@ -1714,7 +1714,7 @@ export const canales= [
      "mpeg4": "239.255.5.13",
      "criticidad": 2,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/24\/TNT_Logo_2016.svg\/115px-TNT_Logo_2016.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png"
     },
     {
      "id": "154",
@@ -1725,7 +1725,7 @@ export const canales= [
      "mpeg4": "239.255.3.163",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/e6\/CinecanalLA.png\/150px-CinecanalLA.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/150px-CinecanalLA.png"
     },
     {
      "id": "155",
@@ -1736,7 +1736,7 @@ export const canales= [
      "mpeg4": "239.255.3.49",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/cd\/Film%26Arts2016.png\/200px-Film%26Arts2016.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film%26Arts2016.png/200px-Film%26Arts2016.png"
     },
     {
      "id": "156",
@@ -1747,7 +1747,7 @@ export const canales= [
      "mpeg4": "239.255.3.164",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/cdn.mitvstatic.com\/channelTelsurs\/pe_space_m.png"
+     "src": "https://cdn.mitvstatic.com/channelTelsurs/pe_space_m.png"
     },
     {
      "id": "157",
@@ -1758,7 +1758,7 @@ export const canales= [
      "mpeg4": "239.255.5.36",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/74\/StudioUniversal2016.png\/293px-StudioUniversal2016.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/293px-StudioUniversal2016.png"
     },
     {
      "id": "158",
@@ -1769,7 +1769,7 @@ export const canales= [
      "mpeg4": "239.255.3.236",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/www.directv.cl\/content\/dam\/public-sites\/channelTelsurs\/1210.png"
+     "src": "https://www.directv.cl/content/dam/public-sites/channelTelsurs/1210.png"
     },
     {
      "id": "159",
@@ -1780,7 +1780,7 @@ export const canales= [
      "mpeg4": "239.255.2.245",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/www.eurochannelTelsur.com\/images\/Logo_EurochannelTelsur-Blue.png"
+     "src": "https://www.eurochannelTelsur.com/images/Logo_EurochannelTelsur-Blue.png"
     },
     {
      "id": "160",
@@ -1791,7 +1791,7 @@ export const canales= [
      "mpeg4": "239.255.3.64",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/www.europaeuropa.tv\/theme\/assets\/ee-logo.png"
+     "src": "https://www.europaeuropa.tv/theme/assets/ee-logo.png"
     },
     {
      "id": "161",
@@ -1802,7 +1802,7 @@ export const canales= [
      "mpeg4": "239.255.5.68",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/20\/I.Sat_logo.svg\/150px-I.Sat_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/150px-I.Sat_logo.svg.png"
     },
     {
      "id": "162",
@@ -1813,7 +1813,7 @@ export const canales= [
      "mpeg4": "239.255.3.39",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/mediaplan.com.gt\/wp-content\/uploads\/2021\/03\/logoCineFamiliar.png"
+     "src": "https://mediaplan.com.gt/wp-content/uploads/2021/03/logoCineFamiliar.png"
     },
     {
      "id": "163",
@@ -1824,7 +1824,7 @@ export const canales= [
      "mpeg4": "239.255.3.217",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/11\/Cinemax_%28Yellow%29.svg\/349px-Cinemax_%28Yellow%29.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/349px-Cinemax_%28Yellow%29.svg.png"
     },
     {
      "id": "164",
@@ -1835,7 +1835,7 @@ export const canales= [
      "mpeg4": "239.255.5.14",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f4\/TCM_Latam_logo.svg\/120px-TCM_Latam_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/120px-TCM_Latam_logo.svg.png"
     },
     {
      "id": "165",
@@ -1846,7 +1846,7 @@ export const canales= [
      "mpeg4": "239.255.3.26",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/22\/HBO_Family.svg\/130px-HBO_Family.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png"
     },
     {
      "id": "166",
@@ -1857,7 +1857,7 @@ export const canales= [
      "mpeg4": "239.255.2.161",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9e\/HBO_Signature.svg\/135px-HBO_Signature.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/135px-HBO_Signature.svg.png"
     },
     {
      "id": "167",
@@ -1868,7 +1868,7 @@ export const canales= [
      "mpeg4": "239.255.3.213",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/de\/HBO_logo.svg\/125px-HBO_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png"
     },
     {
      "id": "168",
@@ -1879,7 +1879,7 @@ export const canales= [
      "mpeg4": "239.255.2.162",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/6c\/HBO2_logo.svg\/149px-HBO2_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png"
     },
     {
      "id": "169",
@@ -1890,7 +1890,7 @@ export const canales= [
      "mpeg4": "239.255.2.164",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f9\/Logohboplus2019.svg\/125px-Logohboplus2019.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png"
     },
     {
      "id": "170",
@@ -1901,7 +1901,7 @@ export const canales= [
      "mpeg4": "239.255.3.216",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/e1\/HBO_Mundi.svg\/125px-HBO_Mundi.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/125px-HBO_Mundi.svg.png"
     },
     {
      "id": "171",
@@ -1912,7 +1912,7 @@ export const canales= [
      "mpeg4": "239.255.3.70",
      "criticidad": 3,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/fc\/HBO_Xtreme.svg\/130px-HBO_Xtreme.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png"
     },
     {
      "id": "172",
@@ -1933,7 +1933,7 @@ export const canales= [
      "mpeg4": "239.255.2.101",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/de\/HBO_logo.svg\/125px-HBO_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png"
     },
     {
      "id": "174",
@@ -1944,7 +1944,7 @@ export const canales= [
      "mpeg4": "239.255.2.251",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/1b\/HBO_Pop.svg\/130px-HBO_Pop.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/130px-HBO_Pop.svg.png"
     },
     {
      "id": "175",
@@ -1955,7 +1955,7 @@ export const canales= [
      "mpeg4": "239.255.3.103",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/bb\/Disney_Junior.svg\/800px-Disney_Junior.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/800px-Disney_Junior.svg.png"
     },
     {
      "id": "176",
@@ -1966,7 +1966,7 @@ export const canales= [
      "mpeg4": "239.255.3.104",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/fa\/ETC_2016-actual.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png"
     },
     {
      "id": "177",
@@ -1977,7 +1977,7 @@ export const canales= [
      "mpeg4": "239.255.2.232",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9b\/TV%2B_%282018%29.png\/800px-TV%2B_%282018%29.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/800px-TV%2B_%282018%29.png"
     },
     {
      "id": "178",
@@ -1988,7 +1988,7 @@ export const canales= [
      "mpeg4": "239.255.2.232",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/www.ecured.cu\/images\/5\/5a\/Sdrfgd.png"
+     "src": "https://www.ecured.cu/images/5/5a/Sdrfgd.png"
     },
     {
      "id": "179",
@@ -1999,7 +1999,7 @@ export const canales= [
      "mpeg4": "239.255.2.233",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/10\/La_Red_Logotipo_2021.svg\/200px-La_Red_Logotipo_2021.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/200px-La_Red_Logotipo_2021.svg.png"
     },
     {
      "id": "180",
@@ -2010,7 +2010,7 @@ export const canales= [
      "mpeg4": "239.255.2.233",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/brandemia.org\/sites\/default\/files\/sites\/default\/files\/logo_mega-despues.jpg"
+     "src": "https://brandemia.org/sites/default/files/sites/default/files/logo_mega-despues.jpg"
     },
     {
      "id": "181",
@@ -2021,7 +2021,7 @@ export const canales= [
      "mpeg4": "239.255.2.230",
      "criticidad": 1,
      "bw": 9,
-     "src": "https:\/\/www.tvn.cl\/incoming\/logotipo2020png-5317342\/alternates\/BASE_FREE\/Logotipo%282020%29.png"
+     "src": "https://www.tvn.cl/incoming/logotipo2020png-5317342/alternates/BASE_FREE/Logotipo%282020%29.png"
     },
     {
      "id": "182",
@@ -2032,7 +2032,7 @@ export const canales= [
      "mpeg4": "239.255.2.230",
      "criticidad": 1,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/5f\/Logo_de_Canal_13_HD_%282010%29.png\/800px-Logo_de_Canal_13_HD_%282010%29.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Logo_de_Canal_13_HD_%282010%29.png/800px-Logo_de_Canal_13_HD_%282010%29.png"
     },
     {
      "id": "183",
@@ -2043,7 +2043,7 @@ export const canales= [
      "mpeg4": "239.255.2.230",
      "criticidad": 1,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/66\/CNN_International_logo.svg\/162px-CNN_International_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/162px-CNN_International_logo.svg.png"
     },
     {
      "id": "184",
@@ -2054,7 +2054,7 @@ export const canales= [
      "mpeg4": "239.255.2.230",
      "criticidad": 1,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/b1\/Logotipo_Color_2_NTV%28Chile%29.svg\/3816px-Logotipo_Color_2_NTV%28Chile%29.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logotipo_Color_2_NTV%28Chile%29.svg/3816px-Logotipo_Color_2_NTV%28Chile%29.svg.png"
     },
     {
      "id": "185",
@@ -2065,7 +2065,7 @@ export const canales= [
      "mpeg4": "239.255.3.99",
      "criticidad": 2,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/14\/Emblema_de_24_Horas_TVN.svg\/150px-Emblema_de_24_Horas_TVN.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Emblema_de_24_Horas_TVN.svg/150px-Emblema_de_24_Horas_TVN.svg.png"
     },
     {
      "id": "186",
@@ -2076,7 +2076,7 @@ export const canales= [
      "mpeg4": "239.255.3.10",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/22\/HBO_Family.svg\/130px-HBO_Family.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png"
     },
     {
      "id": "187",
@@ -2087,7 +2087,7 @@ export const canales= [
      "mpeg4": "239.255.3.52",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a9\/Discovery_Kids_Logo_2021-Presente.webp\/125px-Discovery_Kids_Logo_2021-Presente.webp.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png"
     },
     {
      "id": "188",
@@ -2098,7 +2098,7 @@ export const canales= [
      "mpeg4": "239.255.3.53",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/bd\/TeenNick_2019_logo.svg\/512px-TeenNick_2019_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/512px-TeenNick_2019_logo.svg.png"
     },
     {
      "id": "189",
@@ -2109,7 +2109,7 @@ export const canales= [
      "mpeg4": "239.255.2.250",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/89\/Star_ChannelTelsur_2020.svg\/1200px-Star_ChannelTelsur_2020.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_ChannelTelsur_2020.svg/1200px-Star_ChannelTelsur_2020.svg.png"
     },
     {
      "id": "190",
@@ -2120,7 +2120,7 @@ export const canales= [
      "mpeg4": "239.255.2.252",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/7e\/2015_Discovery_theater_HD_logo.svg\/320px-2015_Discovery_theater_HD_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/320px-2015_Discovery_theater_HD_logo.svg.png"
     },
     {
      "id": "191",
@@ -2131,7 +2131,7 @@ export const canales= [
      "mpeg4": "239.255.2.253",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/1d\/Love_Nature_TV.png\/170px-Love_Nature_TV.png"
+     "src": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png"
     },
     {
      "id": "192",
@@ -2142,7 +2142,7 @@ export const canales= [
      "mpeg4": "239.255.2.109",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/85\/World_Discovery_HD_logo.svg\/320px-World_Discovery_HD_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/320px-World_Discovery_HD_logo.svg.png"
     },
     {
      "id": "193",
@@ -2153,7 +2153,7 @@ export const canales= [
      "mpeg4": "239.255.2.105",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/32\/History_HD_Logo.svg\/800px-History_HD_Logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/800px-History_HD_Logo.svg.png"
     },
     {
      "id": "194",
@@ -2164,7 +2164,7 @@ export const canales= [
      "mpeg4": "239.255.3.242",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/8d\/NHK_World-Japan_TV.svg\/512px-NHK_World-Japan_TV.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"
     },
     {
      "id": "195",
@@ -2175,7 +2175,7 @@ export const canales= [
      "mpeg4": "239.255.3.112",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/www.directv.cl\/content\/dam\/public-sites\/channelTelsurs\/223.png"
+     "src": "https://www.directv.cl/content/dam/public-sites/channelTelsurs/223.png"
     },
     {
      "id": "196",
@@ -2186,7 +2186,7 @@ export const canales= [
      "mpeg4": "239.255.3.111",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a3\/Discovery_Home_%26_Health_logo.svg\/150px-Discovery_Home_%26_Health_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/150px-Discovery_Home_%26_Health_logo.svg.png"
     },
     {
      "id": "197",
@@ -2197,7 +2197,7 @@ export const canales= [
      "mpeg4": "239.255.3.174",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/58\/UATV.png\/320px-UATV.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/UATV.png/320px-UATV.png"
     },
     {
      "id": "198",
@@ -2208,7 +2208,7 @@ export const canales= [
      "mpeg4": "239.255.2.152",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/www.directv.cl\/content\/dam\/public-sites\/channelTelsurs\/1156.png"
+     "src": "https://www.directv.cl/content/dam/public-sites/channelTelsurs/1156.png"
     },
     {
      "id": "199",
@@ -2219,7 +2219,7 @@ export const canales= [
      "mpeg4": "239.255.2.153",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/media.licdn.com\/dms\/image\/C510BAQEBuxnuTcXbKw\/company-logo_200_200\/0\/1631363383859?e=2147483647&v=beta&t=UuMNybUJvXivbtmZk2iDL99BwFdzsK5-FF0htvGBU0A"
+     "src": "https://media.licdn.com/dms/image/C510BAQEBuxnuTcXbKw/company-logo_200_200/0/1631363383859?e=2147483647&v=beta&t=UuMNybUJvXivbtmZk2iDL99BwFdzsK5-FF0htvGBU0A"
     },
     {
      "id": "200",
@@ -2230,7 +2230,7 @@ export const canales= [
      "mpeg4": "239.255.2.89",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/pbs.twimg.com\/profile_images\/421716542946955264\/hBlmbZpL_400x400.png"
+     "src": "https://pbs.twimg.com/profile_images/421716542946955264/hBlmbZpL_400x400.png"
     },
     {
      "id": "201",
@@ -2241,7 +2241,7 @@ export const canales= [
      "mpeg4": "239.255.2.154",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/pbs.twimg.com\/profile_images\/705138470050631680\/gypFDeR4_400x400.jpg"
+     "src": "https://pbs.twimg.com/profile_images/705138470050631680/gypFDeR4_400x400.jpg"
     },
     {
      "id": "202",
@@ -2252,7 +2252,7 @@ export const canales= [
      "mpeg4": "239.255.3.91",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/22\/Nat_Geo_HD.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png"
     },
     {
      "id": "203",
@@ -2263,7 +2263,7 @@ export const canales= [
      "mpeg4": "239.255.3.119",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/98\/Casi_Discovery_HD.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Casi_Discovery_HD.png"
     },
     {
      "id": "204",
@@ -2274,7 +2274,7 @@ export const canales= [
      "mpeg4": "239.255.3.102",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/20\/2018_Animal_Planet_logo.svg\/800px-2018_Animal_Planet_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png"
     },
     {
      "id": "205",
@@ -2285,7 +2285,7 @@ export const canales= [
      "mpeg4": "239.255.3.92",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/84\/DreamWorks_ChannelTelsur_Logo.svg\/800px-DreamWorks_ChannelTelsur_Logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_ChannelTelsur_Logo.svg/800px-DreamWorks_ChannelTelsur_Logo.svg.png"
     },
     {
      "id": "206",
@@ -2296,7 +2296,7 @@ export const canales= [
      "mpeg4": "239.255.3.92",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/www.zoomookids.com.br\/wp-content\/uploads\/2022\/11\/cropped-shadow-zoomoo-kids-logo.png"
+     "src": "https://www.zoomookids.com.br/wp-content/uploads/2022/11/cropped-shadow-zoomoo-kids-logo.png"
     },
     {
      "id": "207",
@@ -2307,7 +2307,7 @@ export const canales= [
      "mpeg4": "239.255.3.92",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/0f\/Logo_tvu.png\/1200px-Logo_tvu.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_tvu.png/1200px-Logo_tvu.png"
     },
     {
      "id": "208",
@@ -2318,7 +2318,7 @@ export const canales= [
      "mpeg4": "239.255.5.141",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/cdn-w.tvdaldia.cl\/canales\/logo_mega2.png"
+     "src": "https://cdn-w.tvdaldia.cl/canales/logo_mega2.png"
     },
     {
      "id": "209",
@@ -2329,7 +2329,7 @@ export const canales= [
      "mpeg4": "239.255.5.141",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/play-lh.googleusercontent.com\/ZSXT5fTtuC-AeszYYOWdulWQbU-gJMFRZ1tuf5Q2eJYSaOnQinFGikcG1qHxcE6pk2rl"
+     "src": "https://play-lh.googleusercontent.com/ZSXT5fTtuC-AeszYYOWdulWQbU-gJMFRZ1tuf5Q2eJYSaOnQinFGikcG1qHxcE6pk2rl"
     },
     {
      "id": "210",
@@ -2340,7 +2340,7 @@ export const canales= [
      "mpeg4": "239.255.5.141",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/www.directv.cl\/content\/dam\/public-sites\/channelTelsurs\/1312.png"
+     "src": "https://www.directv.cl/content/dam/public-sites/channelTelsurs/1312.png"
     },
     {
      "id": "211",
@@ -2351,7 +2351,7 @@ export const canales= [
      "mpeg4": "239.255.3.11",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/www.directv.cl\/content\/dam\/public-sites\/channelTelsurs\/622.png"
+     "src": "https://www.directv.cl/content/dam/public-sites/channelTelsurs/622.png"
     },
     {
      "id": "212",
@@ -2362,7 +2362,7 @@ export const canales= [
      "mpeg4": "239.255.3.11",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/www.directv.cl\/content\/dam\/public-sites\/channelTelsurs\/1631_CL.png"
+     "src": "https://www.directv.cl/content/dam/public-sites/channelTelsurs/1631_CL.png"
     },
     {
      "id": "213",
@@ -2373,7 +2373,7 @@ export const canales= [
      "mpeg4": "239.255.3.208",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/cdn.mitvstatic.com\/channelTelsurs\/cl_fox-sports-1-hd_m.png"
+     "src": "https://cdn.mitvstatic.com/channelTelsurs/cl_fox-sports-1-hd_m.png"
     },
     {
      "id": "214",
@@ -2384,7 +2384,7 @@ export const canales= [
      "mpeg4": "239.255.3.188",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/s3.us-east-1.amazonaws.com\/forofms.na\/gallery\/category_7\/large.gallery_8863_7_25047.png.57c879e05ccde149e497f4ef896e1240.png"
+     "src": "https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8863_7_25047.png.57c879e05ccde149e497f4ef896e1240.png"
     },
     {
      "id": "215",
@@ -2395,7 +2395,7 @@ export const canales= [
      "mpeg4": "239.255.3.12",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/www.directv.cl\/content\/dam\/public-sites\/channelTelsurs\/637_CL.png"
+     "src": "https://www.directv.cl/content/dam/public-sites/channelTelsurs/637_CL.png"
     },
     {
      "id": "216",
@@ -2406,7 +2406,7 @@ export const canales= [
      "mpeg4": "239.255.2,156",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a3\/GolTV_logo.svg\/100px-GolTV_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/100px-GolTV_logo.svg.png"
     },
     {
      "id": "217",
@@ -2417,7 +2417,7 @@ export const canales= [
      "mpeg4": "239.255.2,156",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/54\/TyC_Sports_logo.svg\/1920px-TyC_Sports_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1920px-TyC_Sports_logo.svg.png"
     },
     {
      "id": "218",
@@ -2428,7 +2428,7 @@ export const canales= [
      "mpeg4": "239.255.2.157",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/assets-global.website-files.com\/605a3cacba514a77ca2e6ab5\/6065f665a567a9739a970cc5_teletrak.jpeg"
+     "src": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f665a567a9739a970cc5_teletrak.jpeg"
     },
     {
      "id": "219",
@@ -2439,7 +2439,7 @@ export const canales= [
      "mpeg4": "239.255.3.33",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/dd\/Espnhd.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png"
     },
     {
      "id": "220",
@@ -2450,7 +2450,7 @@ export const canales= [
      "mpeg4": "239.255.3.33",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/41\/ESPN_Extra_Logo_2022.webp\/750px-ESPN_Extra_Logo_2022.webp.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png"
     },
     {
      "id": "221",
@@ -2461,7 +2461,7 @@ export const canales= [
      "mpeg4": "239.255.3.185",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/www.directv.cl\/content\/dam\/public-sites\/channelTelsurs\/623.png"
+     "src": "https://www.directv.cl/content/dam/public-sites/channelTelsurs/623.png"
     },
     {
      "id": "222",
@@ -2472,7 +2472,7 @@ export const canales= [
      "mpeg4": "239.255.3.189",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/s3.us-east-1.amazonaws.com\/forofms.na\/gallery\/category_7\/large.gallery_8863_7_11394.png.fa1a5e8a9a3a836e2639328d9638374f.png"
+     "src": "https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8863_7_11394.png.fa1a5e8a9a3a836e2639328d9638374f.png"
     },
     {
      "id": "223",
@@ -2483,7 +2483,7 @@ export const canales= [
      "mpeg4": "239.255.5.151",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/www.altice.com.do\/sites\/default\/files\/styles\/teaser_device\/public\/2023-04\/464-ESPN-4.png.jpg?itok=Fc1ywQqV"
+     "src": "https://www.altice.com.do/sites/default/files/styles/teaser_device/public/2023-04/464-ESPN-4.png.jpg?itok=Fc1ywQqV"
     },
     {
      "id": "224",
@@ -2494,7 +2494,7 @@ export const canales= [
      "mpeg4": "239.255.5.151",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/www.altice.com.do\/sites\/default\/files\/styles\/teaser_device\/public\/assets\/channelTelsur\/E.png.jpg?itok=CPqlMtiD"
+     "src": "https://www.altice.com.do/sites/default/files/styles/teaser_device/public/assets/channelTelsur/E.png.jpg?itok=CPqlMtiD"
     },
     {
      "id": "225",
@@ -2505,7 +2505,7 @@ export const canales= [
      "mpeg4": "239.255.5.151",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/www.gtd.cl\/documents\/862366\/7183626\/History_2_HD.png\/f5352fc9-25d4-bb74-c1f2-bca84c2f50a9?t=1672944420283"
+     "src": "https://www.gtd.cl/documents/862366/7183626/History_2_HD.png/f5352fc9-25d4-bb74-c1f2-bca84c2f50a9?t=1672944420283"
     },
     {
      "id": "226",
@@ -2516,7 +2516,7 @@ export const canales= [
      "mpeg4": "239.255.5.151",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/s3.us-east-1.amazonaws.com\/forofms.na\/gallery\/category_7\/large.gallery_1163_7_84391.png.ad07482ef2ff1e743e436386d85b9f42.png"
+     "src": "https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_1163_7_84391.png.ad07482ef2ff1e743e436386d85b9f42.png"
     },
     {
      "id": "227",
@@ -2527,7 +2527,7 @@ export const canales= [
      "mpeg4": "239.255.2.107",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/42\/Universal_TV_logo.svg\/1200px-Universal_TV_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png"
     },
     {
      "id": "228",
@@ -2538,7 +2538,7 @@ export const canales= [
      "mpeg4": "239.255.2.107",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/www.directv.cl\/content\/dam\/public-sites\/channelTelsurs\/1508.png"
+     "src": "https://www.directv.cl/content/dam/public-sites/channelTelsurs/1508.png"
     },
     {
      "id": "229",
@@ -2549,7 +2549,7 @@ export const canales= [
      "mpeg4": "239.255.2.107",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/www.directv.cl\/content\/dam\/public-sites\/channelTelsurs\/1510.png"
+     "src": "https://www.directv.cl/content/dam/public-sites/channelTelsurs/1510.png"
     },
     {
      "id": "230",
@@ -2560,7 +2560,7 @@ export const canales= [
      "mpeg4": "239.255.2.227",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/www.directv.cl\/content\/dam\/public-sites\/channelTelsurs\/1209.png"
+     "src": "https://www.directv.cl/content/dam/public-sites/channelTelsurs/1209.png"
     },
     {
      "id": "231",
@@ -2571,7 +2571,7 @@ export const canales= [
      "mpeg4": "239.255.2.236",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/www.directv.cl\/content\/dam\/public-sites\/channelTelsurs\/1506.png"
+     "src": "https://www.directv.cl/content/dam/public-sites/channelTelsurs/1506.png"
     },
     {
      "id": "232",
@@ -2582,7 +2582,7 @@ export const canales= [
      "mpeg4": "239.255.3.22",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/www.directv.cl\/content\/dam\/public-sites\/channelTelsurs\/1217.png"
+     "src": "https://www.directv.cl/content/dam/public-sites/channelTelsurs/1217.png"
     },
     {
      "id": "233",
@@ -2593,7 +2593,7 @@ export const canales= [
      "mpeg4": "239.255.2.237",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/www.directv.cl\/content\/dam\/public-sites\/channelTelsurs\/1207.png"
+     "src": "https://www.directv.cl/content/dam/public-sites/channelTelsurs/1207.png"
     },
     {
      "id": "234",
@@ -2604,7 +2604,7 @@ export const canales= [
      "mpeg4": "239.255.3.129",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/68\/Telemundo_logo_2018.svg\/150px-Telemundo_logo_2018.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png"
     },
     {
      "id": "235",
@@ -2615,7 +2615,7 @@ export const canales= [
      "mpeg4": "239.255.2.159",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/www.tumundo.cl\/wp-content\/uploads\/2022\/11\/Azteca_Internacional_Logo-1.jpg"
+     "src": "https://www.tumundo.cl/wp-content/uploads/2022/11/Azteca_Internacional_Logo-1.jpg"
     },
     {
      "id": "236",
@@ -2626,7 +2626,7 @@ export const canales= [
      "mpeg4": "239.255.2.231",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/ef\/Logotipo_de_Rec_TV.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Logotipo_de_Rec_TV.png"
     },
     {
      "id": "237",
@@ -2637,7 +2637,7 @@ export const canales= [
      "mpeg4": "239.255.2.160",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/e0\/TV_Azteca_Coraz%C3%B3n_logo.svg\/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png"
     },
     {
      "id": "238",
@@ -2648,7 +2648,7 @@ export const canales= [
      "mpeg4": "239.255.3.46",
      "criticidad": 3,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/8a\/France24.png\/125px-France24.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/125px-France24.png"
     },
     {
      "id": "239",
@@ -2659,7 +2659,7 @@ export const canales= [
      "mpeg4": "239.255.2.243",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d7\/USA_Network_logo_%282016%29.svg\/200px-USA_Network_logo_%282016%29.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/200px-USA_Network_logo_%282016%29.svg.png"
     },
     {
      "id": "240",
@@ -2670,7 +2670,7 @@ export const canales= [
      "mpeg4": "239.255.2.243",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/47\/America_Televisi%C3%B3n-logo.svg\/799px-America_Televisi%C3%B3n-logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/America_Televisi%C3%B3n-logo.svg/799px-America_Televisi%C3%B3n-logo.svg.png"
     },
     {
      "id": "241",
@@ -2681,7 +2681,7 @@ export const canales= [
      "mpeg4": "239.255.2.243",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d7\/USA_Network_logo_%282016%29.svg\/200px-USA_Network_logo_%282016%29.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/200px-USA_Network_logo_%282016%29.svg.png"
     },
     {
      "id": "242",
@@ -2692,7 +2692,7 @@ export const canales= [
      "mpeg4": "239.255.2.243",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/e4\/Adult_Swim_2003_logo.svg\/320px-Adult_Swim_2003_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/320px-Adult_Swim_2003_logo.svg.png"
     },
     {
      "id": "243",
@@ -2703,7 +2703,7 @@ export const canales= [
      "mpeg4": "239.255.2.243",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/ec\/Discovery_Turbo_logo.svg\/180px-Discovery_Turbo_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png"
     },
     {
      "id": "244",
@@ -2714,7 +2714,7 @@ export const canales= [
      "mpeg4": "239.255.2.243",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/www.directv.cl\/content\/dam\/public-sites\/channelTelsurs\/740.png"
+     "src": "https://www.directv.cl/content/dam/public-sites/channelTelsurs/740.png"
     },
     {
      "id": "245",
@@ -2725,7 +2725,7 @@ export const canales= [
      "mpeg4": "239.255.2.243",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c5\/HGTV_US_Logo_2015.svg\/200px-HGTV_US_Logo_2015.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/200px-HGTV_US_Logo_2015.svg.png"
     },
     {
      "id": "246",
@@ -2736,7 +2736,7 @@ export const canales= [
      "mpeg4": "239.255.2.243",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/media-prod.press.discovery.com\/ugc\/logos\/2012\/12\/19\/thumbnails\/sci-horiz__.jpg"
+     "src": "https://media-prod.press.discovery.com/ugc/logos/2012/12/19/thumbnails/sci-horiz__.jpg"
     },
     {
      "id": "247",
@@ -2747,7 +2747,7 @@ export const canales= [
      "mpeg4": "239.255.2.235",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/fd\/MTV_Live_HD_2017_logo.svg\/614px-MTV_Live_HD_2017_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/614px-MTV_Live_HD_2017_logo.svg.png"
     },
     {
      "id": "248",
@@ -2758,7 +2758,7 @@ export const canales= [
      "mpeg4": "239.255.2.155",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/scontent.fscl1-1.fna.fbcdn.net\/v\/t39.30808-6\/306754489_515811403885355_2171042215730757009_n.png?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHCnlaDZB3_N7dJddzWhHqbL8Myx-CN0hAvwzLH4I3SEKjd5q7iYEf-v7dfEm6aAdc&_nc_ohc=xSDZWy-E3vMAX8Kk-u3&_nc_ht=scontent.fscl1-1.fna&oh=00_AfCUUvbHY3D05KJvLcA1ZVGoiAqvnH524d_W7REh9m36_A&oe=65618439"
+     "src": "https://scontent.fscl1-1.fna.fbcdn.net/v/t39.30808-6/306754489_515811403885355_2171042215730757009_n.png?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHCnlaDZB3_N7dJddzWhHqbL8Myx-CN0hAvwzLH4I3SEKjd5q7iYEf-v7dfEm6aAdc&_nc_ohc=xSDZWy-E3vMAX8Kk-u3&_nc_ht=scontent.fscl1-1.fna&oh=00_AfCUUvbHY3D05KJvLcA1ZVGoiAqvnH524d_W7REh9m36_A&oe=65618439"
     },
     {
      "id": "249",
@@ -2769,7 +2769,7 @@ export const canales= [
      "mpeg4": "239.255.3.97",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/e1\/HBO_Mundi.svg\/1200px-HBO_Mundi.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png"
     },
     {
      "id": "250",
@@ -2780,7 +2780,7 @@ export const canales= [
      "mpeg4": "239.255.3.95",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/bitred.cl\/img\/canales\/peliculas\/cine-premiun.webp"
+     "src": "https://bitred.cl/img/canales/peliculas/cine-premiun.webp"
     },
     {
      "id": "251",
@@ -2791,7 +2791,7 @@ export const canales= [
      "mpeg4": "239.255.3.124",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/bittchannelTelsur.com\/wp-content\/uploads\/2023\/05\/02.Logo-Cine-Familiar-Alpha-AOriginal-1024x576.png"
+     "src": "https://bittchannelTelsur.com/wp-content/uploads/2023/05/02.Logo-Cine-Familiar-Alpha-AOriginal-1024x576.png"
     },
     {
      "id": "252",
@@ -2802,7 +2802,7 @@ export const canales= [
      "mpeg4": "239.255.2.228",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/s3.us-east-1.amazonaws.com\/forofms.na\/monthly_2016_07\/small.5786a2a967697_TNTHD.png.51bd31f11fde354163821d0d9130bb35.png"
+     "src": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2016_07/small.5786a2a967697_TNTHD.png.51bd31f11fde354163821d0d9130bb35.png"
     },
     {
      "id": "253",
@@ -2813,7 +2813,7 @@ export const canales= [
      "mpeg4": "239.255.3.94",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/scontent.fscl1-1.fna.fbcdn.net\/v\/t39.30808-6\/310732348_200539515677550_8348203713119663632_n.png?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHO0K_gPn3ZX-IW-64e4Ux3wXKmBX6x3CjBcqYFfrHcKNyLSpWUfF8rP5P4xqOPJzw&_nc_ohc=pqRASPmafuwAX8Bz10q&_nc_ht=scontent.fscl1-1.fna&oh=00_AfCLFuoFSzunabSq2ZPlrtV1H924SNEe2YCj8mXSeo2EbQ&oe=6562544B"
+     "src": "https://scontent.fscl1-1.fna.fbcdn.net/v/t39.30808-6/310732348_200539515677550_8348203713119663632_n.png?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHO0K_gPn3ZX-IW-64e4Ux3wXKmBX6x3CjBcqYFfrHcKNyLSpWUfF8rP5P4xqOPJzw&_nc_ohc=pqRASPmafuwAX8Bz10q&_nc_ht=scontent.fscl1-1.fna&oh=00_AfCLFuoFSzunabSq2ZPlrtV1H924SNEe2YCj8mXSeo2EbQ&oe=6562544B"
     },
     {
      "id": "254",
@@ -2824,7 +2824,7 @@ export const canales= [
      "mpeg4": "239.255.3.229",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/cdn.mitvstatic.com\/channelTelsurs\/co_cinecanal-sd-hd-1_m.png"
+     "src": "https://cdn.mitvstatic.com/channelTelsurs/co_cinecanal-sd-hd-1_m.png"
     },
     {
      "id": "255",
@@ -2835,7 +2835,7 @@ export const canales= [
      "mpeg4": "239.255.3.212",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9e\/HBO_Signature.svg\/135px-HBO_Signature.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/135px-HBO_Signature.svg.png"
     },
     {
      "id": "256",
@@ -2846,7 +2846,7 @@ export const canales= [
      "mpeg4": "239.255.3.221",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/6c\/HBO2_logo.svg\/149px-HBO2_logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png"
     },
     {
      "id": "257",
@@ -2857,7 +2857,7 @@ export const canales= [
      "mpeg4": " '",
      "criticidad": " '",
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f9\/Logohboplus2019.svg\/125px-Logohboplus2019.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png"
     },
     {
      "id": "258",
@@ -2868,7 +2868,7 @@ export const canales= [
      "mpeg4": "239.255.3.55",
      "criticidad": 4,
      "bw": 9,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/fc\/HBO_Xtreme.svg\/130px-HBO_Xtreme.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png"
     },
     {
      "id": "259",
@@ -2879,7 +2879,7 @@ export const canales= [
      "mpeg4": "239.255.3.146",
      "criticidad": 4,
      "bw": 3.5,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/46\/Telsur_logo_2019.svg\/1200px-Telsur_logo_2019.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Telsur_logo_2019.svg/1200px-Telsur_logo_2019.svg.png"
     },
     {
      "id": "260",
@@ -2890,7 +2890,7 @@ export const canales= [
      "mpeg4": "239.255.2.213",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "261",
@@ -2901,7 +2901,7 @@ export const canales= [
      "mpeg4": "239.255.2.218",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "262",
@@ -2912,7 +2912,7 @@ export const canales= [
      "mpeg4": "239.255.2.192",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "263",
@@ -2923,7 +2923,7 @@ export const canales= [
      "mpeg4": "239.255.2.185",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "264",
@@ -2934,7 +2934,7 @@ export const canales= [
      "mpeg4": "239.255.2.217",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "265",
@@ -2945,7 +2945,7 @@ export const canales= [
      "mpeg4": "239.255.2.197",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "266",
@@ -2956,7 +2956,7 @@ export const canales= [
      "mpeg4": "239.255.2.211",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "267",
@@ -2967,7 +2967,7 @@ export const canales= [
      "mpeg4": "239.255.2.219",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "268",
@@ -2978,7 +2978,7 @@ export const canales= [
      "mpeg4": "239.255.2.191",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "269",
@@ -2989,7 +2989,7 @@ export const canales= [
      "mpeg4": "239.255.2.220",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "270",
@@ -3000,7 +3000,7 @@ export const canales= [
      "mpeg4": "239.255.2.184",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "271",
@@ -3011,7 +3011,7 @@ export const canales= [
      "mpeg4": "239.255.2.34",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "272",
@@ -3022,7 +3022,7 @@ export const canales= [
      "mpeg4": "239.255.2.216",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "273",
@@ -3033,7 +3033,7 @@ export const canales= [
      "mpeg4": "239.255.2.198",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "274",
@@ -3044,7 +3044,7 @@ export const canales= [
      "mpeg4": "239.255.2.222",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "275",
@@ -3055,7 +3055,7 @@ export const canales= [
      "mpeg4": "239.255.2.182",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "276",
@@ -3066,7 +3066,7 @@ export const canales= [
      "mpeg4": "239.255.2.180",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "277",
@@ -3077,7 +3077,7 @@ export const canales= [
      "mpeg4": "239.255.2.186",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "278",
@@ -3088,7 +3088,7 @@ export const canales= [
      "mpeg4": "239.255.2.202",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "279",
@@ -3099,7 +3099,7 @@ export const canales= [
      "mpeg4": "239.255.2.195",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "280",
@@ -3110,7 +3110,7 @@ export const canales= [
      "mpeg4": "239.255.2.192",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "281",
@@ -3121,7 +3121,7 @@ export const canales= [
      "mpeg4": "239.255.2.210",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "282",
@@ -3132,7 +3132,7 @@ export const canales= [
      "mpeg4": "239.255.2.183",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "283",
@@ -3143,7 +3143,7 @@ export const canales= [
      "mpeg4": "239.255.2.221",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "284",
@@ -3154,7 +3154,7 @@ export const canales= [
      "mpeg4": "239.255.2.190",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "285",
@@ -3165,7 +3165,7 @@ export const canales= [
      "mpeg4": "239.255.2.209",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "286",
@@ -3176,7 +3176,7 @@ export const canales= [
      "mpeg4": "239.255.2.205",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "287",
@@ -3187,7 +3187,7 @@ export const canales= [
      "mpeg4": "239.255.2.193",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "288",
@@ -3198,7 +3198,7 @@ export const canales= [
      "mpeg4": "239.255.2.204",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "289",
@@ -3209,7 +3209,7 @@ export const canales= [
      "mpeg4": "239.255.2.214",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "290",
@@ -3220,7 +3220,7 @@ export const canales= [
      "mpeg4": "239.255.2.178",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "291",
@@ -3231,7 +3231,7 @@ export const canales= [
      "mpeg4": "239.255.2.203",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "292",
@@ -3242,7 +3242,7 @@ export const canales= [
      "mpeg4": "239.255.2.201",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "293",
@@ -3253,7 +3253,7 @@ export const canales= [
      "mpeg4": "239.255.2.212",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "294",
@@ -3264,7 +3264,7 @@ export const canales= [
      "mpeg4": "239.255.2.196",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "295",
@@ -3275,7 +3275,7 @@ export const canales= [
      "mpeg4": "239.255.2.187",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "296",
@@ -3286,7 +3286,7 @@ export const canales= [
      "mpeg4": "239.255.2.189",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "297",
@@ -3297,7 +3297,7 @@ export const canales= [
      "mpeg4": "239.255.2.177",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "298",
@@ -3308,7 +3308,7 @@ export const canales= [
      "mpeg4": "239.255.2.207",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "299",
@@ -3319,7 +3319,7 @@ export const canales= [
      "mpeg4": "239.255.2.206",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "300",
@@ -3330,7 +3330,7 @@ export const canales= [
      "mpeg4": "239.255.2.179",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "301",
@@ -3341,7 +3341,7 @@ export const canales= [
      "mpeg4": "239.255.2.188",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "302",
@@ -3352,7 +3352,7 @@ export const canales= [
      "mpeg4": "239.255.2.200",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "303",
@@ -3363,7 +3363,7 @@ export const canales= [
      "mpeg4": "239.255.2.181",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "304",
@@ -3374,7 +3374,7 @@ export const canales= [
      "mpeg4": "239.255.2.215",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/d3kle7qwymxpcy.cloudfront.net\/images\/broadcasts\/1b\/9a\/106995\/1\/c300.png"
+     "src": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/1b/9a/106995/1/c300.png"
     },
     {
      "id": "305",
@@ -3385,7 +3385,7 @@ export const canales= [
      "mpeg4": "239.255.2.175",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "306",
@@ -3396,7 +3396,7 @@ export const canales= [
      "mpeg4": "239.255.2.223",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "307",
@@ -3407,7 +3407,7 @@ export const canales= [
      "mpeg4": "239.255.2.176",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "308",
@@ -3418,7 +3418,7 @@ export const canales= [
      "mpeg4": "239.255.2.208",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "309",
@@ -3429,7 +3429,7 @@ export const canales= [
      "mpeg4": "239.255.2.194",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/lloydminster.bigbrothersbigsisters.ca\/wp-content\/uploads\/sites\/218\/2021\/03\/Stingray-Radio-Logo.jpg"
+     "src": "https://lloydminster.bigbrothersbigsisters.ca/wp-content/uploads/sites/218/2021/03/Stingray-Radio-Logo.jpg"
     },
     {
      "id": "310",
@@ -3440,7 +3440,7 @@ export const canales= [
      "mpeg4": "239.255.3.88",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/scontent.fscl1-1.fna.fbcdn.net\/v\/t39.30808-6\/369911691_676823931143664_2950522864956371385_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHxN0f9X1vUW2jBRpnS114VpyzU-kSEtgCnLNT6RIS2AMtgXeDq3dEfRchmV1lewN0&_nc_ohc=WpVPrc32DrIAX8lTWOm&_nc_ht=scontent.fscl1-1.fna&oh=00_AfBAQK_mDoucGlkYO_MBjkrDbku9sI9GibjvqpuyC8Jj3A&oe=65620994"
+     "src": "https://scontent.fscl1-1.fna.fbcdn.net/v/t39.30808-6/369911691_676823931143664_2950522864956371385_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHxN0f9X1vUW2jBRpnS114VpyzU-kSEtgCnLNT6RIS2AMtgXeDq3dEfRchmV1lewN0&_nc_ohc=WpVPrc32DrIAX8lTWOm&_nc_ht=scontent.fscl1-1.fna&oh=00_AfBAQK_mDoucGlkYO_MBjkrDbku9sI9GibjvqpuyC8Jj3A&oe=65620994"
     },
     {
      "id": "311",
@@ -3451,7 +3451,7 @@ export const canales= [
      "mpeg4": "239.255.2.148",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/30\/Logo_Radio_concierto.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Logo_Radio_concierto.png"
     },
     {
      "id": "312",
@@ -3462,7 +3462,7 @@ export const canales= [
      "mpeg4": "239.255.3.134",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/pbs.twimg.com\/profile_images\/1201573602\/logo_chanta_400x400.jpg"
+     "src": "https://pbs.twimg.com/profile_images/1201573602/logo_chanta_400x400.jpg"
     },
     {
      "id": "313",
@@ -3473,7 +3473,7 @@ export const canales= [
      "mpeg4": "239.255.3.136",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/5c\/Rock_%26_Pop_logo_2013.svg\/225px-Rock_%26_Pop_logo_2013.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Rock_%26_Pop_logo_2013.svg/225px-Rock_%26_Pop_logo_2013.svg.png"
     },
     {
      "id": "314",
@@ -3484,7 +3484,7 @@ export const canales= [
      "mpeg4": "239.255.3.135",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/5b\/Play_FM_2018.png\/1200px-Play_FM_2018.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Play_FM_2018.png/1200px-Play_FM_2018.png"
     },
     {
      "id": "315",
@@ -3495,7 +3495,7 @@ export const canales= [
      "mpeg4": "239.255.3.132",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/58\/Logo_Radio_FMDos.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Logo_Radio_FMDos.png"
     },
     {
      "id": "316",
@@ -3506,7 +3506,7 @@ export const canales= [
      "mpeg4": "239.255.3.138",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c2\/ADN_Radio_Chile.svg\/2560px-ADN_Radio_Chile.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ADN_Radio_Chile.svg/2560px-ADN_Radio_Chile.svg.png"
     },
     {
      "id": "317",
@@ -3517,7 +3517,7 @@ export const canales= [
      "mpeg4": "239.255.3.61",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/00\/Logo_Radio_Tiempo_2018.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_Radio_Tiempo_2018.png"
     },
     {
      "id": "318",
@@ -3528,7 +3528,7 @@ export const canales= [
      "mpeg4": "239.255.3.60",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/ff\/Logo_Radio_Beethoven_FM.png\/225px-Logo_Radio_Beethoven_FM.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logo_Radio_Beethoven_FM.png/225px-Logo_Radio_Beethoven_FM.png"
     },
     {
      "id": "319",
@@ -3539,7 +3539,7 @@ export const canales= [
      "mpeg4": "239.255.3.59",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/www.futuro.cl\/wp-content\/uploads\/2021\/07\/android-chrome-512x512-1.png"
+     "src": "https://www.futuro.cl/wp-content/uploads/2021/07/android-chrome-512x512-1.png"
     },
     {
      "id": "320",
@@ -3550,7 +3550,7 @@ export const canales= [
      "mpeg4": "239.255.2.139",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/51\/LOGO-RBB-ESP.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/5/51/LOGO-RBB-ESP.png"
     },
     {
      "id": "321",
@@ -3561,7 +3561,7 @@ export const canales= [
      "mpeg4": "239.255.2.137",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/51\/LOGO-RBB-ESP.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/5/51/LOGO-RBB-ESP.png"
     },
     {
      "id": "322",
@@ -3572,7 +3572,7 @@ export const canales= [
      "mpeg4": "239.255.2.136",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/51\/LOGO-RBB-ESP.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/5/51/LOGO-RBB-ESP.png"
     },
     {
      "id": "323",
@@ -3583,7 +3583,7 @@ export const canales= [
      "mpeg4": "239.255.2.136",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/48\/Radio_El_Conquistador_91.3_FM.jpg"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Radio_El_Conquistador_91.3_FM.jpg"
     },
     {
      "id": "324",
@@ -3594,7 +3594,7 @@ export const canales= [
      "mpeg4": "239.255.3.139",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/28\/Bloomberg_Radio.svg\/512px-Bloomberg_Radio.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bloomberg_Radio.svg/512px-Bloomberg_Radio.svg.png"
     },
     {
      "id": "325",
@@ -3605,7 +3605,7 @@ export const canales= [
      "mpeg4": "239.255.3.150",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/3d\/BBC_Radio_1_2021.svg\/640px-BBC_Radio_1_2021.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BBC_Radio_1_2021.svg/640px-BBC_Radio_1_2021.svg.png"
     },
     {
      "id": "326",
@@ -3616,7 +3616,7 @@ export const canales= [
      "mpeg4": "239.255.3.151",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/69\/Deutsche_Welle_Logo.svg\/1200px-Deutsche_Welle_Logo.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/1200px-Deutsche_Welle_Logo.svg.png"
     },
     {
      "id": "327",
@@ -3627,7 +3627,7 @@ export const canales= [
      "mpeg4": "239.255.3.152",
      "criticidad": 4,
      "bw": 0.4,
-     "src": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/1d\/Rai_Radio_logo_%282010%29.svg\/2560px-Rai_Radio_logo_%282010%29.svg.png"
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Rai_Radio_logo_%282010%29.svg/2560px-Rai_Radio_logo_%282010%29.svg.png"
     }
    ]
    

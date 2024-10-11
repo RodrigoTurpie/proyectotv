@@ -3,24 +3,20 @@ import Card from "../Card/Card";
 import DetailsCard from "../DetailsCard/DetailsCard";
 import Layout from "../Layout/Layout";
 import Main from "../Main/Main";
+import SearchChannel from "../SearchChannel/SearchChannel";
 import "./App.css";
 import { Routes, Route } from "react-router-dom";
-
-
-
-
 
 function App() {
   return (
     <div className="App">
       <Routes>
-        <Route exact path="/" element={<Layout />}>
-        <Route index="index" element={<Main />}/>
-          <Route exact path="/cards" element={<Card />} />
-          <Route exact path="/search" element={<Card />} />
-          <Route exact path="/admin" element={<Admin />} />
-          <Route exact path="/details/:id" element={<DetailsCard />} />
-          
+        <Route path="/" element={<Layout />}>
+          <Route index element={<Main />} />
+          <Route path="cards" element={<Card />} />
+          <Route path="search/:id" element={<SearchChannel />} />
+          <Route path="admin" element={<Admin />} />
+          <Route path="details/:id" element={<DetailsCard />} />
         </Route>
       </Routes>
     </div>

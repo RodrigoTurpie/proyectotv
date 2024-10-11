@@ -6,6 +6,7 @@
     height: 80px;
     background: #5A7EBE;
     border-top:5px solid #FFA100;
+    border:1px solid red;
 }
 
 .header-logo{
@@ -20,4 +21,26 @@
     font-size: 24px;
     margin-left: 300px;
     font-weight: bold;
+}
+.header-buscar{
+    position: absolute;
+    top:20px;
+    left:60%;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+.header-buscar-input{
+    margin-left: 10px;
+    width: 200px;
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    font-size: 14px;
+    background: #ffffff;
+}
+
+.header-buscar-input:focus{
+    outline:3px solid #375D9D7a
+
 }

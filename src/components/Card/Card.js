@@ -1,11 +1,14 @@
-import React, { useEffect, useState } from 'react'
+import React, { useContext, useEffect, useState } from 'react'
 import {canales} from '../utils/constant.js';
 import './Card.css'
 import Loader from '../Loader/Loader.js';
 import { Link } from 'react-router-dom';
+import { UserContext } from '../../components/Context/UserContext.js'
+
 
 const Card = () => {
   const [loading, setLoading] = useState(true);
+  const nombre = useContext(UserContext)
 
   useEffect(() => {
     // Simulamos una demora de 3 segundos para el loading
@@ -17,17 +20,19 @@ const Card = () => {
     return () => clearTimeout(timer);
   }, []);
 
+
+  console.log(nombre);
   
 
   return (
     (<div className="app-container">
-      {canales.map((canal) => {
+      {canales.map((canal, index) => {
         // Estado loading por cada imagen
 
 
         return (
           (<Link to={`/details/${canal.id}`}>
-            <div className="card" key={canal.id}>
+            <div className="card" key={index}>
               <div className="card-header">
                 <h3 className="card-title">{canal.nombre}</h3>
                 <p className="card-number">{canal.channelTelsur}</p>

@@ -2,3 +2,8 @@
 .search-error{
   color:red;
 }
+.search-total{
+  width: 100%;
+  display: flex;
+  
+}

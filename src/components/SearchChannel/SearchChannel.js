@@ -31,11 +31,17 @@ const SearchChannel = () => {
     return () => clearTimeout(timer);
   }, []);
 
+  const total= mostrarFiltrado.length;
+
   return (
     <>
       {
         <>
           <div className="app-container">
+          <div className="search-total">
+          <p>{`Total elementos: ${total}`}</p>
+
+          </div>
             {mostrarFiltrado.length === 0 ? (
               <p className="search-error">
                 No hay resultados para su busqueda.

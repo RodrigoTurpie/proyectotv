@@ -20,8 +20,7 @@ function App() {
         
         <Routes>
           <Route path="/" element={<Layout />}>
-            <Route index element={<Main />} />
-            <Route path="cards" element={<Card />} />
+            <Route index element={<Card />} />
             <Route path="search/*" element={<SearchChannel nombre={nombre} />} />
             <Route path="admin" element={<Admin />} />
             <Route path="details/:id" element={<DetailsCard />} />

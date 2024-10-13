@@ -7,6 +7,7 @@ const DetailsCard = () => {
   const { id } = useParams();
   const array = api;
   const element = array.filter((item) => item.id === id)[0];
+  console.log(element.length)
   return (
     <div className="info-logo-container">
       <div className="logo-name-container">

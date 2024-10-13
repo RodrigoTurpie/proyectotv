@@ -21,11 +21,15 @@ const Card = () => {
   }, []);
 
 
-  console.log(nombre);
-  
+  console.log(nombre);  
+  const totalChannel = canales.length;
 
   return (
     (<div className="app-container">
+    <div className="search-total">
+          <p>{`Total elementos: ${totalChannel}`}</p>
+
+          </div>
       {canales.map((canal, index) => {
         // Estado loading por cada imagen
 

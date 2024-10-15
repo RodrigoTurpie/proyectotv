@@ -8,6 +8,10 @@
     box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
     padding:30px 40px;
     border-radius: 8px;
+    margin-bottom:20px;
+    align-self: flex-start;
+    margin-bottom: 150px;
+    background: #fff;
 }
 .logo-name-container{
     display: flex;
@@ -22,9 +26,20 @@
         border-radius: 5px;
         padding:10px;
 }
+.button-back{
+    width: 150px;
+    margin:0 auto ;
+    border:1px solid red;
+   
+}
+
 img{
     width: 200px;
 }
 ul{
     list-style: none;
+}
+a{
+    text-decoration: none;
+    color:#b9b5b5;
 }

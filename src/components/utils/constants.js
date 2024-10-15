@@ -12,7 +12,7 @@ export const canales = [
       "criticidad":4,
       "bw":3.5,
       "src":"https:/upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_ChannelTelsur_Logo.svg/800px-DreamWorks_ChannelTelsur_Logo.svg.png" ,
-      "proveedor":,
+      "proveedor":"Dreamworks",
       "contacto":[
         {
           "nombre":"Jorge",
